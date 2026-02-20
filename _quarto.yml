@@ -1,0 +1,27 @@
+project:
+  type: website
+website:
+  google-analytics: "G-K3765H3YGW"
+  navbar:
+   background: primary
+   search: true
+   left:
+    - text: Accueil
+      href: index.qmd
+    - text: À propos
+      href: a_propos.qmd
+    - text: Contact
+      href: https://gravatar.com/johaniefournieragr
+   right:
+    - text: Blog
+      href: posts.qmd
+  page-footer:
+   left: "© Copyright 2026 Johanie Fournier. Tous droits réservés CC-BY-NC 4.0."
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+
