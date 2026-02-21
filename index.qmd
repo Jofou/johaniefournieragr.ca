@@ -4,7 +4,6 @@ subtitle: "Analyse et compréhension des données agricoles au service de décis
 page-layout: full
 format:
  html:
-  theme: cosmo
   toc: false
   smooth-scroll: true
   title-block-banner: true
