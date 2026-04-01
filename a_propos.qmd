@@ -28,7 +28,7 @@ Les contenus publiés ici sont indépendants et reflètent une démarche personn
 
 ## Contact
 
-Pour toute question ou échange professionnel, vous pouvez me contacter [**ici**](https://johaniefournieragr.link).
+Pour toute question ou échange professionnel, vous pouvez me contacter [**ici**](https://tally.so/r/gDZMrJ).
 
 ```{r, echo=FALSE}
 magick::image_read("code_barre.png") |> 
