@@ -8,17 +8,18 @@ format:
   smooth-scroll: true
   title-block-banner: true
 listing:
-  contents: posts
+  id: sample-listings
+  contents: "posts/**"
   type: grid
   sort: "date desc"
   fields: [image, title, date, description]
-  feed: 
+  feed:
     items: 3
 ---
 
 :::::::: hero
 ```{r, echo=FALSE}
-magick::image_read("../Turning data into valuable insights.png") |>
+magick::image_read("../fr/Turning data into valuable insights.png") |>
   magick::image_scale("1500") 
 ```
 

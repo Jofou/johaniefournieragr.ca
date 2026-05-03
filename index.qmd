@@ -9,7 +9,8 @@ format:
   smooth-scroll: true
   title-block-banner: true
 listing:
-  contents: posts
+  id: sample-listings
+  contents: "./posts/**"
   type: grid
   sort: "date desc"
   fields: [image, title, date, description]
@@ -18,6 +19,10 @@ listing:
 ---
 
 :::::::: hero
+```{r, echo=FALSE}
+magick::image_read("./Turning data into valuable insights.png") |>
+  magick::image_scale("1500") 
+```
 > Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.
 
 This site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.
@@ -41,7 +46,6 @@ Interpretation methods, information organization, and critical reading of result
 ### Decision support
 
 Analytical approaches to inform agronomic decisions at the field scale.
-
 :::
 ::::::
 

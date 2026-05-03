@@ -32,25 +32,5 @@
   <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
   <media:content url="https://johaniefournieragr.ca/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
 </item>
-<item>
-  <title>Bienvenue sur mon blog!</title>
-  <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
-  <link>https://johaniefournieragr.ca/fr/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>C’est la première publication de mon blog. Bienvenue dans cette aventure!</p>
-<p><img src="https://johaniefournieragr.ca/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://johaniefournieragr.ca/fr/posts/welcome/</guid>
-  <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-</item>
 </channel>
 </rss>
