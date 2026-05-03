@@ -45,6 +45,12 @@
         var frPath = toFr(abs);
         if (frPath !== abs) a.setAttribute('href', frPath);
       });
+      document.querySelectorAll('.navbar-nav a.nav-link').forEach(function(a) {
+        var text = a.textContent.trim();
+        if (text === 'Home') a.textContent = 'Accueil';
+        if (text === 'About') a.textContent = 'À propos';
+        if (text === 'Blog') a.textContent = 'Blogue';
+      });
     }
   });
 })();
