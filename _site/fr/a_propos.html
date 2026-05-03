@@ -252,18 +252,15 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
         if (text === 'About') a.textContent = 'À propos';
         if (text === 'Blog') a.textContent = 'Blogue';
       });
-      var brand = document.querySelector('a.navbar-brand');
-      if (brand) {
-        var raw = brand.getAttribute('href');
-        if (raw && !raw.startsWith('http') && !raw.startsWith('mailto')) {
-          var abs;
-          try { abs = new URL(raw, window.location.href).pathname; } catch(e) {}
-          if (abs) {
-            var frPath = toFr(abs);
-            if (frPath !== abs) brand.setAttribute('href', frPath);
-          }
-        }
-      }
+      ['a.navbar-brand', '.navbar-title a', 'a.navbar-title'].forEach(function(sel) {
+        var el = document.querySelector(sel);
+        if (!el) return;
+        var raw = el.getAttribute('href');
+        if (!raw || raw.startsWith('http') || raw.startsWith('mailto')) return;
+        var resolved = new URL(raw, window.location.href).pathname;
+        var frPath = toFr(resolved);
+        if (frPath !== resolved) el.setAttribute('href', frPath);
+      });
     }
   });
 })();
