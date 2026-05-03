@@ -345,11 +345,11 @@ img { border-radius: 12px; }
     // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
     if (path.startsWith('/fr/')) {
       document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
-        var href = a.getAttribute('href');
-        if (!href || href.startsWith('#') || href.startsWith('http') || href.startsWith('mailto')) return;
-        // Construire le chemin absolu manuellement
-        var abs = href.startsWith('/') ? href : '/' + href;
-        if (!abs.endsWith('.html') && !abs.endsWith('/')) abs = abs + '.html';
+        var raw = a.getAttribute('href');
+        if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
+        var abs;
+        try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
+        if (abs.startsWith('http')) return;
         var frPath = toFr(abs);
         if (frPath !== abs) a.setAttribute('href', frPath);
       });
