@@ -1,388 +1,45 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome to my blog!\n\n\n\nnews\n\n\n\nThe beginning of a great adventure!\n\n\n\n\n\nFeb 16, 2026\n\n\nJohanie Fournier, agr., M.Sc.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "fr/index.html",
+    "href": "fr/index.html",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.\n\nThis site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.\n\n\n\n\n\nSoil management, drainage, within-field variability, and adaptation to changing climatic conditions.\n\n\n\nInterpretation methods, information organization, and critical reading of results.\n\n\n\nAnalytical approaches to inform agronomic decisions at the field scale.\n\n\n\n\n\nThe opinions expressed on this site are personal. For any professional inquiry, you can reach me here.\n\n\n\n\n\n\n\n\n\nLe début d’une grande aventure!\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "L’agriculture évolue dans un contexte de complexité croissante, où les données occupent une place centrale dans la compréhension des sols, des champs et des systèmes de production.\n\nCe site propose un espace d’analyse et de réflexion consacré à l’agroenvironnement, à l’interprétation des données agricoles et aux approches structurées de la prise de décision.\n\n\n\n\n\nGestion des sols, drainage, variabilité intra-parcellaire et adaptation aux conditions climatiques.\n\n\n\nMéthodes d’interprétation, organisation de l’information et lecture critique des résultats.\n\n\n\nApproches analytiques visant à éclairer les choix agronomiques à l’échelle du champ.\n\n\n\n\n\nLes opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter ici.\n\n\n\n\n\n\n\n\n\nLe début d’une grande aventure!\n\n\n\n16 févr. 2026\n\n\n\n\n\n\nAucun élément correspondant"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "J’aide les producteurs, conseillers et organisations agricoles du Québec à transformer des données climatiques, satellitaires, LiDAR et pédologiques en décisions concrètes.\n\n\nJ’accompagne aussi les fermes aquacoles dans l’analyse de leurs données environnementales et de production afin d’optimiser les pratiques alimentaires et de mieux gérer les effluents.\n\n\n\n\n\nApporter de la clarté dans un océan de données. Mon objectif : réduire le risque et augmenter la rentabilité en mettant à la portée des producteurs des analyses robustes, des visualisations simples et des outils interactifs (R/Shiny) prêts à l’emploi.\n\n\n\n\nAvec 15 ans d’expérience en analyse de données, j’ai accompagné des équipes de recherche et des entreprises agroenvironnementales pour passer du fichier brut aux décisions terrain. Je suis membre de l’Ordre des agronomes du Québec (OAQ) et j’opère à l’intersection entre la science des données et la réalité des producteurs québécois.\n\n\n\n\nCadrage — Clarifier vos objectifs agronomiques et réglementaires (incluant l’admissibilité au Réseau Agriconseil)\nDonnées — Sélectionner les sources pertinentes (climat, satellite Sentinel‑2/Landsat, LiDAR, sols/SoilGrids, données de ferme) et standardiser votre historique.\nAnalyses — Méthodes spatio‑temporelles éprouvées, indicateurs compréhensibles, et QA rigoureux.\nLivrables — Cartes, tableaux de bord Shiny guide d’interprétation et plan d’action concret.\n\n\n\n\nAgriculture de précision : zonage intraparcellaire, priorisation d’interventions, détection de stress culturaux.\nTélédection & climat : indices de végétation, suivi du stress thermique/hydrique, intégration météo‑sol.\nLiDAR & terrain : zones d’accumulation, modèles numériques de terrain.\nPédologie & fertilité : intégration sols–climat–culture pour la décision parcellaire.\nStatistiques avancées (R) : modèles mixtes, séries temporelles, validation, reproductibilité.\nAquaculture & environnement : suivi des effluents, optimisation des pratiques alimentaires, analyses temporelles en milieu aquatique.\n\n\n\n\nSimplicité : vous recevez l’essentiel — clair, actionnable et documenté.\nTransparence : scripts reproductibles (R) et protocoles de contrôle qualité.\nAdaptation au Québec : données, saisons, pratiques et réalités locales.\n\n\n\n\nR • Shiny • Sentinel‑2/Landsat • LiDAR • SoilGrids • APIs météo • Git • Markdown/Quarto\n\n\n\n\nCartes de risques (stress climatique, hydrique, compaction, érosion) pour cibler les interventions.\nTableaux de bord saisonniers (suivi des stress & fenêtres d’intervention) pour l’équipe ferme‑conseiller.\nProtocoles reproductibles pour comparer les effets d’un changement de pratique sur 1–3 saisons.\nAnalyses aquacoles : suivi du phosphore, modélisation des effluents, optimisation de la ration et impact environnemental.\n\n\n\n\nMembre OAQ — Conseillère en agriculture de précision et aquaculture - Analyste de données spatio-temporelles.\nExpérience en recherche universitaire & collaboration avec entreprises agroenvironnementales.\nAuteure de contenus techniques et formatrice.\n\n\n\n\nRigueur, pédagogie, proximité terrain, éthique des données, impact mesurable.\n\n\n\n\nCurieux(se) de voir comment vos données peuvent soutenir vos décisions cette saison? Réservez un appel de découverte (15 min) ou contactez-moi directement"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#ma-mission",
-    "href": "index.html#ma-mission",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Apporter de la clarté dans un océan de données. Mon objectif : réduire le risque et augmenter la rentabilité en mettant à la portée des producteurs des analyses robustes, des visualisations simples et des outils interactifs (R/Shiny) prêts à l’emploi."
-  },
-  {
-    "objectID": "index.html#qui-je-suis",
-    "href": "index.html#qui-je-suis",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Avec 15 ans d’expérience en analyse de données, j’ai accompagné des équipes de recherche et des entreprises agroenvironnementales pour passer du fichier brut aux décisions terrain. Je suis membre de l’Ordre des agronomes du Québec (OAQ) et j’opère à l’intersection entre la science des données et la réalité des producteurs québécois."
-  },
-  {
-    "objectID": "index.html#mon-approche-en-4-étapes",
-    "href": "index.html#mon-approche-en-4-étapes",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cadrage — Clarifier vos objectifs agronomiques et réglementaires (incluant l’admissibilité au Réseau Agriconseil)\nDonnées — Sélectionner les sources pertinentes (climat, satellite Sentinel‑2/Landsat, LiDAR, sols/SoilGrids, données de ferme) et standardiser votre historique.\nAnalyses — Méthodes spatio‑temporelles éprouvées, indicateurs compréhensibles, et QA rigoureux.\nLivrables — Cartes, tableaux de bord Shiny guide d’interprétation et plan d’action concret."
-  },
-  {
-    "objectID": "index.html#domaines-dexpertise",
-    "href": "index.html#domaines-dexpertise",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Agriculture de précision : zonage intraparcellaire, priorisation d’interventions, détection de stress culturaux.\nTélédection & climat : indices de végétation, suivi du stress thermique/hydrique, intégration météo‑sol.\nLiDAR & terrain : zones d’accumulation, modèles numériques de terrain.\nPédologie & fertilité : intégration sols–climat–culture pour la décision parcellaire.\nStatistiques avancées (R) : modèles mixtes, séries temporelles, validation, reproductibilité.\nAquaculture & environnement : suivi des effluents, optimisation des pratiques alimentaires, analyses temporelles en milieu aquatique."
-  },
-  {
-    "objectID": "index.html#ce-que-mes-clients-apprécient",
-    "href": "index.html#ce-que-mes-clients-apprécient",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Simplicité : vous recevez l’essentiel — clair, actionnable et documenté.\nTransparence : scripts reproductibles (R) et protocoles de contrôle qualité.\nAdaptation au Québec : données, saisons, pratiques et réalités locales."
-  },
-  {
-    "objectID": "index.html#outils-technologies",
-    "href": "index.html#outils-technologies",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "R • Shiny • Sentinel‑2/Landsat • LiDAR • SoilGrids • APIs météo • Git • Markdown/Quarto"
-  },
-  {
-    "objectID": "index.html#résultats-typiques",
-    "href": "index.html#résultats-typiques",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cartes de risques (stress climatique, hydrique, compaction, érosion) pour cibler les interventions.\nTableaux de bord saisonniers (suivi des stress & fenêtres d’intervention) pour l’équipe ferme‑conseiller.\nProtocoles reproductibles pour comparer les effets d’un changement de pratique sur 1–3 saisons.\nAnalyses aquacoles : suivi du phosphore, modélisation des effluents, optimisation de la ration et impact environnemental."
-  },
-  {
-    "objectID": "index.html#parcours-affiliations",
-    "href": "index.html#parcours-affiliations",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Membre OAQ — Conseillère en agriculture de précision et aquaculture - Analyste de données spatio-temporelles.\nExpérience en recherche universitaire & collaboration avec entreprises agroenvironnementales.\nAuteure de contenus techniques et formatrice."
-  },
-  {
-    "objectID": "index.html#valeurs",
-    "href": "index.html#valeurs",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Rigueur, pédagogie, proximité terrain, éthique des données (traçabilité, confidentialité), impact mesurable."
-  },
-  {
-    "objectID": "index.html#appel-à-laction",
-    "href": "index.html#appel-à-laction",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Curieux(se) de voir comment vos données peuvent soutenir vos décisions cette saison? Réservez un appel de découverte (15 min)"
-  },
-  {
-    "objectID": "index.html#agronome-consultante-en-agriculture-de-précision-aquaculture-et-analyste-de-données-spatio-temporelles",
-    "href": "index.html#agronome-consultante-en-agriculture-de-précision-aquaculture-et-analyste-de-données-spatio-temporelles",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "J’aide les producteurs, conseillers et organisations agricoles du Québec à transformer des données climatiques, satellitaires, LiDAR et pédologiques en décisions concrètes."
-  },
-  {
-    "objectID": "index.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "href": "index.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "J’aide les producteurs, conseillers et organisations agricoles du Québec à transformer des données climatiques, satellitaires, LiDAR et pédologiques en décisions concrètes.\n\n\nJ’accompagne aussi les fermes aquacoles dans l’analyse de leurs données environnementales et de production afin d’optimiser les pratiques alimentaires et de mieux gérer les effluents."
-  },
-  {
-    "objectID": "about.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "href": "about.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "J’aide les producteurs, conseillers et organisations agricoles du Québec à transformer des données climatiques, satellitaires, LiDAR et pédologiques en décisions concrètes.\n\n\nJ’accompagne aussi les fermes aquacoles dans l’analyse de leurs données environnementales et de production afin d’optimiser les pratiques alimentaires et de mieux gérer les effluents."
-  },
-  {
-    "objectID": "about.html#ma-mission",
-    "href": "about.html#ma-mission",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Apporter de la clarté dans un océan de données. Mon objectif : réduire le risque et augmenter la rentabilité en mettant à la portée des producteurs des analyses robustes, des visualisations simples et des outils interactifs (R/Shiny) prêts à l’emploi."
-  },
-  {
-    "objectID": "about.html#qui-je-suis",
-    "href": "about.html#qui-je-suis",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Avec 15 ans d’expérience en analyse de données, j’ai accompagné des équipes de recherche et des entreprises agroenvironnementales pour passer du fichier brut aux décisions terrain. Je suis membre de l’Ordre des agronomes du Québec (OAQ) et j’opère à l’intersection entre la science des données et la réalité des producteurs québécois."
-  },
-  {
-    "objectID": "about.html#mon-approche-en-4-étapes",
-    "href": "about.html#mon-approche-en-4-étapes",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cadrage — Clarifier vos objectifs agronomiques et réglementaires (incluant l’admissibilité au Réseau Agriconseil)\nDonnées — Sélectionner les sources pertinentes (climat, satellite Sentinel‑2/Landsat, LiDAR, sols/SoilGrids, données de ferme) et standardiser votre historique.\nAnalyses — Méthodes spatio‑temporelles éprouvées, indicateurs compréhensibles, et QA rigoureux.\nLivrables — Cartes, tableaux de bord Shiny guide d’interprétation et plan d’action concret."
-  },
-  {
-    "objectID": "about.html#domaines-dexpertise",
-    "href": "about.html#domaines-dexpertise",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Agriculture de précision : zonage intraparcellaire, priorisation d’interventions, détection de stress culturaux.\nTélédection & climat : indices de végétation, suivi du stress thermique/hydrique, intégration météo‑sol.\nLiDAR & terrain : zones d’accumulation, modèles numériques de terrain.\nPédologie & fertilité : intégration sols–climat–culture pour la décision parcellaire.\nStatistiques avancées (R) : modèles mixtes, séries temporelles, validation, reproductibilité.\nAquaculture & environnement : suivi des effluents, optimisation des pratiques alimentaires, analyses temporelles en milieu aquatique."
-  },
-  {
-    "objectID": "about.html#ce-que-mes-clients-apprécient",
-    "href": "about.html#ce-que-mes-clients-apprécient",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Simplicité : vous recevez l’essentiel — clair, actionnable et documenté.\nTransparence : scripts reproductibles (R) et protocoles de contrôle qualité.\nAdaptation au Québec : données, saisons, pratiques et réalités locales."
-  },
-  {
-    "objectID": "about.html#outils-technologies",
-    "href": "about.html#outils-technologies",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "R • Shiny • Sentinel‑2/Landsat • LiDAR • SoilGrids • APIs météo • Git • Markdown/Quarto"
-  },
-  {
-    "objectID": "about.html#résultats-typiques",
-    "href": "about.html#résultats-typiques",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cartes de risques (stress climatique, hydrique, compaction, érosion) pour cibler les interventions.\nTableaux de bord saisonniers (suivi des stress & fenêtres d’intervention) pour l’équipe ferme‑conseiller.\nProtocoles reproductibles pour comparer les effets d’un changement de pratique sur 1–3 saisons.\nAnalyses aquacoles : suivi du phosphore, modélisation des effluents, optimisation de la ration et impact environnemental."
-  },
-  {
-    "objectID": "about.html#parcours-affiliations",
-    "href": "about.html#parcours-affiliations",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Membre OAQ — Conseillère en agriculture de précision et aquaculture - Analyste de données spatio-temporelles.\nExpérience en recherche universitaire & collaboration avec entreprises agroenvironnementales.\nAuteure de contenus techniques et formatrice."
-  },
-  {
-    "objectID": "about.html#valeurs",
-    "href": "about.html#valeurs",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Rigueur, pédagogie, proximité terrain, éthique des données, impact mesurable."
-  },
-  {
-    "objectID": "about.html#appel-à-laction",
-    "href": "about.html#appel-à-laction",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Curieux(se) de voir comment vos données peuvent soutenir vos décisions cette saison? Réservez un appel de découverte (15 min) ou contactez-moi directement"
-  },
-  {
-    "objectID": "index.html#services",
-    "href": "index.html#services",
-    "title": "Johanie Fournier",
-    "section": "Services principaux",
-    "text": "Services principaux\n\n\nAgriculture de précision\n\nCartes de risques (stress hydrique, compaction, érosion)\nZonage intraparcellaire & priorisation d’interventions\nTableaux de bord décisionnels (Shiny)\n\nEn savoir plus →\n\n\nAnalyses spatio‑temporelles\n\nIntégration climat · satellite · LiDAR · sols\nSéries temporelles & QA reproductible\nVisualisations claires pour décider vite\n\nEn savoir plus →\n\n\nAquaculture & environnement\n\nSuivi des effluents & optimisation des rations\nAnalyses temporelles en milieu aquatique\nIndicateurs simples pour l’équipe de terrain\n\nEn savoir plus →"
-  },
-  {
-    "objectID": "index.html#pourquoi-travailler-avec-moi",
-    "href": "index.html#pourquoi-travailler-avec-moi",
-    "title": "Johanie Fournier",
-    "section": "Pourquoi travailler avec moi",
-    "text": "Pourquoi travailler avec moi\n::: {.callout-tip}\n\nAdmissible Réseau Agriconseil : livrables structurés & actionnables\n15 ans d’expérience en analyse de données (R, Shiny, QGIS)\nContexte québécois : réalités locales, saisons, pratiques\nTransparence : scripts reproductibles & protocoles QA :::"
-  },
-  {
-    "objectID": "index.html#exemples-de-résultats",
-    "href": "index.html#exemples-de-résultats",
-    "title": "Johanie Fournier",
-    "section": "Exemples de résultats",
-    "text": "Exemples de résultats\n\n\n\nCarte de risques — ciblage rapide des interventions.\n\n\n\nTableau de bord Shiny — suivi saisonnier des stress.\n\n\n\nSérie temporelle — tendances & fenêtres d’action.\n\n\nLes opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter ici."
-  },
-  {
-    "objectID": "index.html#témoignage-mission",
-    "href": "index.html#témoignage-mission",
-    "title": "Johanie Fournier",
-    "section": "Témoignage / mission",
-    "text": "Témoignage / mission\n\n« Mon objectif est de rendre les données accessibles et utiles pour améliorer la rentabilité et la durabilité des fermes québécoises. »"
-  },
-  {
-    "objectID": "index.html#prête-à-démarrer",
-    "href": "index.html#prête-à-démarrer",
-    "title": "Johanie Fournier",
-    "section": "Prêt(e) à démarrer ?",
-    "text": "Prêt(e) à démarrer ?\nRéserver un appel découverte (20 min) Me contacter"
-  },
-  {
-    "objectID": "a_propos.html",
-    "href": "a_propos.html",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "L’agriculture évolue rapidement, et les données prennent une place de plus en plus importante dans la compréhension des champs et des sols. Je travaille à rendre l’analyse des données agricoles plus claire, structurée et utile pour la prise de décision sur le terrain.\nCe blogue est un espace de réflexion où je partage des observations, des analyses et des pistes de travail liées à l’agroenvironnement, au drainage, à la gestion des sols et au rendement. L’objectif est de proposer une lecture structurée des enjeux agricoles actuels et de favoriser une approche pratique basée sur l’analyse.\nLes contenus publiés ici sont indépendants et reflètent une démarche personnelle de recherche et de développement.\n\n\n\nPour toute question ou échange professionnel, vous pouvez me contacter ici."
-  },
-  {
-    "objectID": "a_propos.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "href": "a_propos.html#agronome-consultante-en-agriculture-de-précision-et-aquaculture",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "L’agriculture évolue rapidement, et les données prennent une place de plus en plus importante dans la compréhension des champs et des sols. Je m’intéresse à la manière dont ces données peuvent soutenir des décisions plus éclairées et plus durables.\nCe blogue est un espace de réflexion où je partage des observations, des analyses et des pistes de travail liées à l’agroenvironnement, au drainage, à la gestion des sols et au rendement. L’objectif est de proposer une lecture structurée des enjeux agricoles actuels et de favoriser une approche pratique basée sur l’analyse.\nLes contenus publiés ici sont indépendants et reflètent une démarche personnelle de recherche et de développement.\nCurieux(se) de voir comment vos données peuvent soutenir vos décisions cette saison?\ncontactez-moi:"
-  },
-  {
-    "objectID": "a_propos.html#ma-mission",
-    "href": "a_propos.html#ma-mission",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Apporter de la clarté dans un océan de données. Mon objectif : réduire le risque et augmenter la rentabilité en mettant à la portée des producteurs des analyses robustes, des visualisations simples et des outils interactifs (R/Shiny) prêts à l’emploi."
-  },
-  {
-    "objectID": "a_propos.html#qui-je-suis",
-    "href": "a_propos.html#qui-je-suis",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Avec 15 ans d’expérience en analyse de données, j’ai accompagné des équipes de recherche et des entreprises agroenvironnementales pour passer du fichier brut aux décisions terrain. Je suis membre de l’Ordre des agronomes du Québec (OAQ) et j’opère à l’intersection entre la science des données et la réalité des producteurs québécois."
-  },
-  {
-    "objectID": "a_propos.html#mon-approche-en-4-étapes",
-    "href": "a_propos.html#mon-approche-en-4-étapes",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cadrage — Clarifier vos objectifs agronomiques et réglementaires (incluant l’admissibilité au Réseau Agriconseil)\nDonnées — Sélectionner les sources pertinentes (climat, satellite Sentinel‑2/Landsat, LiDAR, sols/SoilGrids, données de ferme) et standardiser votre historique.\nAnalyses — Méthodes spatio‑temporelles éprouvées, indicateurs compréhensibles, et QA rigoureux.\nLivrables — Cartes, tableaux de bord Shiny guide d’interprétation et plan d’action concret."
-  },
-  {
-    "objectID": "a_propos.html#domaines-dexpertise",
-    "href": "a_propos.html#domaines-dexpertise",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Agriculture de précision : zonage intraparcellaire, priorisation d’interventions, détection de stress culturaux.\nTélédection & climat : indices de végétation, suivi du stress thermique/hydrique, intégration météo‑sol.\nLiDAR & terrain : zones d’accumulation, modèles numériques de terrain.\nPédologie & fertilité : intégration sols–climat–culture pour la décision parcellaire.\nStatistiques avancées (R) : modèles mixtes, séries temporelles, validation, reproductibilité.\nAquaculture & environnement : suivi des effluents, optimisation des pratiques alimentaires, analyses temporelles en milieu aquatique."
-  },
-  {
-    "objectID": "a_propos.html#ce-que-mes-clients-apprécient",
-    "href": "a_propos.html#ce-que-mes-clients-apprécient",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Simplicité : vous recevez l’essentiel — clair, actionnable et documenté.\nTransparence : scripts reproductibles (R) et protocoles de contrôle qualité.\nAdaptation au Québec : données, saisons, pratiques et réalités locales."
-  },
-  {
-    "objectID": "a_propos.html#outils-technologies",
-    "href": "a_propos.html#outils-technologies",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "R • Shiny • Sentinel‑2/Landsat • LiDAR • SoilGrids • APIs météo • Git • Markdown/Quarto"
-  },
-  {
-    "objectID": "a_propos.html#résultats-typiques",
-    "href": "a_propos.html#résultats-typiques",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Cartes de risques (stress climatique, hydrique, compaction, érosion) pour cibler les interventions.\nTableaux de bord saisonniers (suivi des stress & fenêtres d’intervention) pour l’équipe ferme‑conseiller.\nProtocoles reproductibles pour comparer les effets d’un changement de pratique sur 1–3 saisons.\nAnalyses aquacoles : suivi du phosphore, modélisation des effluents, optimisation de la ration et impact environnemental."
-  },
-  {
-    "objectID": "a_propos.html#parcours-affiliations",
-    "href": "a_propos.html#parcours-affiliations",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Membre OAQ — Conseillère en agriculture de précision et aquaculture - Analyste de données spatio-temporelles.\nExpérience en recherche universitaire & collaboration avec entreprises agroenvironnementales.\nAuteure de contenus techniques et formatrice."
-  },
-  {
-    "objectID": "a_propos.html#valeurs",
-    "href": "a_propos.html#valeurs",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Rigueur, pédagogie, proximité terrain, éthique des données, impact mesurable."
-  },
-  {
-    "objectID": "a_propos.html#appel-à-laction",
-    "href": "a_propos.html#appel-à-laction",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "Curieux(se) de voir comment vos données peuvent soutenir vos décisions cette saison? Réservez un appel de découverte (15 min) ou contactez-moi directement"
-  },
-  {
-    "objectID": "a_propos.html#agronome-spécialisée-en-agriculture-de-précision-et-en-analyse-des-données",
-    "href": "a_propos.html#agronome-spécialisée-en-agriculture-de-précision-et-en-analyse-des-données",
-    "title": "Johanie Fournier, agr., M.Sc.",
-    "section": "",
-    "text": "L’agriculture évolue rapidement, et les données prennent une place de plus en plus importante dans la compréhension des champs et des sols. Je travaille à rendre l’analyse des données agricoles plus claire, structurée et utile pour la prise de décision sur le terrain.\nCe blogue est un espace de réflexion où je partage des observations, des analyses et des pistes de travail liées à l’agroenvironnement, au drainage, à la gestion des sols et au rendement. L’objectif est de proposer une lecture structurée des enjeux agricoles actuels et de favoriser une approche pratique basée sur l’analyse.\nLes contenus publiés ici sont indépendants et reflètent une démarche personnelle de recherche et de développement."
-  },
-  {
-    "objectID": "index.html#axes-de-réflexion",
-    "href": "index.html#axes-de-réflexion",
+    "objectID": "fr/index.html#axes-de-réflexion",
+    "href": "fr/index.html#axes-de-réflexion",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
     "text": "Gestion des sols, drainage, variabilité intra-parcellaire et adaptation aux conditions climatiques.\n\n\n\nMéthodes d’interprétation, organisation de l’information et lecture critique des résultats.\n\n\n\nApproches analytiques visant à éclairer les choix agronomiques à l’échelle du champ."
   },
   {
-    "objectID": "index.html#articles-récents",
-    "href": "index.html#articles-récents",
+    "objectID": "fr/index.html#articles-récents",
+    "href": "fr/index.html#articles-récents",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "Les opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter ici."
+    "text": "Les opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter ici.\n\n\n\n\n\n\n\n\n\nLe début d’une grande aventure!\n\n\n\n16 févr. 2026\n\n\n\n\n\n\nAucun élément correspondant"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
+    "objectID": "fr/posts/welcome/index.html",
+    "href": "fr/posts/welcome/index.html",
+    "title": "Bienvenue sur mon blog!",
     "section": "",
-    "text": "Bienvenue sur mon blog!\n\n\n\n\n\n\n\nnews\n\n\n\n\nLe début d’une grande aventure!\n\n\n\n\n\n\nFeb 16, 2026\n\n\nJohanie Fournier, agr., M.Sc.\n\n\n\n\n\n\nNo matching items"
+    "text": "C’est la première publication de mon blog. Bienvenue dans cette aventure!"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to my blog!",
-    "section": "",
-    "text": "This is the first post on my blog. Welcome to the journey."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Johanie Fournier",
-    "section": "Contact",
-    "text": "Contact\nLes opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter ici."
-  },
-  {
-    "objectID": "a_propos.html#contact",
-    "href": "a_propos.html#contact",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "Pour toute question ou échange professionnel, vous pouvez me contacter ici."
+    "text": "Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.\n\nThis site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.\n\n\n\n\n\nSoil management, drainage, within-field variability, and adaptation to changing climatic conditions.\n\n\n\nInterpretation methods, information organization, and critical reading of results.\n\n\n\nAnalytical approaches to inform agronomic decisions at the field scale.\n\n\n\n\n\nThe opinions expressed on this site are personal. For any professional inquiry, you can reach me here.\n\n\n\n\n\n\n\n\n\n\n\nThe beginning of a great adventure!\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#key-topics",
@@ -396,6 +53,62 @@
     "href": "index.html#recent-articles",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "The opinions expressed on this site are personal. For any professional inquiry, you can reach me here.\n\n\n\n\n\n\n\n\n\nLe début d’une grande aventure!\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "The opinions expressed on this site are personal. For any professional inquiry, you can reach me here.\n\n\n\n\n\n\n\n\n\n\n\nThe beginning of a great adventure!\n\n\n\nFeb 16, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to my blog!",
+    "section": "",
+    "text": "This is the first post on my blog. Welcome to the journey."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "Agriculture is changing fast, and data is playing an increasingly central role in how we understand fields and soils. My work is about making agricultural data analysis clearer, more structured, and more useful for real decisions made on the ground. This blog is a space where I share observations, analyses, and working notes on agri-environmental issues — drainage, soil management, and yield. The goal is a structured, practical reading of current agricultural challenges, grounded in analysis rather than opinion. Everything published here is independent and reflects my own research and development practice.\n\n\n\nFor any question or professional inquiry, you can reach me here."
+  },
+  {
+    "objectID": "about.html#agronomist-specialized-in-precision-agriculture-and-data-analysis",
+    "href": "about.html#agronomist-specialized-in-precision-agriculture-and-data-analysis",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "Agriculture is changing fast, and data is playing an increasingly central role in how we understand fields and soils. My work is about making agricultural data analysis clearer, more structured, and more useful for real decisions made on the ground. This blog is a space where I share observations, analyses, and working notes on agri-environmental issues — drainage, soil management, and yield. The goal is a structured, practical reading of current agricultural challenges, grounded in analysis rather than opinion. Everything published here is independent and reflects my own research and development practice."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "For any question or professional inquiry, you can reach me here."
+  },
+  {
+    "objectID": "fr/a_propos.html",
+    "href": "fr/a_propos.html",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "L’agriculture évolue rapidement, et les données prennent une place de plus en plus importante dans la compréhension des champs et des sols. Je travaille à rendre l’analyse des données agricoles plus claire, structurée et utile pour la prise de décision sur le terrain.\nCe blogue est un espace de réflexion où je partage des observations, des analyses et des pistes de travail liées à l’agroenvironnement, au drainage, à la gestion des sols et au rendement. L’objectif est de proposer une lecture structurée des enjeux agricoles actuels et de favoriser une approche pratique basée sur l’analyse.\nLes contenus publiés ici sont indépendants et reflètent une démarche personnelle de recherche et de développement.\n\n\n\nPour toute question ou échange professionnel, vous pouvez me contacter ici."
+  },
+  {
+    "objectID": "fr/a_propos.html#agronome-spécialisée-en-agriculture-de-précision-et-en-analyse-des-données",
+    "href": "fr/a_propos.html#agronome-spécialisée-en-agriculture-de-précision-et-en-analyse-des-données",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "L’agriculture évolue rapidement, et les données prennent une place de plus en plus importante dans la compréhension des champs et des sols. Je travaille à rendre l’analyse des données agricoles plus claire, structurée et utile pour la prise de décision sur le terrain.\nCe blogue est un espace de réflexion où je partage des observations, des analyses et des pistes de travail liées à l’agroenvironnement, au drainage, à la gestion des sols et au rendement. L’objectif est de proposer une lecture structurée des enjeux agricoles actuels et de favoriser une approche pratique basée sur l’analyse.\nLes contenus publiés ici sont indépendants et reflètent une démarche personnelle de recherche et de développement."
+  },
+  {
+    "objectID": "fr/a_propos.html#contact",
+    "href": "fr/a_propos.html#contact",
+    "title": "Johanie Fournier, agr., M.Sc.",
+    "section": "",
+    "text": "Pour toute question ou échange professionnel, vous pouvez me contacter ici."
+  },
+  {
+    "objectID": "fr/posts.html",
+    "href": "fr/posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Bienvenue sur mon blog!\n\n\n\nnews\n\n\n\nLe début d’une grande aventure!\n\n\n\n\n\n16 févr. 2026\n\n\nJohanie Fournier, agr., M.Sc.\n\n\n\n\n\nAucun élément correspondant"
   }
 ]

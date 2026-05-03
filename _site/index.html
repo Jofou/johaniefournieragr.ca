@@ -167,7 +167,7 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.qmd"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -177,7 +177,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./blog.qmd"> 
+    <a class="nav-link" href="./blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -269,16 +269,18 @@ window.Quarto = {
 <p>The opinions expressed on this site are personal. For any professional inquiry, you can reach me <a href="https://tally.so/r/gDZMrJ"><strong>here</strong></a>.</p>
 <div id="listing-sample-listings" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777775438318" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777770573643" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <a href="./posts/welcome/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img loading='lazy' src="posts/images/welcome-thumbnail.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top">
+<img loading="lazy" src="./posts/images/welcome-thumbnail.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Welcome to my blog!
 </h5>
 <div class="card-text listing-description delink">
-<p>Le début d’une grande aventure!</p>
+<p>The beginning of a great adventure!</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -304,6 +306,72 @@ img { border-radius: 12px; }
 
 
 </main> <!-- /main -->
+<script>
+(function () {
+  var enToFr = {
+    '/index.html':   '/fr/index.html',
+    '/about.html':   '/fr/a_propos.html',
+    '/blog.html':    '/fr/posts.html',
+    '/':             '/fr/'
+  };
+  var frToEn = {
+    '/fr/index.html':    '/index.html',
+    '/fr/a_propos.html': '/about.html',
+    '/fr/posts.html':    '/blog.html',
+    '/fr/':              '/'
+  };
+
+  function toEn(path) {
+    return frToEn[path] || (path.startsWith('/fr/') ? path.slice(3) : path);
+  }
+
+  function toFr(path) {
+    return enToFr[path] || (path.startsWith('/fr/') ? path : '/fr' + path);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    setTimeout(function() {
+      var path = window.location.pathname;
+      if (path === '/' || path === '') path = '/index.html';
+      if (path === '/fr' || path === '/fr/') path = '/fr/index.html';
+      if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1) + '.html';
+
+      // Globe dropdown : pointe vers la page équivalente
+      document.querySelectorAll('.dropdown-menu a').forEach(function (a) {
+        var label = a.textContent.trim();
+        if (label === 'English')  a.setAttribute('href', toEn(path));
+        if (label === 'Français') a.setAttribute('href', toFr(path));
+      });
+
+      // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
+      if (path.startsWith('/fr/')) {
+        document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
+          var raw = a.getAttribute('href');
+          if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
+          var abs;
+          try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
+          if (abs.startsWith('http')) return;
+          var frPath = toFr(abs);
+          if (frPath !== abs) a.setAttribute('href', frPath);
+        });
+        document.querySelectorAll('.navbar-nav a.nav-link').forEach(function(a) {
+          var text = a.textContent.trim();
+          if (text === 'Home') a.textContent = 'Accueil';
+          if (text === 'About') a.textContent = 'À propos';
+          if (text === 'Blog') a.textContent = 'Blogue';
+        });
+        var brand = document.querySelector('a.navbar-brand');
+        if (brand) {
+          brand.addEventListener('click', function(e) {
+            e.preventDefault();
+            window.location.href = '/fr/index.html';
+          });
+        }
+      }
+    }, 100);
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

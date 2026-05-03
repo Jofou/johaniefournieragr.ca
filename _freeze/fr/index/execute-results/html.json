@@ -1,0 +1,17 @@
+{
+  "hash": "942027ef63ee211aba31e0eb71fc7a2a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Johanie Fournier, agr., M.Sc.\"\nsubtitle: \"Analyse et compréhension des données agricoles au service de décisions plus éclairées.\"\npage-layout: full\nformat:\n html:\n  toc: false\n  smooth-scroll: true\n  title-block-banner: true\nlisting:\n  id: sample-listings\n  contents: \"./posts/**/*.qmd\"\n  type: grid\n  sort: \"date desc\"\n  fields: [image, title, date, description]\n  feed:\n    items: 3\n---\n\n:::::::: hero\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=750}\n:::\n:::\n\n\n> L’agriculture évolue dans un contexte de complexité croissante, où les données occupent une place centrale dans la compréhension des sols, des champs et des systèmes de production.\n\nCe site propose un espace d’analyse et de réflexion consacré à l’agroenvironnement, à l’interprétation des données agricoles et aux approches structurées de la prise de décision.\n\n## Axes de réflexion\n\n:::::: {.grid .g-4}\n::: {.g-col-12 .g-col-md-4}\n### Agro-environnement\n\nGestion des sols, drainage, variabilité intra-parcellaire et adaptation aux conditions climatiques.\n:::\n\n::: {.g-col-12 .g-col-md-4}\n### Analyse et structuration des données\n\nMéthodes d’interprétation, organisation de l’information et lecture critique des résultats.\n:::\n\n::: {.g-col-12 .g-col-md-4}\n### Aide à la décision\n\nApproches analytiques visant à éclairer les choix agronomiques à l’échelle du champ.\n:::\n::::::\n\n## Articles récents\n\nLes opinions exprimées sur ce site sont personnelles. Pour tout échange professionnel, vous pouvez me contacter [**ici**](https://tally.so/r/gDZMrJ).\n\n::: {#sample-listings}\n:::\n::::::::\n\n<!-- Style minimal si vous n’avez pas encore de styles.css -->\n\n```{=html}\n<style>\n.hero { text-align:center; padding: 2.5rem 0; }\n.hero .btn { margin: .3rem; }\n.grid .card { height: 100%; }\nimg { border-radius: 12px; }\n</style>\n```\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
