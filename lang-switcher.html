@@ -52,15 +52,13 @@
           if (text === 'About') a.textContent = 'À propos';
           if (text === 'Blog') a.textContent = 'Blogue';
         });
-        ['a.navbar-brand', '.navbar-title a', 'a.navbar-title'].forEach(function(sel) {
-          var el = document.querySelector(sel);
-          if (!el) return;
-          var raw = el.getAttribute('href');
-          if (!raw || raw.startsWith('http') || raw.startsWith('mailto')) return;
-          var resolved = new URL(raw, window.location.href).pathname;
-          var frPath = toFr(resolved);
-          if (frPath !== resolved) el.setAttribute('href', frPath);
-        });
+        var brand = document.querySelector('a.navbar-brand');
+        if (brand) {
+          brand.addEventListener('click', function(e) {
+            e.preventDefault();
+            window.location.href = '/fr/index.html';
+          });
+        }
       }
     }, 100);
   });
