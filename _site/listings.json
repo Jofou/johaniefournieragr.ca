@@ -1,14 +1,28 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/blog.html",
     "items": [
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/fr/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/fr/index.html",
+    "items": [
+      "/fr/posts/welcome/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/fr/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/fr/posts.html",
+    "items": [
+      "/fr/posts/welcome/index.html"
     ]
   }
 ]

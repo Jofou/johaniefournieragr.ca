@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Johanie Fournier, agr., M.Sc.</title>
+<link>https://johaniefournieragr.ca/</link>
+<atom:link href="https://johaniefournieragr.ca/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Mon, 16 Feb 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my blog!</title>
+  <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
+  <link>https://johaniefournieragr.ca/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post on my blog. Welcome to the journey.</p>
+<p><img src="https://johaniefournieragr.ca/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://johaniefournieragr.ca/posts/welcome/</guid>
+  <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
+  <media:content url="https://johaniefournieragr.ca/posts/welcome/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Bienvenue sur mon blog!</title>
+  <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
+  <link>https://johaniefournieragr.ca/fr/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>C’est la première publication de mon blog. Bienvenue dans cette aventure!</p>
+<p><img src="https://johaniefournieragr.ca/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://johaniefournieragr.ca/fr/posts/welcome/</guid>
+  <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

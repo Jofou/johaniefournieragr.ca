@@ -1,0 +1,31 @@
+---
+title: "Johanie Fournier, agr., M.Sc."
+image: profile.jpeg
+lang: en
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/johanie-fournier-agr
+    - icon: github
+      text: Github
+      href: https://github.com/jofou
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/johanie.fournier.592006/
+---
+
+::: {#hero-heading}
+## Agronomist specialized in precision agriculture and data analysis
+
+Agriculture is changing fast, and data is playing an increasingly central role in how we understand fields and soils. My work is about making agricultural data analysis clearer, more structured, and more useful for real decisions made on the ground.
+This blog is a space where I share observations, analyses, and working notes on agri-environmental issues — drainage, soil management, and yield. The goal is a structured, practical reading of current agricultural challenges, grounded in analysis rather than opinion.
+Everything published here is independent and reflects my own research and development practice.
+
+## Contact
+
+For any question or professional inquiry, you can reach me [**here**](https://tally.so/r/gDZMrJ).
+:::
