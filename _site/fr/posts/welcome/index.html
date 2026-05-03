@@ -204,51 +204,49 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <script>
 (function () {
   var enToFr = {
-    '/about':      '/fr/a_propos',
-    '/about.html': '/fr/a_propos.html',
-    '/blog':       '/fr/posts',
-    '/blog.html':  '/fr/posts.html'
+    '/index.html':   '/fr/index.html',
+    '/about.html':   '/fr/a_propos.html',
+    '/blog.html':    '/fr/posts.html',
+    '/':             '/fr/'
   };
   var frToEn = {
-    '/fr/a_propos':      '/about',
+    '/fr/index.html':    '/index.html',
     '/fr/a_propos.html': '/about.html',
-    '/fr/posts':         '/blog',
-    '/fr/posts.html':    '/blog.html'
+    '/fr/posts.html':    '/blog.html',
+    '/fr/':              '/'
   };
 
   function toEn(path) {
-    if (frToEn[path]) return frToEn[path];
-    if (path.startsWith('/fr/')) return path.slice(3);
-    return path;
+    return frToEn[path] || (path.startsWith('/fr/') ? path.slice(3) : path);
   }
 
   function toFr(path) {
-    if (enToFr[path]) return enToFr[path];
-    if (path.startsWith('/fr/')) return path;
-    return '/fr' + path;
+    return enToFr[path] || (path.startsWith('/fr/') ? path : '/fr' + path);
   }
 
   document.addEventListener('DOMContentLoaded', function () {
     var path = window.location.pathname;
-    if (path === '/' || path === '')       path = '/index.html';
+    if (path === '/' || path === '') path = '/index.html';
     if (path === '/fr' || path === '/fr/') path = '/fr/index.html';
-    if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1);
+    if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1) + '.html';
 
-    // Globe-icon dropdown: rewrite EN/FR links to match current page
+    // Globe dropdown : pointe vers la page équivalente
     document.querySelectorAll('.dropdown-menu a').forEach(function (a) {
       var label = a.textContent.trim();
       if (label === 'English')  a.setAttribute('href', toEn(path));
       if (label === 'Français') a.setAttribute('href', toFr(path));
     });
 
-    // Navbar links: keep user in FR when already browsing FR pages
+    // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
     if (path.startsWith('/fr/')) {
       document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
-        var raw = a.getAttribute('href');
-        if (!raw || raw.startsWith('#') || raw.startsWith('http') || raw.startsWith('mailto')) return;
-        var absPath = new URL(a.href).pathname;
-        var frPath = toFr(absPath);
-        if (frPath !== absPath) a.setAttribute('href', frPath);
+        var href = a.getAttribute('href');
+        if (!href || href.startsWith('#') || href.startsWith('http') || href.startsWith('mailto')) return;
+        // Construire le chemin absolu manuellement
+        var abs = href.startsWith('/') ? href : '/' + href;
+        if (!abs.endsWith('.html') && !abs.endsWith('/')) abs = abs + '.html';
+        var frPath = toFr(abs);
+        if (frPath !== abs) a.setAttribute('href', frPath);
       });
     }
   });
