@@ -223,45 +223,47 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    var path = window.location.pathname;
-    if (path === '/' || path === '') path = '/index.html';
-    if (path === '/fr' || path === '/fr/') path = '/fr/index.html';
-    if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1) + '.html';
+    setTimeout(function() {
+      var path = window.location.pathname;
+      if (path === '/' || path === '') path = '/index.html';
+      if (path === '/fr' || path === '/fr/') path = '/fr/index.html';
+      if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1) + '.html';
 
-    // Globe dropdown : pointe vers la page équivalente
-    document.querySelectorAll('.dropdown-menu a').forEach(function (a) {
-      var label = a.textContent.trim();
-      if (label === 'English')  a.setAttribute('href', toEn(path));
-      if (label === 'Français') a.setAttribute('href', toFr(path));
-    });
+      // Globe dropdown : pointe vers la page équivalente
+      document.querySelectorAll('.dropdown-menu a').forEach(function (a) {
+        var label = a.textContent.trim();
+        if (label === 'English')  a.setAttribute('href', toEn(path));
+        if (label === 'Français') a.setAttribute('href', toFr(path));
+      });
 
-    // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
-    if (path.startsWith('/fr/')) {
-      document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
-        var raw = a.getAttribute('href');
-        if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
-        var abs;
-        try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
-        if (abs.startsWith('http')) return;
-        var frPath = toFr(abs);
-        if (frPath !== abs) a.setAttribute('href', frPath);
-      });
-      document.querySelectorAll('.navbar-nav a.nav-link').forEach(function(a) {
-        var text = a.textContent.trim();
-        if (text === 'Home') a.textContent = 'Accueil';
-        if (text === 'About') a.textContent = 'À propos';
-        if (text === 'Blog') a.textContent = 'Blogue';
-      });
-      ['a.navbar-brand', '.navbar-title a', 'a.navbar-title'].forEach(function(sel) {
-        var el = document.querySelector(sel);
-        if (!el) return;
-        var raw = el.getAttribute('href');
-        if (!raw || raw.startsWith('http') || raw.startsWith('mailto')) return;
-        var resolved = new URL(raw, window.location.href).pathname;
-        var frPath = toFr(resolved);
-        if (frPath !== resolved) el.setAttribute('href', frPath);
-      });
-    }
+      // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
+      if (path.startsWith('/fr/')) {
+        document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
+          var raw = a.getAttribute('href');
+          if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
+          var abs;
+          try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
+          if (abs.startsWith('http')) return;
+          var frPath = toFr(abs);
+          if (frPath !== abs) a.setAttribute('href', frPath);
+        });
+        document.querySelectorAll('.navbar-nav a.nav-link').forEach(function(a) {
+          var text = a.textContent.trim();
+          if (text === 'Home') a.textContent = 'Accueil';
+          if (text === 'About') a.textContent = 'À propos';
+          if (text === 'Blog') a.textContent = 'Blogue';
+        });
+        ['a.navbar-brand', '.navbar-title a', 'a.navbar-title'].forEach(function(sel) {
+          var el = document.querySelector(sel);
+          if (!el) return;
+          var raw = el.getAttribute('href');
+          if (!raw || raw.startsWith('http') || raw.startsWith('mailto')) return;
+          var resolved = new URL(raw, window.location.href).pathname;
+          var frPath = toFr(resolved);
+          if (frPath !== resolved) el.setAttribute('href', frPath);
+        });
+      }
+    }, 100);
   });
 })();
 </script>
