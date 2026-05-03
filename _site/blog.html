@@ -239,7 +239,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777770573643" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777775468308" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
 <div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/images/welcome-thumbnail.jpg" class="thumbnail-image">
@@ -313,10 +313,9 @@ Johanie Fournier, agr., M.Sc.
       if (path.startsWith('/fr/')) {
         document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
           var raw = a.getAttribute('href');
-          if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
+          if (!raw || raw.startsWith('#') || raw.startsWith('mailto') || raw.startsWith('http')) return;
           var abs;
           try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
-          if (abs.startsWith('http')) return;
           var frPath = toFr(abs);
           if (frPath !== abs) a.setAttribute('href', frPath);
         });

@@ -39,10 +39,9 @@
       if (path.startsWith('/fr/')) {
         document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
           var raw = a.getAttribute('href');
-          if (!raw || raw.startsWith('#') || raw.startsWith('mailto')) return;
+          if (!raw || raw.startsWith('#') || raw.startsWith('mailto') || raw.startsWith('http')) return;
           var abs;
           try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
-          if (abs.startsWith('http')) return;
           var frPath = toFr(abs);
           if (frPath !== abs) a.setAttribute('href', frPath);
         });
