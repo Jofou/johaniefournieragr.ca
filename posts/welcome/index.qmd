@@ -10,4 +10,4 @@ image: "../images/welcome-thumbnail.jpg"
 
 This is the first post on my blog. Welcome to the journey.
 
-![](thumbnail.jpg)
+![](../images/welcome-thumbnail.jpg)
