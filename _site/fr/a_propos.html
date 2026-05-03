@@ -252,6 +252,15 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
         if (text === 'About') a.textContent = 'À propos';
         if (text === 'Blog') a.textContent = 'Blogue';
       });
+      var brand = document.querySelector('.navbar-brand');
+      if (brand) {
+        var brandHref = brand.getAttribute('href');
+        if (brandHref && !brandHref.startsWith('http')) {
+          var abs = brandHref.startsWith('/') ? brandHref : '/' + brandHref;
+          var frBrand = toFr(abs);
+          if (frBrand !== abs) brand.setAttribute('href', frBrand);
+        }
+      }
     }
   });
 })();
