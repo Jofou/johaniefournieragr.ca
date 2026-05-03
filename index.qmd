@@ -10,7 +10,7 @@ format:
   title-block-banner: true
 listing:
   id: sample-listings
-  contents: "./posts/**"
+  contents: "./posts/**/*.qmd"
   type: grid
   sort: "date desc"
   fields: [image, title, date, description]
