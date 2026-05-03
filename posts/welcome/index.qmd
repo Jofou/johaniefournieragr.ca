@@ -5,7 +5,7 @@ date: "2026-02-16"
 lang: "en"
 categories: [news]
 description: "The beginning of a great adventure!"
-image: thumbnail.jpg
+image: "../images/welcome-thumbnail.jpg"
 ---
 
 This is the first post on my blog. Welcome to the journey.
