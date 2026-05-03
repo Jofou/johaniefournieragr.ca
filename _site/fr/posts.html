@@ -308,29 +308,35 @@ Johanie Fournier, agr., M.Sc.
       if (label === 'Français') a.setAttribute('href', toFr(path));
     });
 
-    // Navbar : si on est en FR, réécrire tous les liens EN vers leur équivalent FR
+    // Si on est en FR : réécrire navbar + traduire labels + intercepter brand
     if (path.startsWith('/fr/')) {
+
+      // Réécrire les liens de la navbar vers leurs équivalents FR
       document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
         var raw = a.getAttribute('href');
         if (!raw || raw.startsWith('#') || raw.startsWith('mailto') || raw.startsWith('http')) return;
         var abs;
-        try { abs = new URL(raw, window.location.origin).pathname; } catch(e) { return; }
+        try { abs = new URL(raw, window.location.href).pathname; } catch(e) { return; }
         var frPath = toFr(abs);
         if (frPath !== abs) a.setAttribute('href', frPath);
       });
-      document.querySelectorAll('.navbar-nav .menu-text').forEach(function(span) {
+
+      // Traduire les labels de la navbar
+      document.querySelectorAll('.navbar-nav .menu-text').forEach(function (span) {
         var text = span.textContent.trim();
         if (text === 'Home')  span.textContent = 'Accueil';
         if (text === 'About') span.textContent = 'À propos';
         if (text === 'Blog')  span.textContent = 'Blogue';
       });
+
+      // Intercepter le clic sur le nom/brand pour rester en FR
       var brand = document.querySelector('a.navbar-brand');
       if (brand) {
-        brand.addEventListener('click', function(e) {
+        brand.addEventListener('click', function (e) {
           e.preventDefault();
           window.location.href = '/fr/index.html';
         });
-      }
+   }
     }
   });
 })();
