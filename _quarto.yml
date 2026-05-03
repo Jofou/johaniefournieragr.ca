@@ -30,6 +30,7 @@ format:
     theme: solar
     css: styles.css
     toc: true
+    include-after-body: lang-switcher.html
 lang: en
 execute:
   freeze: auto
