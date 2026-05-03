@@ -346,9 +346,12 @@ img { border-radius: 12px; }
 
       // Réécrire les liens de la navbar vers leurs équivalents FR
       document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
-        var abs = new URL(a.href).pathname;
-        var frPath = toFr(abs);
-        if (frPath !== abs) a.setAttribute('href', frPath);
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+        } catch(e) { return; }
       });
 
       // Traduire les labels de la navbar
