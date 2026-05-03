@@ -6,29 +6,18 @@
       version="2.0">
 <channel>
 <title>Johanie Fournier, agr., M.Sc.</title>
-<link>https://johaniefournieragr.ca/fr/</link>
+<link>https://johaniefournieragr.ca/fr/index.html</link>
 <atom:link href="https://johaniefournieragr.ca/fr/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.3.450</generator>
 <lastBuildDate>Mon, 16 Feb 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Bienvenue sur mon blog!</title>
+  <title>{B4F502887207:/fr/posts/welcome/index.html}</title>
   <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
-  <link>https://johaniefournieragr.ca/fr/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>C’est la première publication de mon blog. Bienvenue dans cette aventure!</p>
-<p><img src="https://johaniefournieragr.ca/fr/posts/images/welcome-thumbnail.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
+  <link>https://johaniefournieragr.ca/fr/posts/welcome/index.html</link>
+  <description>{B4F502887207:/fr/posts/welcome/index.html}</description>
   <category>news</category>
-  <guid>https://johaniefournieragr.ca/fr/posts/welcome/</guid>
+  <guid>https://johaniefournieragr.ca/fr/posts/welcome/index.html</guid>
   <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>

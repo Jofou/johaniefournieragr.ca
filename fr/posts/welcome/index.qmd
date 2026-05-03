@@ -9,4 +9,4 @@ description: "Le début d'une grande aventure!"
 
 C'est la première publication de mon blog. Bienvenue dans cette aventure!
 
-![](../../../posts/welcome/thumbnail.jpg)
+![](../images/welcome-thumbnail.jpg)

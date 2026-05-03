@@ -1,0 +1,68 @@
+---
+title: "Johanie Fournier, agr., M.Sc."
+subtitle: "Agricultural data analysis for clearer, more grounded decisions."
+page-layout: full
+lang: en
+format:
+ html:
+  toc: false
+  smooth-scroll: true
+  title-block-banner: true
+listing:
+  id: sample-listings
+  contents: "posts/**"
+  type: grid
+  sort: "date desc"
+  fields: [image, title, date, description]
+  feed:
+    items: 3
+---
+
+:::::::: hero
+```{r, echo=FALSE}
+magick::image_read("./Turning data into valuable insights.png") |>
+  magick::image_scale("1500") 
+```
+> Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.
+
+This site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.
+
+## Key topics
+
+:::::: {.grid .g-4}
+::: {.g-col-12 .g-col-md-4}
+### Agro-environment
+
+Soil management, drainage, within-field variability, and adaptation to changing climatic conditions.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Data analysis
+
+Interpretation methods, information organization, and critical reading of results.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Decision support
+
+Analytical approaches to inform agronomic decisions at the field scale.
+:::
+::::::
+
+## Recent articles
+
+The opinions expressed on this site are personal. For any professional inquiry, you can reach me [**here**](https://tally.so/r/gDZMrJ).
+
+::: {#sample-listings}
+:::
+::::::::
+
+```{=html}
+<style>
+.hero { text-align:center; padding: 2.5rem 0; }
+.hero .btn { margin: .3rem; }
+.grid .card { height: 100%; }
+img { border-radius: 12px; }
+</style>
+```
+
