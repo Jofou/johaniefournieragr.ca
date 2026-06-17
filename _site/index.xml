@@ -10,7 +10,33 @@
 <atom:link href="https://johaniefournieragr.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 16 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome</title>
+  <link>https://johaniefournieragr.ca/posts/introduction/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="why-this-site-exists" class="level2">
+<h2 class="anchored" data-anchor-id="why-this-site-exists">Why this site exists</h2>
+<p>I have spent 15 years working with agricultural data — swine performance tables, phosphorus models in aquaculture, soil organic carbon modelling. In each of these contexts, I noticed the same thing: data is rarely the problem. What is missing is a way to read it.</p>
+<p>Agronomy is a field discipline. You visit, observe, sample. But the field generates data — measurements, histories, patterns — and those data tell a story if you know how to ask the right questions.</p>
+<p>This site was born from that conviction: that a rigorous approach to data analysis can make agronomy more precise, more defensible, and more useful to producers.</p>
+<p>Here you will find articles on agri-environmental data analysis, result interpretation, and the tools I use daily — primarily R. No universal recipes. Ways of thinking about agricultural data, with concrete examples.</p>
+<p>I am an agronomist before I am an analyst. This site reflects both.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>introduction</category>
+  <guid>https://johaniefournieragr.ca/posts/introduction/</guid>
+  <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://johaniefournieragr.ca/posts/images/field.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Welcome to my blog!</title>
   <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>

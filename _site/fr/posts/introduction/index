@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.37">
@@ -7,10 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Johanie Fournier, agr., M.Sc.">
-<meta name="dcterms.date" content="2026-02-16">
-<meta name="description" content="The beginning of a great adventure!">
+<meta name="description" content="Pourquoi ce site existe — et ce que vous y trouverez.">
 
-<title>Welcome to my blog! – Johanie Fournier, agr., M.Sc.</title>
+<title>Bienvenue – Johanie Fournier, agr., M.Sc.</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -29,23 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-4b55380ba3f7bd6041a0a6e7bb58b7b8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-4b55380ba3f7bd6041a0a6e7bb58b7b8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,17 +59,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Aucun résultat",
+    "search-matching-documents-text": "documents correspondants",
+    "search-copy-link-title": "Copier le lien de recherche",
+    "search-hide-matches-text": "Masquer les correspondances supplémentaires",
+    "search-more-match-text": "correspondance supplémentaire dans ce document",
+    "search-more-matches-text": "correspondances supplémentaires dans ce document",
+    "search-clear-button-title": "Effacer",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Soumettre",
+    "search-label": "Recherche"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-70F98RH221"></script>
@@ -84,7 +83,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 </script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -94,22 +93,22 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Johanie Fournier, agr., M.Sc.</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="../../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -119,7 +118,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html"> 
+    <a class="nav-link" href="../../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -130,11 +129,11 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-bi-globe">    
         <li>
-    <a class="dropdown-item" href="../../index.html">
+    <a class="dropdown-item" href="../../../index.html">
  <span class="dropdown-text">English</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../fr/index.html">
+    <a class="dropdown-item" href="../../../fr/index.html">
  <span class="dropdown-text">Français</span></a>
   </li>  
     </ul>
@@ -150,14 +149,14 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome to my blog!</h1>
+      <h1 class="title">Bienvenue</h1>
                   <div>
         <div class="description">
-          The beginning of a great adventure!
+          Pourquoi ce site existe — et ce que vous y trouverez.
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">introduction</div>
               </div>
                   </div>
   </div>
@@ -166,16 +165,16 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
   <div class="quarto-title-meta">
 
       <div>
-      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-heading">Auteur</div>
       <div class="quarto-title-meta-contents">
                <p>Johanie Fournier, agr., M.Sc. </p>
             </div>
     </div>
       
       <div>
-      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-heading">Publié</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">February 16, 2026</p>
+        <p class="date">12 juin 2026</p>
       </div>
     </div>
     
@@ -186,8 +185,14 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#pourquoi-ce-site-existe" id="toc-pourquoi-ce-site-existe" class="nav-link active" data-scroll-target="#pourquoi-ce-site-existe">Pourquoi ce site existe</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -196,12 +201,92 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 
 
 
-<p>This is the first post on my blog. Welcome to the journey.</p>
-<p><img src="../images/welcome-thumbnail.jpg" class="img-fluid"></p>
+<section id="pourquoi-ce-site-existe" class="level2">
+<h2 class="anchored" data-anchor-id="pourquoi-ce-site-existe">Pourquoi ce site existe</h2>
+<p>J’ai passé 15 ans à travailler avec des données agricoles — des tableaux de performances porcines aux modèles de phosphore en aquaculture, en passant par la modélisation du carbone dans les sols. Dans chacun de ces contextes, j’ai remarqué la même chose : les données sont rarement le problème. Ce qui manque, c’est la façon de les lire.</p>
+<p>L’agronomie est une discipline de terrain. On visite, on observe, on prélève. Mais le terrain génère des données — des mesures, des historiques, des patterns — et ces données racontent quelque chose si on sait comment les interroger.</p>
+<p>Ce site est né de cette conviction : qu’une approche rigoureuse de l’analyse de données peut rendre l’agronomie plus précise, plus défendable, et plus utile aux producteurs.</p>
+<p>Vous y trouverez des articles sur l’analyse de données agri-environnementales, l’interprétation de résultats, et les outils que j’utilise au quotidien — principalement R. Pas de recettes universelles. Des façons de penser les données agricoles, avec des exemples concrets.</p>
+<p>Je suis agronome avant d’être analyste. Ce site reflète les deux.</p>
 
 
+</section>
 
 </main> <!-- /main -->
+<script>
+(function () {
+  var enToFr = {
+    '/index.html':  '/fr/index.html',
+    '/index':       '/fr/index.html',
+    '/about.html':  '/fr/a_propos.html',
+    '/about':       '/fr/a_propos.html',
+    '/blog.html':   '/fr/posts.html',
+    '/blog':        '/fr/posts.html',
+    '/':            '/fr/'
+  };
+  var frToEn = {
+    '/fr/index.html':    '/index.html',
+    '/fr/a_propos.html': '/about.html',
+    '/fr/a_propos':      '/about.html',
+    '/fr/posts.html':    '/blog.html',
+    '/fr/posts':         '/blog.html',
+    '/fr/':              '/'
+  };
+
+  function toEn(path) {
+    return frToEn[path] || (path.startsWith('/fr/') ? path.slice(3) : path);
+  }
+
+  function toFr(path) {
+    return enToFr[path] || (path.startsWith('/fr/') ? path : '/fr' + path);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var path = window.location.pathname;
+    if (path === '/' || path === '') path = '/index.html';
+    if (path === '/fr' || path === '/fr/') path = '/fr/index.html';
+    if (path.endsWith('/') && path.length > 1) path = path.slice(0, -1) + '.html';
+
+    // Globe dropdown : pointe vers la page équivalente
+    document.querySelectorAll('.dropdown-menu a').forEach(function (a) {
+      var label = a.textContent.trim();
+      if (label === 'English')  a.setAttribute('href', toEn(path));
+      if (label === 'Français') a.setAttribute('href', toFr(path));
+    });
+
+    // Si on est en FR : réécrire navbar + traduire labels + intercepter brand
+    if (path.startsWith('/fr/')) {
+
+      // Réécrire les liens de la navbar vers leurs équivalents FR
+      document.querySelectorAll('.navbar-nav a.nav-link').forEach(function (a) {
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+        } catch(e) { return; }
+      });
+
+      // Traduire les labels de la navbar
+      document.querySelectorAll('.navbar-nav .menu-text').forEach(function (span) {
+        var text = span.textContent.trim();
+        if (text === 'Home')  span.textContent = 'Accueil';
+        if (text === 'About') span.textContent = 'À propos';
+        if (text === 'Blog')  span.textContent = 'Blogue';
+      });
+
+      // Intercepter le clic sur le nom/brand pour rester en FR
+      var brand = document.querySelector('a.navbar-brand');
+      if (brand) {
+        brand.addEventListener('click', function (e) {
+          e.preventDefault();
+          window.location.href = '/fr/index.html';
+        });
+   }
+    }
+  });
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -227,12 +312,12 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copié !");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copié !");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

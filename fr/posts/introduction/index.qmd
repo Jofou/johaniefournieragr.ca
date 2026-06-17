@@ -1,0 +1,21 @@
+---
+title: "Bienvenue"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-06-12"
+categories: [introduction]
+description: "Pourquoi ce site existe — et ce que vous y trouverez."
+image: "../images/field.jpeg"
+lang: fr
+---
+
+## Pourquoi ce site existe
+
+J'ai passé 15 ans à travailler avec des données agricoles — des tableaux de performances porcines aux modèles de phosphore en aquaculture, en passant par la modélisation du carbone dans les sols. Dans chacun de ces contextes, j'ai remarqué la même chose : les données sont rarement le problème. Ce qui manque, c'est la façon de les lire.
+
+L'agronomie est une discipline de terrain. On visite, on observe, on prélève. Mais le terrain génère des données — des mesures, des historiques, des patterns — et ces données racontent quelque chose si on sait comment les interroger.
+
+Ce site est né de cette conviction : qu'une approche rigoureuse de l'analyse de données peut rendre l'agronomie plus précise, plus défendable, et plus utile aux producteurs.
+
+Vous y trouverez des articles sur l'analyse de données agri-environnementales, l'interprétation de résultats, et les outils que j'utilise au quotidien — principalement R. Pas de recettes universelles. Des façons de penser les données agricoles, avec des exemples concrets.
+
+Je suis agronome avant d'être analyste. Ce site reflète les deux.

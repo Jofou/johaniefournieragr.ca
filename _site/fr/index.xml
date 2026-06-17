@@ -10,7 +10,34 @@
 <atom:link href="https://johaniefournieragr.ca/fr/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Mon, 16 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Bienvenue</title>
+  <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
+  <link>https://johaniefournieragr.ca/fr/posts/introduction/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="pourquoi-ce-site-existe" class="level2">
+<h2 class="anchored" data-anchor-id="pourquoi-ce-site-existe">Pourquoi ce site existe</h2>
+<p>J’ai passé 15 ans à travailler avec des données agricoles — des tableaux de performances porcines aux modèles de phosphore en aquaculture, en passant par la modélisation du carbone dans les sols. Dans chacun de ces contextes, j’ai remarqué la même chose : les données sont rarement le problème. Ce qui manque, c’est la façon de les lire.</p>
+<p>L’agronomie est une discipline de terrain. On visite, on observe, on prélève. Mais le terrain génère des données — des mesures, des historiques, des patterns — et ces données racontent quelque chose si on sait comment les interroger.</p>
+<p>Ce site est né de cette conviction : qu’une approche rigoureuse de l’analyse de données peut rendre l’agronomie plus précise, plus défendable, et plus utile aux producteurs.</p>
+<p>Vous y trouverez des articles sur l’analyse de données agri-environnementales, l’interprétation de résultats, et les outils que j’utilise au quotidien — principalement R. Pas de recettes universelles. Des façons de penser les données agricoles, avec des exemples concrets.</p>
+<p>Je suis agronome avant d’être analyste. Ce site reflète les deux.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>introduction</category>
+  <guid>https://johaniefournieragr.ca/fr/posts/introduction/</guid>
+  <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://johaniefournieragr.ca/fr/posts/introduction/images/field.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Bienvenue sur mon blog!</title>
   <dc:creator>Johanie Fournier, agr., M.Sc.</dc:creator>
