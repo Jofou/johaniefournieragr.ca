@@ -27,7 +27,7 @@ En parallèle, j’ai complété une maîtrise en sciences animales à l’Unive
 
 **Aujourd’hui**
 
-Je travaille de façon indépendante sur des mandats d’analyse de données agri-environnementales et je développe GeoAgro — un outil de diagnostic spatial du drainage agricole basé sur les données LiDAR, pédologiques et satellitaires (Sentinel-2) à l’échelle intra-parcellaire, destiné aux agronomes du Québec.
+Je travaille de façon indépendante sur des mandats d'analyse de données agri-environnementales et je développe GeoAgro — un outil de diagnostic géospatial pour les terres agricoles, combinant données agronomiques et environnementales.
 
 Ce site est un espace pour partager ma façon de voir l’agronomie : rigoureuse, ancrée dans les données, et toujours orientée vers des décisions concrètes sur le terrain.
 
