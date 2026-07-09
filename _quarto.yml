@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
+      - text: Services
+        href: services.qmd
       - text: Contact
         href: https://tally.so/r/gDZMrJ
     right:
