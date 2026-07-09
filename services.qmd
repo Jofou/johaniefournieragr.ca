@@ -1,60 +1,35 @@
 ---
 title: "My Services"
-description: "Quebec-based agronomist — farmland potential diagnostics, CPTAQ applications, PAEF and PAA plans. Serving Chaudière-Appalaches and greater Quebec."
 lang: en
 ---
 
 Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec.
 
----
+------------------------------------------------------------------------
 
 ## Agricultural potential and CPTAQ applications
 
-An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question.
-
-I establish this diagnostic and support the filing of the application with the Commission.
+An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.
 
 **Who this is for**: landowners, developers, municipalities, and MRCs.
 
----
-
-## Pre-purchase or pre-lease diagnostic
-
-Knowing a piece of land's real potential before buying or leasing it avoids unpleasant surprises. A voluntary diagnostic, with no regulatory process attached.
-
-**Who this is for**: buyers, tenants, and investors in farmland.
-
----
+------------------------------------------------------------------------
 
 ## Water and soil health diagnostic
 
-Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.
-
-Potentially eligible for financial support under the Programme services-conseils.
+Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens. Potentially eligible for financial support under the Programme services-conseils.
 
 **Who this is for**: farmers in active operation.
 
----
+------------------------------------------------------------------------
 
 ## PAEF and PAA
 
-Agri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data.
-
-Potentially eligible for financial support under the Programme services-conseils.
+Agri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data. Potentially eligible for financial support under the Programme services-conseils.
 
 **Who this is for**: farmers in active operation.
 
----
-
-## Scope of my services
-
-I do not carry out wetland delineation (a botanical expertise I don't hold).
-
-My diagnostics don't replace a subsurface drainage system design plan, which falls under engineering. They support an agronomic decision — understanding where and why water behaves a certain way in a field — not the technical design of the network.
-
-The limits specific to each data source (LiDAR, soil maps, satellite imagery) are explained at the time of the diagnostic, not buried in fine print.
-
----
+------------------------------------------------------------------------
 
 ## Let's talk about your project
 

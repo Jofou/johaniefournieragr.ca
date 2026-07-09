@@ -1,59 +1,34 @@
 ---
 title: "Mes services"
-description: "Agronome au Québec — diagnostic de potentiel agricole, dossiers CPTAQ, PAEF, PAA. Chaudière-Appalaches et grand Québec."
 ---
 
 Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en agroenvironnement et en réglementation agricole au Québec.
 
----
+------------------------------------------------------------------------
 
 ## Potentiel agricole et dossiers CPTAQ
 
-Une demande à la Commission de protection du territoire agricole du Québec (CPTAQ) — morcellement, aliénation, dézonage, exploitation d'une ressource — repose en bonne partie sur le potentiel agricole du lot.
-
-J'établis ce diagnostic et j'accompagne le dépôt du dossier auprès de la Commission.
+Une demande à la Commission de protection du territoire agricole du Québec (CPTAQ) — morcellement, aliénation, dézonage, exploitation d'une ressource — repose en bonne partie sur le potentiel agricole du lot. J'établis ce diagnostic et j'accompagne le dépôt du dossier auprès de la Commission.
 
 **Pour qui** : propriétaires, promoteurs, municipalités et MRC.
 
----
-
-## Diagnostic pré-achat ou pré-location
-
-Connaître le potentiel réel d'une terre avant de l'acheter ou de la louer évite de mauvaises surprises. Diagnostic volontaire, sans démarche réglementaire associée.
-
-**Pour qui** : acheteurs, locataires, investisseurs en terres agricoles.
-
----
+------------------------------------------------------------------------
 
 ## Diagnostic hydrique et santé des sols
 
-Excès d'eau récurrent, zones de mauvais rendement, état structural du sol : diagnostic établi avant même une visite terrain.
-
-Service potentiellement admissible à une aide financière du Programme services-conseils.
+Excès d'eau récurrent, zones de mauvais rendement, état structural du sol : diagnostic établi avant même une visite terrain. Service potentiellement admissible à une aide financière du Programme services-conseils.
 
 **Pour qui** : producteurs agricoles en exploitation active.
 
----
+------------------------------------------------------------------------
 
 ## PAEF et PAA
 
-Plan agroenvironnemental de fertilisation (PAEF) et plan d'accompagnement agroenvironnemental (PAA), deux volets pratiqués pendant plusieurs années avant ma spécialisation en données géospatiales.
-
-Service potentiellement admissible à une aide financière du Programme services-conseils.
+Plan agroenvironnemental de fertilisation (PAEF) et plan d'accompagnement agroenvironnemental (PAA), deux volets pratiqués pendant plusieurs années avant ma spécialisation en données géospatiales. Service potentiellement admissible à une aide financière du Programme services-conseils.
 
 **Pour qui** : producteurs agricoles en exploitation active.
 
----
-
-## Portée de mes services
-
-Je ne fais pas de délimitation de milieux humides (compétence botanique non détenue).
-
-Mes diagnostics ne remplacent pas un plan de conception de réseau de drainage souterrain, qui relève de l'ingénierie. Ils appuient une décision agronomique — savoir où et pourquoi l'eau se comporte d'une certaine façon dans un champ — pas la conception technique du réseau.
-
-Les limites propres à chaque source de données (LiDAR, cartes pédologiques, imagerie satellite) sont expliquées au moment du diagnostic, pas cachées dans les petits caractères.
-
----
+------------------------------------------------------------------------
 
 ## Pour discuter d'un projet
 

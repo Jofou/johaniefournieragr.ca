@@ -23,6 +23,7 @@ listing:
 magick::image_read("./Turning data into valuable insights.png") |>
   magick::image_scale("1500") 
 ```
+
 > Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.
 
 This site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.
@@ -48,6 +49,13 @@ Interpretation methods, information organization, and critical reading of result
 Analytical approaches to inform agronomic decisions at the field scale.
 :::
 ::::::
+
+## Looking for professional support?
+
+I offer consulting services in agricultural potential assessment, 
+CPTAQ files, and agri-environmental compliance.
+
+[See my services](/services.html)
 
 ## Recent articles
 
