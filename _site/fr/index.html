@@ -148,7 +148,7 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -209,50 +209,37 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Johanie Fournier, agr., M.Sc.</h1>
-            <p class="subtitle lead">Analyse et compréhension des données agricoles au service de décisions plus éclairées.</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Johanie Fournier, agr., M.Sc.</h1>
+<p class="subtitle lead">Analyse et compréhension des données agricoles au service de décisions plus éclairées.</p>
+</div>
 
 
 
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
 
 
 <div class="hero">
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="750"></p>
-</figure>
+<p><span class="hero-eyebrow">Analyse de données agricoles</span></p>
+<p>L’agriculture évolue dans un contexte de complexité croissante. Ce site propose un espace d’analyse et de réflexion consacré à l’agroenvironnement, à l’interprétation des données agricoles et aux approches structurées de la prise de décision.</p>
 </div>
-</div>
-</div>
-<blockquote class="blockquote">
-<p>L’agriculture évolue dans un contexte de complexité croissante, où les données occupent une place centrale dans la compréhension des sols, des champs et des systèmes de production.</p>
-</blockquote>
-<p>Ce site propose un espace d’analyse et de réflexion consacré à l’agroenvironnement, à l’interprétation des données agricoles et aux approches structurées de la prise de décision.</p>
-<section id="axes-de-réflexion" class="level2">
-<h2 class="anchored" data-anchor-id="axes-de-réflexion">Axes de réflexion</h2>
 <div class="grid g-4">
 <section id="agro-environnement" class="level3 g-col-12 g-col-md-4">
 <h3 class="anchored" data-anchor-id="agro-environnement">Agro-environnement</h3>
@@ -267,7 +254,6 @@ window.Quarto = {
 <p>Approches analytiques visant à éclairer les choix agronomiques à l’échelle du champ.</p>
 </section>
 </div>
-</section>
 <section id="besoin-dun-accompagnement-professionnel" class="level2">
 <h2 class="anchored" data-anchor-id="besoin-dun-accompagnement-professionnel">Besoin d’un accompagnement professionnel?</h2>
 <p>J’offre des services-conseils en évaluation du potentiel agricole, dossiers CPTAQ et conformité agroenvironnementale.</p>
@@ -321,11 +307,47 @@ Bienvenue sur mon blog!
 </div>
 <div class="listing-no-matching d-none">Aucun élément correspondant</div>
 </div>
-</section>
-</div>
-<!-- Style minimal si vous n’avez pas encore de styles.css -->
 <style>
-.hero { text-align:center; padding: 2.5rem 0; }
+#title-block-header{
+  display:none !important;
+}
+.hero{
+  position:relative;
+  min-height:56vh;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  justify-content:flex-end;
+  text-align:left;
+  padding: 48px 6vw 44px;
+  margin-bottom: 2.5rem;
+  border-radius: 12px;
+  overflow:hidden;
+  color:#fff;
+  background:
+    linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.78) 92%),
+    url('../images/home/hero-home.jpg') center 55% / cover no-repeat;
+}
+.hero .hero-eyebrow{
+  font-family: monospace;
+  font-size:0.75rem;
+  letter-spacing:0.12em;
+  text-transform:uppercase;
+  color:#B58900;
+  margin-bottom:14px;
+  display:block;
+}
+.hero h1{
+  color:#fff;
+  font-size:clamp(1.8rem, 3.6vw, 2.6rem);
+  margin-bottom:12px;
+}
+.hero > p{
+  color:rgba(255,255,255,0.88);
+  max-width:56ch;
+  font-size:1.1rem;
+  margin:0;
+}
 .hero .btn { margin: .3rem; }
 .grid .card { height: 100%; }
 img { border-radius: 12px; }
@@ -333,6 +355,7 @@ img { border-radius: 12px; }
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script>

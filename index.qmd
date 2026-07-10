@@ -4,10 +4,10 @@ subtitle: "Agricultural data analysis for clearer, more grounded decisions."
 page-layout: full
 lang: en
 format:
- html:
-  toc: false
-  smooth-scroll: true
-  title-block-banner: true
+  html:
+    toc: false
+    smooth-scroll: true
+    title-block-banner: false
 listing:
   id: sample-listings
   contents: "./posts/**/*.qmd"
@@ -18,17 +18,11 @@ listing:
     items: 3
 ---
 
-:::::::: hero
-```{r, echo=FALSE}
-magick::image_read("./Turning data into valuable insights.png") |>
-  magick::image_scale("1500") 
-```
+::: hero
+<span class="hero-eyebrow">Agricultural Data Analysis</span>
 
-> Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.
-
-This site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.
-
-## Key topics
+Agriculture is navigating growing complexity. This site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.
+:::
 
 :::::: {.grid .g-4}
 ::: {.g-col-12 .g-col-md-4}
@@ -63,11 +57,49 @@ The opinions expressed on this site are personal. For any professional inquiry, 
 
 ::: {#sample-listings}
 :::
-::::::::
 
 ```{=html}
 <style>
-.hero { text-align:center; padding: 2.5rem 0; }
+#title-block-header{
+  display:none !important;
+}
+.hero{
+  position:relative;
+  min-height:56vh;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  justify-content:flex-end;
+  text-align:left;
+  padding: 48px 6vw 44px;
+  margin-bottom: 2.5rem;
+  border-radius: 12px;
+  overflow:hidden;
+  color:#fff;
+  background:
+    linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.78) 92%),
+    url('/images/home/hero-home.jpg') center 55% / cover no-repeat;
+}
+.hero .hero-eyebrow{
+  font-family: monospace;
+  font-size:0.75rem;
+  letter-spacing:0.12em;
+  text-transform:uppercase;
+  color:#B58900;
+  margin-bottom:14px;
+  display:block;
+}
+.hero h1{
+  color:#fff;
+  font-size:clamp(1.8rem, 3.6vw, 2.6rem);
+  margin-bottom:12px;
+}
+.hero > p{
+  color:rgba(255,255,255,0.88);
+  max-width:56ch;
+  font-size:1.1rem;
+  margin:0;
+}
 .hero .btn { margin: .3rem; }
 .grid .card { height: 100%; }
 img { border-radius: 12px; }
