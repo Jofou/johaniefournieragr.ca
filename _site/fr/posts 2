@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mes services – Johanie Fournier, agr., M.Sc.</title>
+<title>Blog – Johanie Fournier, agr., M.Sc.</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -70,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Recherche"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-70F98RH221"></script>
 
 <script type="text/javascript">
@@ -79,19 +110,44 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 </script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&amp;family=Source+Sans+3:wght@400;500;600&amp;family=IBM+Plex+Mono:wght@500&amp;display=swap" rel="stylesheet">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="../services-styles-addition.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -152,88 +208,104 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Blog</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tout <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aW50cm9kdWN0aW9u">introduction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Mes services</h1>
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="aW50cm9kdWN0aW9u" data-listing-date-sort="1781236800000" data-listing-file-modified-sort="1781656714246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
+<div class="thumbnail"><a href="../fr/posts/introduction/index.html" class="no-external">
+
+<img loading="lazy" src="../fr/posts/images/field.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../fr/posts/introduction/index.html" class="no-external">Bienvenue</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('aW50cm9kdWN0aW9u'); return false;">introduction</div>
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div class="svc-page">
-<div class="svc-hero">
-<p><span class="svc-eyebrow">Services professionnels</span></p>
-<section id="mes-services" class="level1">
-<h1>Mes services</h1>
-<p>Agronome, membre de l’Ordre des agronomes du Québec. 15 ans d’expérience en travail agroenvironnemental et en réglementation agricole au Québec.</p>
-</section>
+<div class="delink listing-description"><a href="../fr/posts/introduction/index.html" class="no-external">
+<p>Pourquoi ce site existe — et ce que vous y trouverez.</p>
+</a></div>
 </div>
-<div class="svc-toc">
-<p><a href="#cptaq">Potentiel agricole et dossiers CPTAQ</a></p>
-<p><a href="#diagnostic">Diagnostic eau et santé des sols</a></p>
-<p><a href="#paef">PAEF et PAA</a></p>
-<p><a href="#contact">Parlons de votre projet</a></p>
+<div class="metadata">
+<a href="../fr/posts/introduction/index.html" class="no-external">
+<div class="listing-date">
+12 juin 2026
 </div>
-<div id="cptaq" class="svc-service">
-<p><img src="images/services/icon-cptaq.png" class="svc-icon"></p>
-<section id="potentiel-agricole-et-dossiers-cptaq" class="level2">
-<h2 class="anchored" data-anchor-id="potentiel-agricole-et-dossiers-cptaq">Potentiel agricole et dossiers CPTAQ</h2>
-<p>Une demande à la Commission de protection du territoire agricole du Québec — morcellement, transfert, changement de vocation, extraction — repose largement sur le potentiel agricole du lot visé. J’établis ce diagnostic et j’appuie le dépôt de la demande auprès de la Commission.</p>
-<div class="svc-who">
-<p><span class="svc-who-label">Pour qui</span> Propriétaires, promoteurs, municipalités et MRC</p>
+<div class="listing-author">
+Johanie Fournier, agr., M.Sc.
 </div>
-</section>
+</a>
 </div>
-<div id="diagnostic" class="svc-service">
-<p><img src="../images/services/icon-diagnostic.png" class="svc-icon"></p>
-<section id="diagnostic-eau-et-santé-des-sols" class="level2">
-<h2 class="anchored" data-anchor-id="diagnostic-eau-et-santé-des-sols">Diagnostic eau et santé des sols</h2>
-<p>Excès d’eau récurrent, zones sous-performantes, état structural du sol : un diagnostic établi avant même la visite au champ.</p>
-<div class="svc-who">
-<p><span class="svc-who-label">Pour qui</span> Entreprises agricoles en activité</p>
 </div>
-<p><span class="svc-funding-note">Potentiellement admissible à une aide financière dans le cadre du Programme services-conseils</span></p>
-</section>
-</div>
-<div id="paef" class="svc-service">
-<p><img src="../images/services/icon-paef.png" class="svc-icon"></p>
-<section id="paef-et-paa" class="level2">
-<h2 class="anchored" data-anchor-id="paef-et-paa">PAEF et PAA</h2>
-<p>Plan agroenvironnemental de fertilisation (PAEF) et plan d’accompagnement agroenvironnemental (PAA) — deux services que j’ai pratiqués plusieurs années avant de me spécialiser en données géospatiales.</p>
-<div class="svc-who">
-<p><span class="svc-who-label">Pour qui</span> Entreprises agricoles en activité</p>
-</div>
-<p><span class="svc-funding-note">Potentiellement admissible à une aide financière dans le cadre du Programme services-conseils</span></p>
-</section>
-</div>
-<section id="parlons-de-votre-projet" class="level2 svc-closing">
-<h2 class="anchored" data-anchor-id="parlons-de-votre-projet">Parlons de votre projet</h2>
-<p>Chaque dossier commence par une brève description de votre situation — je reviens vers vous avec les prochaines étapes.</p>
-<p><a href="https://tally.so/r/gDZMrJ" class="svc-cta-btn">Écrivez-moi</a></p>
-</section>
-</div>
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777775468301" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="thumbnail"><a href="../fr/posts/welcome/index.html" class="no-external">
 
+<p class="card-img-top"><img loading='lazy' src="posts/images/welcome-thumbnail.jpg"  class="thumbnail-image card-img"/></p>
 
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../fr/posts/welcome/index.html" class="no-external">Bienvenue sur mon blog!</a>
+</h3>
+<div class="listing-categories">
 
-</main> <!-- /main -->
+<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
+
+</div>
+<div class="delink listing-description"><a href="../fr/posts/welcome/index.html" class="no-external">
+<p>Le début d’une grande aventure!</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../fr/posts/welcome/index.html" class="no-external">
+<div class="listing-date">
+16 févr. 2026
+</div>
+<div class="listing-author">
+Johanie Fournier, agr., M.Sc.
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Aucun élément correspondant</div>
+</div></main> <!-- /main -->
 <script>
 (function () {
   var enToFr = {

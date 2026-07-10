@@ -1,36 +1,80 @@
 ---
 title: "My Services"
-lang: en
+css: services-styles-addition.css
+toc: false
+include-in-header:
+  text: |
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 ---
 
-Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec.
+::::::::::: svc-page
+::: svc-hero
+[Professional services]{.svc-eyebrow}
 
-------------------------------------------------------------------------
+# My services
+
+Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec.
+:::
+
+::: {.svc-toc}
+
+[Agricultural potential and CPTAQ applications](#cptaq)
+
+[Water and soil health diagnostic](#diagnostic)
+
+[PAEF and PAA](#paef)
+
+[Let's talk about your project](#contact)
+
+:::
+
+:::: {#cptaq .svc-service}
+<img src="/images/services/icon-cptaq.png" class="svc-icon"/>
 
 ## Agricultural potential and CPTAQ applications
 
 An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.
 
-**Who this is for**: landowners, developers, municipalities, and MRCs.
+::: svc-who
+[Who this is for]{.svc-who-label} Landowners, developers, municipalities, and MRCs
+:::
+::::
 
-------------------------------------------------------------------------
+:::: {#diagnostic .svc-service}
+<img src="/images/services/icon-diagnostic.png" class="svc-icon"/>
 
 ## Water and soil health diagnostic
 
-Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens. Potentially eligible for financial support under the Programme services-conseils.
+Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.
 
-**Who this is for**: farmers in active operation.
+::: svc-who
+[Who this is for]{.svc-who-label} Farmers in active operation
+:::
 
-------------------------------------------------------------------------
+[Potentially eligible for financial support under the Programme services-conseils]{.svc-funding-note}
+::::
+
+:::: {#paef .svc-service}
+<img src="/images/services/icon-paef.png" class="svc-icon"/>
 
 ## PAEF and PAA
 
-Agri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data. Potentially eligible for financial support under the Programme services-conseils.
+Agri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data.
 
-**Who this is for**: farmers in active operation.
+::: svc-who
+[Who this is for]{.svc-who-label} Farmers in active operation
+:::
 
-------------------------------------------------------------------------
+[Potentially eligible for financial support under the Programme services-conseils]{.svc-funding-note}
+::::
 
+::: svc-closing
 ## Let's talk about your project
 
-[Write to me](https://tally.so/r/gDZMrJ).
+Every file starts with a short description of your situation — I'll get back to you with next steps.
+
+[Write to me](https://tally.so/r/gDZMrJ){.svc-cta-btn}
+:::
+:::::::::::

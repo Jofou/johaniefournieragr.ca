@@ -1,35 +1,79 @@
 ---
 title: "Mes services"
+css: ../services-styles-addition.css
+toc: false
+include-in-header:
+  text: |
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 ---
 
-Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en agroenvironnement et en réglementation agricole au Québec.
+::::::::::: svc-page
+::: svc-hero
+[Services professionnels]{.svc-eyebrow}
 
-------------------------------------------------------------------------
+# Mes services
+
+Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en travail agroenvironnemental et en réglementation agricole au Québec.
+:::
+
+::: {.svc-toc}
+[Potentiel agricole et dossiers CPTAQ](#cptaq)
+
+[Diagnostic eau et santé des sols](#diagnostic)
+
+[PAEF et PAA](#paef)
+
+[Parlons de votre projet](#contact)
+
+:::
+
+:::: {#cptaq .svc-service}
+<img src="images/services/icon-cptaq.png" class="svc-icon"/>
 
 ## Potentiel agricole et dossiers CPTAQ
 
-Une demande à la Commission de protection du territoire agricole du Québec (CPTAQ) — morcellement, aliénation, dézonage, exploitation d'une ressource — repose en bonne partie sur le potentiel agricole du lot. J'établis ce diagnostic et j'accompagne le dépôt du dossier auprès de la Commission.
+Une demande à la Commission de protection du territoire agricole du Québec — morcellement, transfert, changement de vocation, extraction — repose largement sur le potentiel agricole du lot visé. J'établis ce diagnostic et j'appuie le dépôt de la demande auprès de la Commission.
 
-**Pour qui** : propriétaires, promoteurs, municipalités et MRC.
+::: svc-who
+[Pour qui]{.svc-who-label} Propriétaires, promoteurs, municipalités et MRC
+:::
+::::
 
-------------------------------------------------------------------------
+:::: {#diagnostic .svc-service}
+<img src="/images/services/icon-diagnostic.png" class="svc-icon"/>
 
-## Diagnostic hydrique et santé des sols
+## Diagnostic eau et santé des sols
 
-Excès d'eau récurrent, zones de mauvais rendement, état structural du sol : diagnostic établi avant même une visite terrain. Service potentiellement admissible à une aide financière du Programme services-conseils.
+Excès d'eau récurrent, zones sous-performantes, état structural du sol : un diagnostic établi avant même la visite au champ.
 
-**Pour qui** : producteurs agricoles en exploitation active.
+::: svc-who
+[Pour qui]{.svc-who-label} Entreprises agricoles en activité
+:::
 
-------------------------------------------------------------------------
+[Potentiellement admissible à une aide financière dans le cadre du Programme services-conseils]{.svc-funding-note}
+::::
+
+:::: {#paef .svc-service}
+<img src="/images/services/icon-paef.png" class="svc-icon"/>
 
 ## PAEF et PAA
 
-Plan agroenvironnemental de fertilisation (PAEF) et plan d'accompagnement agroenvironnemental (PAA), deux volets pratiqués pendant plusieurs années avant ma spécialisation en données géospatiales. Service potentiellement admissible à une aide financière du Programme services-conseils.
+Plan agroenvironnemental de fertilisation (PAEF) et plan d'accompagnement agroenvironnemental (PAA) — deux services que j'ai pratiqués plusieurs années avant de me spécialiser en données géospatiales.
 
-**Pour qui** : producteurs agricoles en exploitation active.
+::: svc-who
+[Pour qui]{.svc-who-label} Entreprises agricoles en activité
+:::
 
-------------------------------------------------------------------------
+[Potentiellement admissible à une aide financière dans le cadre du Programme services-conseils]{.svc-funding-note}
+::::
 
-## Pour discuter d'un projet
+::: svc-closing
+## Parlons de votre projet
 
-[Écrivez-moi](https://tally.so/r/gDZMrJ).
+Chaque dossier commence par une brève description de votre situation — je reviens vers vous avec les prochaines étapes.
+
+[Écrivez-moi](https://tally.so/r/gDZMrJ){.svc-cta-btn}
+:::
+:::::::::::

@@ -67,7 +67,7 @@
     "href": "about.html",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "Johanie Fournier, agr., M.Sc.\nI am an agronomist and member of the Ordre des agronomes du Québec with 15 years of experience in agricultural data analysis. My work sits at the intersection of field agronomy and quantitative analysis — two ways of reading the same landscape.\nBackground\nI started my career in swine production at Génétiporc, where I managed performance monitoring across farrowing, nursery, and finishing stages: data collection, gap identification, and genetic project coordination. At Logiag, as the agronomist responsible for a swine integrator, I added a regulatory and field dimension — PAEF development, phosphorus balances, farm visits, and soil sampling. I later shifted toward large-scale data analysis, including modelling soil organic carbon in agricultural fields.\nI hold a M.Sc. in Animal Science from University Laval focused on reducing phosphorus excretion in rainbow trout, and I have recently worked as a research professional modelling phosphorus dynamics in freshwater aquaculture systems.\nToday\nI work independently on agri-environmental data analysis mandates and I am developing GeoAgro — a spatial drainage diagnostic tool for Quebec agronomists, built on LiDAR, pedological, and satellite data (Sentinel-2) at the intra-field scale.\nThis site is a space to share my approach to agronomy: rigorous, data-grounded, and always oriented toward concrete decisions in the field.\nFor professional inquiries: contact form"
+    "text": "I am an agronomist and member of the Ordre des agronomes du Québec with 15 years of experience in agricultural data analysis. My work sits at the intersection of field agronomy and quantitative analysis — two ways of reading the same landscape.\nBackground\nI started my career in swine production at Génétiporc, where I managed performance monitoring across farrowing, nursery, and finishing stages: data collection, gap identification, and genetic project coordination. At Logiag, as the agronomist responsible for a swine integrator, I added a regulatory and field dimension — PAEF development, phosphorus balances, farm visits, and soil sampling. I later shifted toward large-scale data analysis, including modelling soil organic carbon in agricultural fields.\nI hold a M.Sc. in Animal Science from University Laval focused on reducing phosphorus excretion in rainbow trout, and I have recently worked as a research professional modelling phosphorus dynamics in freshwater aquaculture systems.\nToday\nI work independently on agri-environmental data analysis mandates and I am developing GeoAgro — a geospatial diagnostic tool for agricultural land, combining agronomic and environmental data.\nThis site is a space to share my approach to agronomy: rigorous, data-grounded, and always oriented toward concrete decisions in the field.\nFor professional inquiries: contact form"
   },
   {
     "objectID": "about.html#agronomist-specialized-in-precision-agriculture-and-data-analysis",
@@ -88,7 +88,7 @@
     "href": "fr/a_propos.html",
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
-    "text": "Agronome membre de l’Ordre des agronomes du Québec avec 15 ans d’expérience en analyse de données agricoles. Mon travail se situe à l’intersection de l’agronomie de terrain et de l’analyse quantitative — deux façons de lire le même territoire.\nParcours\nJ’ai débuté ma carrière en production porcine chez Génétiporc, où j’ai assuré le suivi de performance sur les stades maternité, pouponnière et engraissement : collecte de données, identification des écarts, coordination des suivis génétiques. Chez Logiag, à titre d’agronome responsable pour un intégrateur porcin, j’ai ajouté une dimension réglementaire et terrain — élaboration des PAEF, bilans phosphore, visites à la ferme et échantillonnages de sol. J’ai ensuite pivoté vers l’analyse de données à grande échelle, incluant la modélisation de la teneur en carbone dans les sols agricoles.\nEn parallèle, j’ai complété une maîtrise en sciences animales à l’Université Laval axée sur la réduction des rejets de phosphore chez la truite arc-en-ciel, et j’ai récemment travaillé comme professionnelle de recherche en modélisation des rejets de phosphore en aquaculture d’eau douce.\nAujourd’hui\nJe travaille de façon indépendante sur des mandats d’analyse de données agri-environnementales et je développe GeoAgro — un outil de diagnostic spatial du drainage agricole basé sur les données LiDAR, pédologiques et satellitaires (Sentinel-2) à l’échelle intra-parcellaire, destiné aux agronomes du Québec.\nCe site est un espace pour partager ma façon de voir l’agronomie : rigoureuse, ancrée dans les données, et toujours orientée vers des décisions concrètes sur le terrain.\nPour toute demande professionnelle : formulaire de contact"
+    "text": "Agronome membre de l’Ordre des agronomes du Québec avec 15 ans d’expérience en analyse de données agricoles. Mon travail se situe à l’intersection de l’agronomie de terrain et de l’analyse quantitative — deux façons de lire le même territoire.\nParcours\nJ’ai débuté ma carrière en production porcine chez Génétiporc, où j’ai assuré le suivi de performance sur les stades maternité, pouponnière et engraissement : collecte de données, identification des écarts, coordination des suivis génétiques. Chez Logiag, à titre d’agronome responsable pour un intégrateur porcin, j’ai ajouté une dimension réglementaire et terrain — élaboration des PAEF, bilans phosphore, visites à la ferme et échantillonnages de sol. J’ai ensuite pivoté vers l’analyse de données à grande échelle, incluant la modélisation de la teneur en carbone dans les sols agricoles.\nEn parallèle, j’ai complété une maîtrise en sciences animales à l’Université Laval axée sur la réduction des rejets de phosphore chez la truite arc-en-ciel, et j’ai récemment travaillé comme professionnelle de recherche en modélisation des rejets de phosphore en aquaculture d’eau douce.\nAujourd’hui\nJe travaille de façon indépendante sur des mandats d’analyse de données agri-environnementales et je développe GeoAgro — un outil de diagnostic géospatial pour les terres agricoles, combinant données agronomiques et environnementales.\nCe site est un espace pour partager ma façon de voir l’agronomie : rigoureuse, ancrée dans les données, et toujours orientée vers des décisions concrètes sur le terrain.\nPour toute demande professionnelle : formulaire de contact"
   },
   {
     "objectID": "fr/a_propos.html#agronome-spécialisée-en-agriculture-de-précision-et-en-analyse-des-données",
@@ -158,49 +158,49 @@
     "href": "services.html",
     "title": "My Services",
     "section": "",
-    "text": "Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec."
+    "text": "Professional services\n\n\nAgronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec.\n\n\n\nAgricultural potential and CPTAQ applications\nWater and soil health diagnostic\nPAEF and PAA\nLet’s talk about your project\n\n\n\n\n\nAn application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.\n\nWho this is for Landowners, developers, municipalities, and MRCs\n\n\n\n\n\n\n\nRecurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.\n\nWho this is for Farmers in active operation\n\nPotentially eligible for financial support under the Programme services-conseils\n\n\n\n\n\n\nAgri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data.\n\nWho this is for Farmers in active operation\n\nPotentially eligible for financial support under the Programme services-conseils\n\n\n\n\nEvery file starts with a short description of your situation — I’ll get back to you with next steps.\nWrite to me"
   },
   {
     "objectID": "services.html#agricultural-potential-and-cptaq-applications",
     "href": "services.html#agricultural-potential-and-cptaq-applications",
     "title": "My Services",
-    "section": "Agricultural potential and CPTAQ applications",
-    "text": "Agricultural potential and CPTAQ applications\nAn application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.\nWho this is for: landowners, developers, municipalities, and MRCs."
+    "section": "",
+    "text": "An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.\n\nWho this is for Landowners, developers, municipalities, and MRCs"
   },
   {
     "objectID": "services.html#water-and-soil-health-diagnostic",
     "href": "services.html#water-and-soil-health-diagnostic",
     "title": "My Services",
-    "section": "Water and soil health diagnostic",
-    "text": "Water and soil health diagnostic\nRecurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens. Potentially eligible for financial support under the Programme services-conseils.\nWho this is for: farmers in active operation."
+    "section": "",
+    "text": "Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.\n\nWho this is for Farmers in active operation\n\nPotentially eligible for financial support under the Programme services-conseils"
   },
   {
     "objectID": "services.html#paef-and-paa",
     "href": "services.html#paef-and-paa",
     "title": "My Services",
-    "section": "PAEF and PAA",
-    "text": "PAEF and PAA\nAgri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data. Potentially eligible for financial support under the Programme services-conseils.\nWho this is for: farmers in active operation."
+    "section": "",
+    "text": "Agri-environmental fertilization plan (PAEF) and agri-environmental support plan (PAA) — two services I practiced for several years before specializing in geospatial data.\n\nWho this is for Farmers in active operation\n\nPotentially eligible for financial support under the Programme services-conseils"
   },
   {
     "objectID": "services.html#lets-talk-about-your-project",
     "href": "services.html#lets-talk-about-your-project",
     "title": "My Services",
-    "section": "Let’s talk about your project",
-    "text": "Let’s talk about your project\nWrite to me."
+    "section": "",
+    "text": "Every file starts with a short description of your situation — I’ll get back to you with next steps.\nWrite to me"
   },
   {
     "objectID": "fr/services.html",
     "href": "fr/services.html",
     "title": "Mes services",
     "section": "",
-    "text": "Agronome, membre de l’Ordre des agronomes du Québec. 15 ans d’expérience en agroenvironnement et en réglementation agricole au Québec."
+    "text": "Services professionnels\n\n\nAgronome, membre de l’Ordre des agronomes du Québec. 15 ans d’expérience en travail agroenvironnemental et en réglementation agricole au Québec.\n\n\n\nPotentiel agricole et dossiers CPTAQ\nDiagnostic eau et santé des sols\nPAEF et PAA\nParlons de votre projet\n\n\n\n\n\nUne demande à la Commission de protection du territoire agricole du Québec — morcellement, transfert, changement de vocation, extraction — repose largement sur le potentiel agricole du lot visé. J’établis ce diagnostic et j’appuie le dépôt de la demande auprès de la Commission.\n\nPour qui Propriétaires, promoteurs, municipalités et MRC\n\n\n\n\n\n\n\nExcès d’eau récurrent, zones sous-performantes, état structural du sol : un diagnostic établi avant même la visite au champ.\n\nPour qui Entreprises agricoles en activité\n\nPotentiellement admissible à une aide financière dans le cadre du Programme services-conseils\n\n\n\n\n\n\nPlan agroenvironnemental de fertilisation (PAEF) et plan d’accompagnement agroenvironnemental (PAA) — deux services que j’ai pratiqués plusieurs années avant de me spécialiser en données géospatiales.\n\nPour qui Entreprises agricoles en activité\n\nPotentiellement admissible à une aide financière dans le cadre du Programme services-conseils\n\n\n\n\nChaque dossier commence par une brève description de votre situation — je reviens vers vous avec les prochaines étapes.\nÉcrivez-moi"
   },
   {
     "objectID": "fr/services.html#potentiel-agricole-et-dossiers-cptaq",
     "href": "fr/services.html#potentiel-agricole-et-dossiers-cptaq",
     "title": "Mes services",
-    "section": "Potentiel agricole et dossiers CPTAQ",
-    "text": "Potentiel agricole et dossiers CPTAQ\nUne demande à la Commission de protection du territoire agricole du Québec (CPTAQ) — morcellement, aliénation, dézonage, exploitation d’une ressource — repose en bonne partie sur le potentiel agricole du lot.\nJ’établis ce diagnostic et j’accompagne le dépôt du dossier auprès de la Commission.\nPour qui : propriétaires, promoteurs, municipalités et MRC."
+    "section": "",
+    "text": "Une demande à la Commission de protection du territoire agricole du Québec — morcellement, transfert, changement de vocation, extraction — repose largement sur le potentiel agricole du lot visé. J’établis ce diagnostic et j’appuie le dépôt de la demande auprès de la Commission.\n\nPour qui Propriétaires, promoteurs, municipalités et MRC"
   },
   {
     "objectID": "fr/services.html#diagnostic-hydrique-et-santé-des-sols",
@@ -213,8 +213,8 @@
     "objectID": "fr/services.html#paef-et-paa",
     "href": "fr/services.html#paef-et-paa",
     "title": "Mes services",
-    "section": "PAEF et PAA",
-    "text": "PAEF et PAA\nPlan agroenvironnemental de fertilisation (PAEF) et plan d’accompagnement agroenvironnemental (PAA), deux volets pratiqués pendant plusieurs années avant ma spécialisation en données géospatiales.\nService potentiellement admissible à une aide financière du Programme services-conseils.\nPour qui : producteurs agricoles en exploitation active."
+    "section": "",
+    "text": "Plan agroenvironnemental de fertilisation (PAEF) et plan d’accompagnement agroenvironnemental (PAA) — deux services que j’ai pratiqués plusieurs années avant de me spécialiser en données géospatiales.\n\nPour qui Entreprises agricoles en activité\n\nPotentiellement admissible à une aide financière dans le cadre du Programme services-conseils"
   },
   {
     "objectID": "fr/services.html#pour-discuter-dun-projet",
@@ -229,5 +229,19 @@
     "title": "Johanie Fournier, agr., M.Sc.",
     "section": "",
     "text": "I offer consulting services in agricultural potential assessment, CPTAQ files, and agri-environmental compliance.\nSee my services"
+  },
+  {
+    "objectID": "fr/services.html#diagnostic-eau-et-santé-des-sols",
+    "href": "fr/services.html#diagnostic-eau-et-santé-des-sols",
+    "title": "Mes services",
+    "section": "",
+    "text": "Excès d’eau récurrent, zones sous-performantes, état structural du sol : un diagnostic établi avant même la visite au champ.\n\nPour qui Entreprises agricoles en activité\n\nPotentiellement admissible à une aide financière dans le cadre du Programme services-conseils"
+  },
+  {
+    "objectID": "fr/services.html#parlons-de-votre-projet",
+    "href": "fr/services.html#parlons-de-votre-projet",
+    "title": "Mes services",
+    "section": "",
+    "text": "Chaque dossier commence par une brève description de votre situation — je reviens vers vous avec les prochaines étapes.\nÉcrivez-moi"
   }
 ]
