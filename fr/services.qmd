@@ -9,7 +9,7 @@ include-in-header:
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 ---
 
-::::::::::: svc-page
+:::::::::::: svc-page
 ::: svc-hero
 [Services professionnels]{.svc-eyebrow}
 
@@ -18,7 +18,7 @@ include-in-header:
 Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en travail agroenvironnemental et en réglementation agricole au Québec.
 :::
 
-::: {.svc-toc}
+::: svc-toc
 [Potentiel agricole et dossiers CPTAQ](#cptaq)
 
 [Diagnostic eau et santé des sols](#diagnostic)
@@ -26,7 +26,6 @@ Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en tr
 [PAEF et PAA](#paef)
 
 [Parlons de votre projet](#contact)
-
 :::
 
 :::: {#cptaq .svc-service}
@@ -76,4 +75,4 @@ Chaque dossier commence par une brève description de votre situation — je rev
 
 [Écrivez-moi](https://tally.so/r/gDZMrJ){.svc-cta-btn}
 :::
-:::::::::::
+::::::::::::

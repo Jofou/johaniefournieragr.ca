@@ -9,7 +9,7 @@ include-in-header:
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 ---
 
-::::::::::: svc-page
+:::::::::::: svc-page
 ::: svc-hero
 [Professional services]{.svc-eyebrow}
 
@@ -18,8 +18,7 @@ include-in-header:
 Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience in agri-environmental work and agricultural regulation in Quebec.
 :::
 
-::: {.svc-toc}
-
+::: svc-toc
 [Agricultural potential and CPTAQ applications](#cptaq)
 
 [Water and soil health diagnostic](#diagnostic)
@@ -27,7 +26,6 @@ Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience
 [PAEF and PAA](#paef)
 
 [Let's talk about your project](#contact)
-
 :::
 
 :::: {#cptaq .svc-service}
@@ -77,4 +75,4 @@ Every file starts with a short description of your situation — I'll get back t
 
 [Write to me](https://tally.so/r/gDZMrJ){.svc-cta-btn}
 :::
-:::::::::::
+::::::::::::
