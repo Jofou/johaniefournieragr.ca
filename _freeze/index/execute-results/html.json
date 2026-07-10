@@ -1,0 +1,17 @@
+{
+  "hash": "94bdaf7b5c7d0d2d5be1ef87f4f84943",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Johanie Fournier, agr., M.Sc.\"\nsubtitle: \"Agricultural data analysis for clearer, more grounded decisions.\"\npage-layout: full\nlang: en\nformat:\n html:\n  toc: false\n  smooth-scroll: true\n  title-block-banner: true\nlisting:\n  id: sample-listings\n  contents: \"./posts/**/*.qmd\"\n  type: grid\n  sort: \"date desc\"\n  fields: [image, title, date, description]\n  feed:\n    items: 3\n---\n\n:::::::: hero\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=750}\n:::\n:::\n\n\n> Agriculture is navigating growing complexity — one where data has become central to understanding soils, fields, and production systems.\n\nThis site is a space for analysis and reflection on agri-environmental issues, agricultural data interpretation, and structured approaches to decision-making.\n\n## Key topics\n\n:::::: {.grid .g-4}\n::: {.g-col-12 .g-col-md-4}\n### Agro-environment\n\nSoil management, drainage, within-field variability, and adaptation to changing climatic conditions.\n:::\n\n::: {.g-col-12 .g-col-md-4}\n### Data analysis\n\nInterpretation methods, information organization, and critical reading of results.\n:::\n\n::: {.g-col-12 .g-col-md-4}\n### Decision support\n\nAnalytical approaches to inform agronomic decisions at the field scale.\n:::\n::::::\n\n## Looking for professional support?\n\nI offer consulting services in agricultural potential assessment, \nCPTAQ files, and agri-environmental compliance.\n\n[See my services](/services.html)\n\n## Recent articles\n\nThe opinions expressed on this site are personal. For any professional inquiry, you can reach me [**here**](https://tally.so/r/gDZMrJ).\n\n::: {#sample-listings}\n:::\n::::::::\n\n```{=html}\n<style>\n.hero { text-align:center; padding: 2.5rem 0; }\n.hero .btn { margin: .3rem; }\n.grid .card { height: 100%; }\nimg { border-radius: 12px; }\n</style>\n```\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

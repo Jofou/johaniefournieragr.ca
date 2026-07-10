@@ -1,0 +1,20 @@
+---
+title: "Welcome"
+date: "2026-06-12"
+categories: [introduction]
+description: "Why this site exists — and what you will find here."
+image: "../images/field.jpeg"
+lang: en
+---
+
+## Why this site exists
+
+I have spent 15 years working with agricultural data — swine performance tables, phosphorus models in aquaculture, soil organic carbon modelling. In each of these contexts, I noticed the same thing: data is rarely the problem. What is missing is a way to read it.
+
+Agronomy is a field discipline. You visit, observe, sample. But the field generates data — measurements, histories, patterns — and those data tell a story if you know how to ask the right questions.
+
+This site was born from that conviction: that a rigorous approach to data analysis can make agronomy more precise, more defensible, and more useful to producers.
+
+Here you will find articles on agri-environmental data analysis, result interpretation, and the tools I use daily — primarily R. No universal recipes. Ways of thinking about agricultural data, with concrete examples.
+
+I am an agronomist before I am an analyst. This site reflects both.

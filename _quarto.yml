@@ -1,0 +1,39 @@
+project:
+  type: website
+website:
+  site-url: "https://johaniefournieragr.ca"
+  title: "Johanie Fournier, agr., M.Sc."
+  google-analytics: "G-70F98RH221"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Services
+        href: services.qmd
+      - text: Contact
+        href: https://tally.so/r/gDZMrJ
+    right:
+      - text: Blog
+        href: blog.qmd
+      - icon: globe
+        menu:
+          - text: "English"
+            href: /index.html
+          - text: "Français"
+            href: /fr/index.html
+  page-footer:
+    left: "© Copyright 2026 Johanie Fournier. All rights reserved CC-BY-NC 4.0."
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+    include-after-body: lang-switcher.html
+lang: en
+execute:
+  freeze: auto
+editor: visual
