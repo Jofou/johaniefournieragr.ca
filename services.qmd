@@ -33,10 +33,10 @@ Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience
 
 ## Agricultural potential and CPTAQ applications
 
-An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.
+An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision or transfer of agricultural land — rests largely on the agricultural potential of the lot in question. I establish a signed agronomic diagnostic, based on LiDAR, Sentinel-2, and IRDA pedological data, ready to be filed as part of your application.
 
 ::: svc-who
-[Who this is for]{.svc-who-label} Landowners, developers, municipalities, and MRCs
+[Who this is for]{.svc-who-label} landowners, developers, notaries, lawyers, municipalities, and MRCs preparing a CPTAQ application.
 :::
 ::::
 
@@ -45,7 +45,8 @@ An application to the Commission de protection du territoire agricole du Québec
 
 ## Water and soil health diagnostic
 
-Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.
+A soil health assessment combining targeted soil sampling (0–15 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier, 2025), together with LiDAR and satellite imagery to guide sampling locations and interpret within-field variability. 
+This diagnostic does not include a full pedological soil profile (horizon-by-horizon description in a pit).
 
 ::: svc-who
 [Who this is for]{.svc-who-label} Farmers in active operation
