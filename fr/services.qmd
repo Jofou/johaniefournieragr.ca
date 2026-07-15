@@ -77,3 +77,9 @@ Chaque dossier commence par une brève description de votre situation — je rev
 [Écrivez-moi](https://tally.so/r/gDZMrJ){.svc-cta-btn}
 :::
 ::::::::::::
+
+---
+
+### Référence
+
+Gauthier, M., Hogue, R., D'Astous-Pagé, J., Champagne, M., Halde, C. (2023). Developing scoring functions based on soil texture to assess agricultural soil health in Quebec. *Canadian Journal of Soil Science*. https://doi.org/10.1139/CJSS-2022-0116

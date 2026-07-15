@@ -45,7 +45,7 @@ An application to the Commission de protection du territoire agricole du Québec
 
 ## Soil health diagnostic
 
-A soil health assessment combining targeted soil sampling (0–20 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier et al., 2023, Canadian Journal of Soil Science). LiDAR and satellite data guide the choice of sampling zones and support the interpretation of within-field variability, a complementary approach to the published model.
+A soil health assessment combining targeted soil sampling (0–20 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier et al., 2023). LiDAR and satellite data guide the choice of sampling zones and support the interpretation of within-field variability, a complementary approach to the published model.
 This diagnostic does not include a full pedological soil profile (horizon-by-horizon description in a pit).
 
 ::: svc-who
@@ -77,3 +77,9 @@ Every file starts with a short description of your situation — I'll get back t
 [Write to me](https://tally.so/r/gDZMrJ){.svc-cta-btn}
 :::
 ::::::::::::
+
+---
+
+### Référence
+
+Gauthier, M., Hogue, R., D'Astous-Pagé, J., Champagne, M., Halde, C. (2023). Developing scoring functions based on soil texture to assess agricultural soil health in Quebec. *Canadian Journal of Soil Science*. https://doi.org/10.1139/CJSS-2022-0116
