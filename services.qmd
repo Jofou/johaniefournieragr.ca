@@ -43,9 +43,9 @@ An application to the Commission de protection du territoire agricole du Québec
 :::: {#diagnostic .svc-service}
 <img src="/images/services/icon-diagnostic.png" class="svc-icon"/>
 
-## Water and soil health diagnostic
+## Soil health diagnostic
 
-A soil health assessment combining targeted soil sampling (0–15 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier, 2025), together with LiDAR and satellite imagery to guide sampling locations and interpret within-field variability. 
+A soil health assessment combining targeted soil sampling (0–20 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier et al., 2023, Canadian Journal of Soil Science). LiDAR and satellite data guide the choice of sampling zones and support the interpretation of within-field variability, a complementary approach to the published model.
 This diagnostic does not include a full pedological soil profile (horizon-by-horizon description in a pit).
 
 ::: svc-who
