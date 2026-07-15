@@ -21,7 +21,7 @@ Agronome, membre de l'Ordre des agronomes du Québec. 15 ans d'expérience en tr
 ::: svc-toc
 [Potentiel agricole et dossiers CPTAQ](#cptaq)
 
-[Diagnostic eau et santé des sols](#diagnostic)
+[Diagnostic santé des sols](#diagnostic)
 
 [PAEF et PAA](#paef)
 

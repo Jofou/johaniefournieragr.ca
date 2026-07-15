@@ -21,7 +21,7 @@ Agronomist, member of the Ordre des agronomes du Québec. 15 years of experience
 ::: svc-toc
 [Agricultural potential and CPTAQ applications](#cptaq)
 
-[Water and soil health diagnostic](#diagnostic)
+[Soil health diagnostic](#diagnostic)
 
 [PAEF and PAA](#paef)
 
