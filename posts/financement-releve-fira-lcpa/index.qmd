@@ -1,0 +1,33 @@
+---
+title: "FIRA, CALA, Succession Loans: Farm Financing Explained"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-11-03"
+categories: [programmes]
+description: "FIRA, the CALA, succession loans: several farm financing programs exist in Quebec, but they answer different needs. How to tell them apart."
+lang: en
+draft: true
+---
+
+## Several acronyms, several different purposes
+
+A new buyer who starts shopping for farm financing quickly runs into a string of acronyms — FIRA, the CALA, La Financière agricole du Québec's succession programs — without always understanding which one applies to their situation. These tools aren't interchangeable: each answers a specific need, and knowing the difference saves time that would otherwise go into an application that doesn't match your profile. Before comparing these programs, it also helps to understand [why a farmland down payment doesn't work like a house's](../mise-de-fonds-terre-agricole/index.qmd).
+
+## FIRA: a lever for getting established, not a standard loan
+
+The Fonds d'investissement pour la relève agricole (FIRA) is a Quebec tool designed specifically to help new farmers get established — often through a capital contribution or financing structured differently from a conventional bank loan, built for farm transfers where the incoming operator doesn't necessarily have an established buyer's level of capitalization. It isn't a general-purpose window: eligibility specifically targets succession projects, not agricultural acquisitions as a whole.
+
+## The CALA: a federal guarantee on a bank loan
+
+The Canadian Agricultural Loans Act (CALA) works differently: it's a federal program that lets a producer obtain a loan from a participating financial institution, backed by a government guarantee that reduces the risk taken on by the lender. This mechanism can make credit more accessible, particularly for new producers, but the loan itself is still negotiated directly with the financial institution — the CALA supports the deal, it doesn't lend directly.
+
+## La Financière agricole's succession programs
+
+Alongside these, La Financière agricole du Québec offers its own financing products with specific streams for new farmers, sometimes including adjusted terms on part of the loan during the early years of operation. These programs are often tied to a business plan or some form of support, which sets them apart from a simple preferential-rate loan.
+
+## What actually determines eligibility
+
+The factor that distinguishes these tools from one another isn't the amount borrowed — it's the applicant's profile and the nature of the project: a new producer getting established, a family transfer, or an acquisition by an operator already in business. Checking eligibility for each before building a financing structure avoids assembling a plan around a program you don't actually qualify for.
+
+---
+
+*This content is general and informational — every property deserves an assessment suited to its own situation.*

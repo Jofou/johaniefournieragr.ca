@@ -1,0 +1,33 @@
+---
+title: "Quebec Farmland Prices: What Transac-TERRES Data Shows"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-06"
+categories: [prix]
+description: "Quebec farmland transaction data reveals a lot about land prices, but it also comes with real limits that a buyer should understand before relying on it."
+lang: en
+draft: true
+---
+
+## An average is never the whole answer
+
+Farmland prices in Quebec have climbed noticeably over the past several years, and the Transac-TERRES database, which compiles actual farmland transactions, gets cited often to back up that trend. It's a genuinely useful resource — as long as you understand what it actually shows, and just as importantly, what it doesn't.
+
+## What this data does well
+
+Transac-TERRES lets you track the average price per hectare over time, by region, and get a realistic sense of scale before negotiating an offer. It's a far more reliable comparison tool than a rough estimate based on a single transaction heard secondhand about a given area.
+
+## What the average doesn't tell you
+
+An average price per hectare masks considerable gaps between two farms in the same region. A transaction logged in the database doesn't necessarily distinguish a well-drained field from one dealing with recurring excess water, or a homogeneous parcel from one broken up by underperforming zones. Two farms that show up at a similar price in regional statistics can represent two very different agronomic realities.
+
+## A starting point, not a conclusion
+
+Using Transac-TERRES to calibrate expectations before a negotiation is a good habit. Mistaking it for a complete assessment of a specific farm's potential is a different thing entirely. The average price gives you a regional reference point; it doesn't replace a reading specific to the parcel in question — soil class, drainage history, access, actual usable acreage.
+
+## Price as a starting point, not an answer
+
+Market data is meant to place an offer in its regional context, not to judge whether a specific piece of land is worth its price. That distinction is often what separates a buyer negotiating with realistic expectations from one who discovers, after the fact, that the average price was hiding a very different reality on the ground. That regional variation isn't random either: [several concrete factors explain why farmland sells so differently from one region to another](../prix-terres-region-a-region/index.qmd).
+
+---
+
+*This content is general and informational — every property deserves an assessment suited to its own situation.*

@@ -1,0 +1,37 @@
+---
+title: "Acheter une terre agricole : les questions à poser avant"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-08-18"
+categories: [achat]
+description: "Avant de signer une offre sur une terre agricole, des questions sur le sol, l'eau et le statut légal du lot méritent d'être posées."
+lang: fr
+draft: true
+---
+
+## Une visite d'une heure ne suffit pas à tout voir
+
+Beaucoup d'acheteurs abordent une terre agricole avec les réflexes d'un achat résidentiel : vérifier le titre, inspecter les bâtiments, regarder l'état général. Le sol et l'eau, eux, ne se lisent pas en une visite. Une terre peut sembler impeccable en plein été et cacher un problème qui ne se révèle qu'au dégel, ou un statut légal plus limité qu'il n'y paraît. Voici les questions qui méritent d'être posées avant de signer une offre d'achat.
+
+## Le sol et l'eau, avant tout
+
+La question centrale : que dit la classe de drainage du sol sur ce lot? Les données pédologiques de l'IRDA sont publiques et permettent déjà de savoir à quel groupe hydrologique appartient une parcelle avant même une visite. Il vaut la peine de demander au vendeur ou au courtier s'il existe une analyse de sol récente, et si certaines zones du champ sont connues pour un excès d'eau printanier ou un rendement chroniquement plus faible que le reste de la parcelle. [Ces signes de drainage caché](../signes-drainage-cache/index.qmd) se repèrent souvent dès une simple visite, avant toute analyse en laboratoire.
+
+## L'historique d'utilisation du champ
+
+Les cultures des dernières années, la rotation suivie, et surtout : est-ce que l'accès au champ pour les semis a été retardé de façon répétée par rapport aux terres voisines? Un retard récurrent, année après année, est souvent le signe indirect d'un taux de rabattement lent — l'eau met plus de temps à quitter le profil de sol après une pluie que sur un terrain comparable. C'est une question simple à poser, et la réponse en dit long.
+
+## Le statut légal exact du lot
+
+Un usage actuel conforme au zonage agricole ne veut pas dire que tout usage futur l'est aussi. Si un [droit acquis](../droits-acquis-zone-agricole/index.qmd) est invoqué pour justifier un usage ou un bâtiment particulier, il vaut la peine de demander s'il est documenté — une simple affirmation verbale ne suffit pas à en garantir la validité. Pour les questions plus larges sur ce que la CPTAQ autorise ou non sur un lot en zone agricole, [cet article](../cptaq-zone-agricole/index.qmd) détaille les critères appliqués.
+
+## Le bail en cours, s'il y en a un
+
+Si la terre est déjà louée à un tiers, les clauses du bail actuel méritent d'être lues avant de signer : durée, conditions de renouvellement, responsabilité des travaux d'entretien du réseau hydraulique, et qui a payé pour les dernières améliorations (drainage, chaulage). Un bail mal documenté peut compliquer une transition, même quand la relation avec le locataire actuel semble cordiale.
+
+## Une liste courte, pas exhaustive
+
+Ces questions ne remplacent pas une diligence complète, mais elles évitent les angles morts les plus fréquents. Un vendeur ou un courtier sérieux ne devrait pas hésiter à y répondre — l'absence de réponse claire est souvent, en soi, une réponse. Ces réflexes valent aussi pour une [reprise de terre familiale](../reprendre-terre-familiale/index.qmd), et recoupent plusieurs [mythes répandus sur l'achat de terre agricole](../mythes-terre-agricole/index.qmd) qui méritent d'être déboulonnés.
+
+---
+
+*Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

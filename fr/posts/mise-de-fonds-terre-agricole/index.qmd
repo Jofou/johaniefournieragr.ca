@@ -1,0 +1,33 @@
+---
+title: "Mise de fonds sur une terre agricole : pourquoi c'est différent"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-20"
+categories: [financement]
+description: "Financer l'achat d'une terre agricole ne fonctionne pas comme financer une maison. Voici pourquoi la mise de fonds diffère autant."
+lang: fr
+draft: true
+---
+
+## Un prêt hypothécaire résidentiel n'est pas un gabarit
+
+Un acheteur qui a déjà financé une maison arrive souvent à l'achat d'une terre agricole avec les mêmes attentes : une mise de fonds standard, un prêt basé sur la valeur de revente, une approbation relativement rapide. La réalité du financement agricole suit une autre logique, et le comprendre avant de magasiner un prêt évite bien des surprises en cours de transaction.
+
+## Ce que le prêteur évalue vraiment
+
+Une résidence se finance largement sur la base de comparables de vente dans le marché immobilier local. Une terre agricole se finance davantage sur la base de son potentiel de revenu — ce qu'elle peut produire, sa classe de sol, son historique de rendement — plutôt que sur une simple comparaison de prix au voisinage. Un prêteur agricole regarde la capacité de la terre à générer un revenu suffisant pour soutenir le remboursement, pas seulement sa valeur marchande.
+
+## Une mise de fonds généralement plus exigeante
+
+La mise de fonds attendue sur une terre agricole est souvent plus élevée, en proportion, que celle exigée pour une résidence, en particulier lorsque l'acheteur n'a pas d'historique d'exploitation déjà établi sur cette terre ou une autre. Les institutions financières agricoles évaluent le risque différemment d'une banque à hypothèque résidentielle classique : moins de recours aux protections d'assurance prêt habituelles, plus de poids donné à la stabilité du revenu agricole projeté.
+
+## Des prêteurs et des programmes distincts
+
+Le financement agricole passe souvent par des canaux différents des prêts hypothécaires résidentiels standards — La Financière agricole du Québec, des institutions financières avec une division agricole dédiée, ou des programmes spécifiques pour la relève, qui offrent parfois des conditions ajustées (taux réduit sur une partie du prêt, par exemple) durant les premières années. Vérifier son admissibilité à ces programmes avant de négocier une offre peut changer significativement la structure de financement envisageable. [FIRA, LCPA et les prêts relève](../financement-releve-fira-lcpa/index.qmd) répondent chacun à un profil différent — les distinguer évite de bâtir un plan de financement autour du mauvais programme.
+
+## Se préparer avant de négocier
+
+Comprendre cette différence de logique — potentiel de revenu plutôt que seule valeur de revente, mise de fonds plus substantielle, canaux de financement distincts — permet d'arriver à la table de négociation avec des attentes réalistes, plutôt que de le découvrir après avoir déjà fait une offre.
+
+---
+
+*Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

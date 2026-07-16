@@ -1,0 +1,29 @@
+---
+title: "Why Where You Sample Changes the Result"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-27"
+categories: [soil-health]
+description: "A composite sample gives you an average. It doesn't tell you where, within the field, that average is hiding real variability."
+lang: en
+draft: true
+---
+
+## A composite sample tells you an average, not a map
+
+The usual sampling method gives a representative picture of one homogeneous zone within a field. It's reliable for what it measures, but it tells you an average. A field with one excellent zone and one struggling zone can show a perfectly reasonable average result, with nothing on the certificate hinting that two very different realities coexist on the same parcel.
+
+## What spatial data adds before you even sample
+
+LiDAR data and satellite imagery make it possible to spot, before a shovel ever touches the ground, the zones that behave differently within a single field — a poorly drained section, a shift in topography, a zone that consistently underperforms. Targeting sampling on these zones, rather than on a general average, gives a much sharper read of what's actually happening, and where.
+
+## An important caveat about this approach
+
+The [soil health model](../sante-globale-sols/index.qmd) used (Gauthier et al., 2023) was validated on composite sampling representing a homogeneous zone, not on sampling guided by remote sensing. Combining the two — a published model and zone selection assisted by spatial data — is a complementary approach, not an extension already confirmed in the scientific literature. It's an addition that makes agronomic sense, but it rests on professional judgment, not on a published validation of this specific combination.
+
+## What this changes in practice
+
+For a field suspected of being heterogeneous, sampling a problem zone separately from a performing zone gives two distinct diagnostics, rather than one average number that dilutes both into each other. That's useful for targeting an intervention where it's actually needed, rather than applying the same recommendation across the whole field.
+
+---
+
+*This content is general and informational — every field deserves an assessment suited to its own situation.*

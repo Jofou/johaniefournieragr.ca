@@ -1,0 +1,35 @@
+---
+title: "133 décisions CPTAQ : ce qui distingue un dossier accepté"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-08-25"
+categories: [cptaq]
+description: "Analyse de 133 décisions d'aliénation de la CPTAQ : la preuve économique chiffrée du projet pèse plus que la présence des bons critères."
+lang: fr
+draft: true
+---
+
+## Une question simple, jamais vraiment répondue
+
+Qu'est-ce qui fait vraiment pencher une décision de la CPTAQ? La loi donne les critères, mais elle ne dit pas lesquels pèsent le plus dans la pratique, ni ce qui distingue un dossier bien monté d'un dossier qui rate sa cible. Plutôt que de se fier à l'impression générale, j'ai lu 133 décisions rendues, principalement des dossiers d'aliénation, dans quatre MRC du Québec.
+
+## Le chiffre qui m'a surprise le plus
+
+Dans cet échantillon, **seulement 12 % des dossiers d'aliénation avaient un professionnel (agronome, avocat, notaire) cité comme représentant au dossier**. La grande majorité des demandeurs, souvent des particuliers ou des petites entreprises, naviguent le processus seuls, sans accompagnement technique ou juridique.
+
+## Ce qui revient dans les dossiers acceptés
+
+Trois éléments reviennent de façon constante dans les décisions favorables : une démonstration que la superficie résultante permet un projet agricole viable, une cohérence avec la taille des propriétés voisines (homogénéité), et une preuve économique du projet, pas juste une intention déclarée. Ce dernier point est le plus déterminant, et le moins souvent bien fait.
+
+## Un contraste qui illustre le pattern
+
+Deux dossiers, même type de demande, résultats opposés. L'un a été refusé en partie parce que le demandeur n'avait déposé ni projet détaillé ni documentation financière à l'appui de son morcellement. L'autre a été accepté, avec un projet chiffré à l'appui, malgré des questions restées ouvertes sur son financement. La différence n'était pas dans la qualité du terrain, elle était dans la rigueur de la preuve déposée. [Ce cas précis](../viabilite-economique-morcellement/index.qmd) illustre bien ce contraste en détail.
+
+## Ce que ça signifie concrètement
+
+La présence des bons critères dans un dossier ne suffit pas : ils apparaissent dans une proportion similaire, qu'un dossier soit accepté ou refusé. C'est la **valeur chiffrée et comparative** qui fait la différence, un rendement projeté, un comparable régional, une donnée mesurable plutôt qu'une affirmation générale. C'est précisément l'angle mort que la majorité des dossiers de mon échantillon n'ont pas comblé.
+
+C'est ce constat qui a motivé le lancement d'un [service de mandataire pour les dossiers d'aliénation](../lancement-service-mandataire/index.qmd).
+
+------------------------------------------------------------------------
+
+*Analyse basée sur un échantillon de 133 décisions rendues dans quatre MRC (Chaudière-Appalaches et Montérégie), majoritairement des dossiers d'aliénation. Chaque dossier mérite une évaluation propre à sa situation.*

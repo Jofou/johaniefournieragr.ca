@@ -1,0 +1,33 @@
+---
+title: "Farmland Down Payments: Why They Don't Work Like a House"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-20"
+categories: [financement]
+description: "Financing a farmland purchase doesn't work like financing a house. Here is why the down payment and the lender's criteria differ so much between the two."
+lang: en
+draft: true
+---
+
+## A residential mortgage isn't a template
+
+A buyer who has already financed a house often approaches a farmland purchase with the same expectations: a standard down payment, a loan based on resale value, a relatively quick approval. Farmland financing follows a different logic altogether, and understanding that before shopping for a loan avoids a lot of surprises partway through a transaction.
+
+## What the lender is actually assessing
+
+A house is largely financed based on comparable sales in the local real estate market. Farmland is financed more on the basis of its income potential — what it can produce, its soil class, its yield history — rather than a simple comparison of neighbouring prices. An agricultural lender looks at whether the land can generate enough income to support repayment, not just at its market value.
+
+## A down payment that's usually steeper
+
+The down payment expected on farmland is often higher, proportionally, than what's required for a house — particularly when the buyer has no established farming track record on that land or elsewhere. Agricultural lenders assess risk differently than a standard residential mortgage lender: less reliance on typical mortgage insurance protections, more weight put on the stability of projected farm income.
+
+## Different lenders, different programs
+
+Farm financing often runs through channels distinct from standard residential mortgages — La Financière agricole du Québec, financial institutions with a dedicated agricultural division, or specific programs for new farmers, which sometimes offer adjusted terms, such as a reduced rate on part of the loan, during the first few years. Checking eligibility for these programs before negotiating an offer can meaningfully change what financing structure is actually on the table. [FIRA, the CALA, and succession loans](../financement-releve-fira-lcpa/index.qmd) each target a different profile — telling them apart avoids building a financing plan around the wrong program.
+
+## Getting ready before you negotiate
+
+Understanding this difference in logic — income potential rather than resale value alone, a steeper down payment, distinct financing channels — makes it possible to arrive at the negotiating table with realistic expectations, instead of discovering it after an offer has already been made.
+
+---
+
+*This content is general and informational — every property deserves an assessment suited to its own situation.*

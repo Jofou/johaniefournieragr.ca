@@ -1,0 +1,39 @@
+---
+title: "Quebec's Green Zone: What the CPTAQ Really Looks At"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-08-04"
+categories: [cptaq]
+description: "Buying farmland in Quebec's green zone? Here are the 14 legal criteria the CPTAQ applies before approving a non-agricultural use."
+lang: en
+draft: true
+---
+
+## The green zone isn't a wall
+
+Anyone looking at farmland in Quebec's agricultural zone eventually asks the same question: what can I actually do with this land beyond farming it — subdivide, build, change its use? The answer isn't left to case-by-case impression. Quebec's Act respecting the preservation of agricultural land and agricultural activities (LPTAA) sets out a precise list of criteria, and the Commission de protection du territoire agricole du Québec (CPTAQ) applies them to every application involving a subdivision, transfer, or change of use on land in the agricultural zone.
+
+## Where these criteria come from
+
+This isn't left to a commissioner's impression. Section 62 of the LPTAA lists 14 mandatory criteria the CPTAQ must weigh for any application touching agricultural land, plus 4 optional criteria it may also consider. A guide published jointly by the CPTAQ and the Ordre des agronomes du Québec translates these legal criteria into concrete, observable factors — which makes the process predictable for anyone who checks it before filing an application.
+
+## Agricultural potential comes first
+
+The first two criteria look at what the land can produce, not at what the applicant wants to do with it. The CPTAQ assesses the agricultural potential of the lot itself and of the surrounding lots, along with the real possibilities of using the land for agricultural purposes. An isolated, low-potential lot surrounded by land already unsuited to cultivation is not treated the same way as a lot sitting inside a productive, homogeneous agricultural area. What surrounds the parcel carries as much weight as the parcel itself.
+
+## Effects on surrounding agriculture and resources
+
+Several criteria then widen the lens beyond the lot itself: the consequences on existing agricultural activities and on the agricultural potential of neighbouring lots, the constraints arising from environmental laws (particularly for livestock operations), the homogeneity of the farming community and operation, and the effect on preserving water and soil for agriculture in the region. The Commission also looks at whether the resulting properties have a sufficient area to support a viable agricultural project, across a range of possible models.
+
+## Territory and community development
+
+Other criteria look at the broader picture: the effect on the sustainable development of the territory, the socio-economic conditions needed for the vitality of a struggling community, the MRC's agricultural zone development plan, the effects of an agrotourism project on the viability of the farm operation, the vitality of the agricultural territory, and compliance with the MRC's land use and development plan. Together, these criteria mean that a decision on a single lot also accounts for what it means for agriculture across the region as a whole.
+
+## What this means for a buyer
+
+These 14 criteria don't change from one application to the next. This isn't a broad impression or a sliding-scale judgment call — it's a fixed grid, applied consistently, with the Commission weighing whichever criteria are relevant to each file. Knowing them before making an offer helps a buyer read what a piece of land in the green zone actually allows, and what stays out of reach without going through a formal application for authorization.
+
+Two related nuances are worth reading on their own: what [acquired rights](../droits-acquis-zone-agricole/index.qmd) actually protect, and what [a read of real CPTAQ decisions](../133-decisions-cptaq/index.qmd) reveals about what separates an approved file from a rejected one.
+
+---
+
+*This content is general and informational — every property deserves an assessment suited to its own situation.*

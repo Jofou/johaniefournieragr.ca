@@ -1,0 +1,29 @@
+---
+title: "Échantillonnage de sol : pourquoi l'endroit change le résultat"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-27"
+categories: [sante-des-sols]
+description: "Un échantillon composite donne une moyenne. Il ne dit pas où, dans le champ, cette moyenne cache une variabilité qui change tout."
+lang: fr
+draft: true
+---
+
+## Un échantillon composite raconte une moyenne, pas une carte
+
+La méthode habituelle d'échantillonnage donne un portrait représentatif d'une zone homogène du champ. C'est fiable pour ce qu'elle mesure, mais elle raconte une moyenne. Un champ avec une zone excellente et une zone problématique peut afficher un résultat moyen tout à fait correct, sans que rien dans le certificat n'indique que deux réalités très différentes cohabitent sur la même parcelle.
+
+## Ce que les données spatiales ajoutent avant même le prélèvement
+
+Les données LiDAR et l'imagerie satellite permettent de repérer, avant de mettre la pelle en terre, les zones qui se comportent différemment à l'intérieur d'un même champ, un secteur mal drainé, une variation de topographie, une zone de croissance chroniquement plus faible. Cibler l'échantillonnage sur ces zones, plutôt que sur une moyenne générale, donne une lecture plus fine de ce qui se passe réellement, et où.
+
+## Une précision importante sur cette approche
+
+Le [modèle scientifique de santé des sols](../sante-globale-sols/index.qmd) utilisé (Gauthier et al., 2023) a été validé sur un échantillonnage composite représentant une zone homogène, pas sur un échantillonnage guidé par télédétection. Combiner les deux, un modèle publié et une sélection de zones assistée par données spatiales, est une approche complémentaire, pas une extension déjà confirmée dans la littérature scientifique. C'est un ajout qui a du sens agronomiquement, mais qui repose sur un jugement professionnel, pas sur une validation publiée pour cette combinaison précise.
+
+## Ce que ça change concrètement
+
+Pour un champ qu'on soupçonne hétérogène, échantillonner une zone à problème séparément d'une zone performante donne deux diagnostics distincts, plutôt qu'un seul chiffre moyen qui dilue l'un dans l'autre. C'est utile pour cibler une intervention sur la zone qui en a réellement besoin, plutôt que d'appliquer une même recommandation à tout le champ.
+
+---
+
+*Ce contenu est informatif et général — chaque champ mérite une évaluation propre à sa situation.*

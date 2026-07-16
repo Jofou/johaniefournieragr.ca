@@ -1,0 +1,33 @@
+---
+title: "Analyse de sol vs diagnostic de santé des sols : la nuance"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-09-29"
+categories: [sante-des-sols]
+description: "Une analyse de fertilité répond à une question chimique. Un diagnostic de santé des sols en pose trois de plus, calibré pour le Québec."
+lang: fr
+draft: true
+---
+
+## Deux questions différentes, pas deux versions de la même chose
+
+Une analyse de sol standard répond à une question précise : quels éléments nutritifs sont disponibles, et en quelle quantité. C'est une lecture chimique, essentielle pour ajuster la fertilisation d'une saison. Un diagnostic de santé des sols pose une question plus large : est-ce que ce sol fonctionne bien, physiquement et biologiquement, pas seulement chimiquement. Ce sont deux outils complémentaires, pas deux façons de répondre à la même question.
+
+## Ce qu'un diagnostic de santé des sols mesure en plus
+
+Un modèle calibré spécifiquement pour les conditions québécoises, publié en 2023 dans le *Canadian Journal of Soil Science* (Gauthier et al.), évalue 15 indicateurs répartis en trois catégories. Le volet physique regarde la stabilité des agrégats et la réserve en eau utile, deux mesures de la structure du sol. Le volet biologique regarde la respiration microbienne et l'azote potentiellement minéralisable, des indicateurs de l'activité vivante du sol. Le volet chimique reprend les éléments nutritifs classiques, pH, phosphore, potassium, et plusieurs autres.
+
+## Pourquoi la structure et la biologie du sol comptent aussi
+
+Un sol peut afficher des valeurs chimiques adéquates et quand même sous-performer, parce que sa structure limite l'enracinement ou parce que son activité biologique est faible. Ces angles morts n'apparaissent pas dans un certificat d'analyse standard, mais ils expliquent souvent des écarts de rendement qu'une lecture uniquement chimique ne peut pas expliquer.
+
+## Ce que le protocole exige concrètement
+
+Le modèle a été calibré sur un échantillonnage précis, à la pelle, entre 0 et 20 cm, en plusieurs points représentatifs d'une zone homogène du champ. [Cibler cet échantillonnage](../echantillonnage-cible-sol/index.qmd) sur les zones les plus pertinentes du champ, plutôt que sur une moyenne générale, en améliore la portée pratique. Une mesure de compaction est prise directement sur le terrain, en complément de l'échantillon envoyé au laboratoire. Ce n'est pas une variante libre d'une analyse standard, c'est un protocole fixe, parce que la validité du modèle en dépend.
+
+## Ce que ça ne remplace pas
+
+Un diagnostic de santé des sols n'est pas un profil pédologique complet, il ne décrit pas les horizons du sol en fosse. C'est un portrait ciblé sur des indicateurs fonctionnels précis, pas une caractérisation exhaustive du profil.
+
+---
+
+*Ce contenu est informatif et général — chaque champ mérite une évaluation propre à sa situation.*

@@ -1,0 +1,33 @@
+---
+title: "Terre en culture vs terre à potentiel : même prix, deux réalités"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-09-08"
+categories: [potentiel]
+description: "Deux terres agricoles vendues au même prix peuvent cacher deux réalités agronomiques bien différentes. Une question à se poser."
+lang: fr
+draft: true
+---
+
+## Même prix, mais est-ce vraiment la même terre?
+
+Deux terres agricoles affichées au même prix, dans le même secteur, avec une superficie comparable. Sur papier, elles se ressemblent. Sur le terrain, elles peuvent représenter deux choses complètement différentes — et la question qui distingue les deux ne saute pas toujours aux yeux lors d'une visite.
+
+## Une terre qui donne déjà tout ce qu'elle peut donner
+
+Un premier scénario : la terre est cultivée depuis des décennies, bien entretenue, avec un rendement stable et connu. Le prix reflète cette performance actuelle — ce que la terre donne aujourd'hui, année après année. Il n'y a pas vraiment de surprise à attendre : ce que vous voyez est essentiellement ce que vous obtiendrez.
+
+## Une terre qui donne moins que ce qu'elle pourrait
+
+Un deuxième scénario, moins évident : une terre avec un rendement actuel plus modeste, parfois pour des raisons qui n'ont rien à voir avec le potentiel réel du sol — une rotation mal adaptée, un entretien minimal du réseau hydraulique, un ancien propriétaire qui n'exploitait la terre qu'en partie. Sous la performance actuelle, le sol et le drainage peuvent avoir une capacité nettement supérieure à ce qui est exploité.
+
+## La vraie question à se poser
+
+Face à deux terres au même prix, la question qui compte n'est pas seulement « combien ça rapporte aujourd'hui? » mais « est-ce que cette terre donne déjà son plafond, ou est-ce qu'il reste de la marge sous la surface? ». Une terre qui performe déjà à son maximum et une terre sous-exploitée avec un vrai potentiel caché peuvent se vendre au même prix — pour des raisons complètement différentes. Confondre les deux, c'est risquer de payer une prime pour un plafond, ou de sous-estimer une occasion.
+
+## Une distinction qui vaut la peine d'être creusée
+
+Ce n'est pas une question qui se répond en marchant sur le terrain un après-midi d'été. Elle demande de regarder au-delà du rendement affiché — l'historique du champ, [les signes de drainage](../signes-drainage-cache/index.qmd) qui trahissent un excès d'eau non résolu, et le contexte pédologique du secteur. Pour un acheteur, c'est souvent la distinction la plus payante entre deux offres qui semblent, au premier regard, interchangeables.
+
+---
+
+*Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

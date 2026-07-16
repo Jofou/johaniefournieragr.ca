@@ -1,0 +1,33 @@
+---
+title: "Prix des terres agricoles au Québec selon Transac-TERRES"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-10-06"
+categories: [prix]
+description: "Les données Transac-TERRES révèlent beaucoup sur le prix des terres agricoles au Québec, mais elles ont aussi des limites à connaître."
+lang: fr
+draft: true
+---
+
+## Un chiffre moyen n'est jamais la réponse complète
+
+Le prix des terres agricoles au Québec a augmenté de façon marquée au cours des dernières années, et la base de données Transac-TERRES, qui compile les transactions réelles de terres agricoles, est souvent citée pour appuyer cette tendance. C'est une ressource utile — à condition de comprendre ce qu'elle montre vraiment, et surtout ce qu'elle ne montre pas.
+
+## Ce que ces données montrent bien
+
+Transac-TERRES permet de suivre l'évolution du prix moyen au hectare dans le temps, par région, et d'obtenir un ordre de grandeur réaliste avant de négocier une offre. C'est un outil de comparaison bien plus fiable qu'une estimation approximative basée sur une seule transaction entendue par le bouche-à-oreille dans un secteur donné.
+
+## Ce que la moyenne ne dit pas
+
+Un prix moyen au hectare masque des écarts considérables entre deux terres de la même région. Une transaction compilée dans la base de données ne distingue pas nécessairement une terre bien drainée d'une terre aux prises avec un excès d'eau récurrent, ni une terre homogène d'une terre morcelée par des zones de mauvais rendement. Deux terres qui apparaissent à un prix similaire dans les statistiques régionales peuvent représenter deux potentiels agronomiques très différents.
+
+## Une donnée de départ, pas une conclusion
+
+Utiliser Transac-TERRES pour calibrer ses attentes avant une négociation reste une bonne pratique. Le confondre avec une évaluation complète du potentiel d'une terre spécifique en est une autre. Le prix moyen donne un point de référence régional; il ne remplace pas une lecture propre à la parcelle visée — classe de sol, historique de drainage, accès, superficie utile réelle.
+
+## Le prix comme point de départ, pas comme réponse
+
+Une donnée de marché sert à situer une offre dans son contexte régional, pas à juger si une terre précise vaut son prix. Cette nuance-là fait souvent toute la différence entre un acheteur qui négocie avec des attentes réalistes et un acheteur qui découvre, après coup, que le prix moyen cachait une réalité bien différente sur le terrain visé. Cette variation régionale n'est pas non plus un hasard : [plusieurs facteurs concrets expliquent pourquoi les terres se vendent différemment d'une région à l'autre](../prix-terres-region-a-region/index.qmd).
+
+---
+
+*Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

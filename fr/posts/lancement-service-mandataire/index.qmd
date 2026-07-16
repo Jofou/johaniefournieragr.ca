@@ -1,0 +1,35 @@
+---
+title: "Nouveau service de mandataire pour vos dossiers CPTAQ"
+author: "Johanie Fournier, agr., M.Sc."
+date: "2026-12-05"
+categories: [cptaq]
+description: "Diagnostic, montage du dossier, dépôt et représentation jusqu'à la décision : GeoAgro lance un service de mandataire CPTAQ."
+lang: fr
+draft: true
+---
+
+<!-- NE PAS PUBLIER AVANT LA FIN DE LA FORMATION LPTAA (Cécile Demers, novembre 2026). Ce post annonce le volet mandataire, qui n'est ni offert ni mentionné publiquement avant cette date. -->
+
+## Un an de préparation, un nouveau volet
+
+Depuis quelques mois, GeoAgro accompagne des propriétaires, promoteurs, notaires et municipalités avec un diagnostic de potentiel agricole pour leurs dossiers CPTAQ. Ce volet reste actif et continue. Un deuxième volet s'ajoute maintenant : l'accompagnement complet d'un dossier d'aliénation, du diagnostic jusqu'à la décision de la Commission.
+
+## Pourquoi ce service, et pourquoi maintenant
+
+Dans [l'analyse de plus d'une centaine de décisions rendues par la CPTAQ](../133-decisions-cptaq/index.qmd), un pattern net ressort : la majorité des dossiers d'aliénation sont préparés sans accompagnement professionnel, technique ou juridique. Beaucoup de propriétaires et de producteurs naviguent seuls un processus qui demande pourtant une preuve rigoureuse pour aboutir. Ce nouveau service répond directement à ce vide, avec une formation complétée sur le cheminement concret d'une demande à la CPTAQ, en plus de l'expertise agronomique déjà développée.
+
+## Ce que couvre ce service
+
+Le diagnostic de potentiel agricole, la préparation et le dépôt formel de la demande, le rôle de point de contact avec la Commission pendant tout le traitement du dossier, et la représentation lors des échanges avec la Commission jusqu'à la décision.
+
+## Ce qu'il ne couvre pas
+
+Les critères qui relèvent d'autres expertises, comme la conformité au zonage municipal ou la disponibilité d'espaces alternatifs hors zone agricole, restent hors du champ de ce service, et continuent de relever de l'urbaniste ou du notaire au dossier, selon le cas.
+
+## Pour qui
+
+Les propriétaires et producteurs qui préfèrent confier l'ensemble du processus à quelqu'un en qui ils ont confiance, plutôt que de gérer eux-mêmes les échanges avec la Commission.
+
+---
+
+*Pour discuter d'un dossier précis, écrivez-moi directement.*
