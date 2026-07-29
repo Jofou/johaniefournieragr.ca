@@ -33,4 +33,4 @@ Ce site est un espace pour partager ma façon de voir l’agronomie : rigoureuse
 
 Pour toute demande professionnelle : [formulaire de contact](https://tally.so/r/gDZMrJ)
 
-Consultez notre [politique de confidentialité](politique.html) pour savoir comment vos renseignements sont traités.
+Consultez notre [politique de confidentialité](policy.html) pour savoir comment vos renseignements sont traités.
