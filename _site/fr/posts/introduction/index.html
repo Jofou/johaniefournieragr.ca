@@ -226,8 +226,6 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/about':       '/fr/a_propos.html',
     '/blog.html':   '/fr/posts.html',
     '/blog':        '/fr/posts.html',
-    '/policy.html': '/fr/policy.html',
-    '/policy':      '/fr/policy.html',
     '/':            '/fr/'
   };
   var frToEn = {
@@ -236,8 +234,6 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/fr/a_propos':      '/about.html',
     '/fr/posts.html':    '/blog.html',
     '/fr/posts':         '/blog.html',
-    '/fr/policy.html': '/policy.html',
-    '/fr/policy':      '/policy.html',
     '/fr/':              '/'
   };
 
@@ -284,7 +280,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       });
 
       // Réécrire + traduire le lien de politique de confidentialité dans le footer
-      document.querySelectorAll('a[href*="policy"]').forEach(function (a) {
+      document.querySelectorAll('footer a[href*="policy"]').forEach(function (a) {
         try {
           var url = new URL(a.href);
           if (url.hostname !== window.location.hostname) return;
