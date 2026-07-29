@@ -65,7 +65,7 @@
       });
 
       // Réécrire + traduire le lien de politique de confidentialité dans le footer
-      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+      document.querySelectorAll('a[href*="policy"]').forEach(function (a) {
         try {
           var url = new URL(a.href);
           if (url.hostname !== window.location.hostname) return;

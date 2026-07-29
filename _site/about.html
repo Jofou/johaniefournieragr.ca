@@ -258,7 +258,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       });
 
       // Réécrire + traduire le lien de politique de confidentialité dans le footer
-      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+      document.querySelectorAll('a[href*="policy"]').forEach(function (a) {
         try {
           var url = new URL(a.href);
           if (url.hostname !== window.location.hostname) return;
@@ -683,7 +683,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p><a href="./policy.html" class="lang-footer-link">Privacy Policy</a></p>
+<p><a href="policy.html">Privacy Policy</a></p>
 </div>
   </div>
 </footer>

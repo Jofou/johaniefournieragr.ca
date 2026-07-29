@@ -1,0 +1,250 @@
+/* ============================================================
+   Page Services — styles additionnels
+   À coller à la fin de ton styles.css existant.
+   Toutes les classes sont préfixées "svc-" pour ne jamais entrer
+   en conflit avec les classes Bootstrap/Quarto (nav, btn, toc, etc.)
+   ============================================================ */
+
+:root{
+  /* Accents dérivés du thème solar (_variables.scss), légèrement
+     intensifiés en saturation pour mieux ressortir sur fond clair.
+     Solar réel : primary (doré) #B58900 / body-bg (marine) #002B36 */
+  --svc-ochre:       #C99000;
+  --svc-ochre-deep:  #9C6E00;
+  --svc-teal:        #2AA198;
+  --svc-teal-deep:   #001820;
+  --svc-ink:         #212529;
+  --svc-gray:        #495057;
+  --svc-line:        #e9ecef;
+  --svc-green:       #3D4A2F;
+}
+
+/* ============================================================
+   NAVBAR — surcharge active SEULEMENT sur cette page, puisque ce
+   fichier CSS n'est chargé que par services.qmd / fr/services.qmd.
+   La nav reste dorée/marine partout ailleurs sur le site.
+   ============================================================ */
+.navbar{
+  background-color: #FAF9F4 !important;
+  border-bottom: 1px solid var(--svc-line);
+}
+.navbar .navbar-brand,
+.navbar-nav .nav-link{
+  color: var(--svc-ink) !important;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus{
+  color: var(--svc-teal) !important;
+}
+.navbar-nav .nav-link.active{
+  color: var(--svc-ochre) !important;
+}
+/* toggler / search / language icons are drawn assuming a dark navbar;
+   force them dark so they stay visible on the new light background */
+.navbar-toggler-icon{
+  filter: invert(1) grayscale(1) brightness(0.3);
+}
+.navbar .quarto-search-icon,
+.navbar #quarto-search svg,
+.navbar .aa-SubmitIcon,
+.navbar .bi{
+  color: var(--svc-ink) !important;
+  fill: var(--svc-ink) !important;
+}
+
+/* kill the leftover plain title Quarto inserts above content,
+   even with title-block-banner:false */
+#title-block-header{
+  display:none !important;
+}
+
+/* extend the light background to the real <body>, so the TOC margin
+   column (which sits outside .svc-page) doesn't show the dark theme
+   behind it — only applies on pages containing .svc-page */
+body:has(.svc-page){
+  background: #FAF9F4 !important;
+}
+
+.svc-page{
+  font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
+  color: var(--svc-gray);
+  background: #FAF9F4;
+  padding-bottom: 2rem;
+  /* full-bleed: escape Quarto's content container regardless of its
+     width or the TOC sidebar reserved next to it */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.svc-page h2, .svc-page h1{
+  font-family: "Fraunces", serif;
+  font-weight: 500;
+  color: var(--svc-ink);
+}
+
+/* ---------- HERO ---------- */
+.svc-hero{
+  position:relative;
+  min-height:66vh;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  justify-content:flex-end;
+  background:
+    linear-gradient(180deg, rgba(33,37,41,0.10) 0%, rgba(20,16,11,0.80) 92%),
+    url('images/services/hero-diagnostic.jpg') center 30%/cover no-repeat;
+  padding:48px 8vw 64px 8vw;
+  margin-bottom: 2.5rem;
+}
+.svc-eyebrow{
+  font-family:'IBM Plex Mono', monospace;
+  font-size:0.72rem;
+  letter-spacing:0.12em;
+  text-transform:uppercase;
+  color: var(--svc-ochre);
+  display:block;
+  margin-bottom:14px;
+}
+.svc-hero h1{
+  color:#fff;
+  font-size:clamp(1.8rem, 3.6vw, 2.5rem);
+  max-width:22ch;
+  margin-bottom:12px;
+}
+.svc-hero p{
+  color:rgba(255,255,255,0.88);
+  max-width:56ch;
+  font-size:1rem;
+  margin:0;
+}
+
+/* ---------- IN-PAGE LINK BAR (replaces Quarto's native right-side TOC) ---------- */
+.svc-toc{
+  display:flex;
+  gap:28px;
+  flex-wrap:wrap;
+  padding:22px 8vw;
+  border-bottom:1px solid var(--svc-line);
+  font-family:'IBM Plex Mono', monospace;
+  font-size:0.72rem;
+}
+.svc-toc a{
+  color: var(--svc-gray) !important;
+  text-decoration:none;
+}
+.svc-toc a:hover{
+  color: var(--svc-teal) !important;
+}
+
+/* ---------- READING COLUMN (matches mockup's contained width) ---------- */
+.svc-service, .svc-closing{
+  max-width: 860px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left: 6vw;
+  padding-right: 6vw;
+}
+
+/* ---------- SERVICE SECTIONS ---------- */
+.svc-service{
+  position:relative;
+  padding-top:44px;
+  padding-bottom:44px;
+  padding-left: calc(6vw + 74px); /* room for the fixed-position icon */
+  border-bottom:1px solid var(--svc-line);
+}
+.svc-icon{
+  position:absolute;
+  left: 6vw;
+  top:46px;
+  width:48px;
+  height:48px;
+  object-fit:contain;
+}
+.svc-service h2{
+  font-size:1.4rem;
+  margin-top:0;
+  margin-bottom:12px;
+  color: var(--svc-green);
+  border-bottom: none; /* override Quarto's default h2 underline if theme adds one */
+}
+.svc-service p{
+  font-size:0.98rem;
+  color: var(--svc-gray);
+  max-width:60ch;
+}
+.svc-who{
+  display:flex;
+  align-items:baseline;
+  gap:10px;
+  font-size:0.86rem;
+  margin-top:14px;
+}
+.svc-who-label{
+  font-family:'IBM Plex Mono', monospace;
+  font-size:0.65rem;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color: var(--svc-ochre);
+}
+.svc-funding-note{
+  display:inline-block;
+  margin-top:12px;
+  font-size:0.82rem;
+  color: var(--svc-gray);
+  border-left:2px solid var(--svc-teal);
+  padding-left:12px;
+}
+
+/* ---------- CLOSING ---------- */
+.svc-closing{
+  padding-top:50px;
+  padding-bottom:20px;
+}
+.svc-closing h2{
+  font-size:1.5rem;
+  margin-bottom:14px;
+}
+.svc-closing p{
+  color: var(--svc-gray);
+  max-width:52ch;
+  margin-bottom:22px;
+}
+.svc-cta-btn{
+  font-family:"Source Sans 3", sans-serif;
+  font-weight:600;
+  font-size:0.92rem;
+  padding:12px 26px;
+  background: var(--svc-ochre);
+  color:#fff !important;
+  border-radius:3px;
+  display:inline-block;
+  text-decoration:none !important;
+  transition:background 0.15s ease;
+}
+.svc-cta-btn:hover{
+  background: var(--svc-ochre-deep);
+}
+
+/* links inside service copy use the intensified teal, not the theme default */
+.svc-page a:not(.svc-cta-btn){
+  color: var(--svc-teal);
+}
+.svc-page a:not(.svc-cta-btn):hover{
+  color: var(--svc-teal-deep);
+}
+
+@media (max-width:640px){
+  .svc-service{
+    padding-left: 6vw;
+  }
+  .svc-icon{
+    position:static;
+    margin-bottom:12px;
+  }
+  .svc-hero{ margin-bottom: 2rem; min-height: 42vh; }
+}

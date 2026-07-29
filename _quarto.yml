@@ -27,7 +27,7 @@ website:
             href: /fr/index.html
   page-footer:
     left: "© Copyright 2026 Johanie Fournier. All rights reserved CC-BY-NC 4.0."
-    right: "[Privacy Policy](policy.qmd){.lang-footer-link}"
+    right: "[Privacy Policy](policy.html)"
 format:
   html:
     theme: solar
