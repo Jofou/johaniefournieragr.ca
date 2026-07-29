@@ -12,6 +12,8 @@ draft: true
 
 A handful of ideas about buying farmland in Quebec keep getting repeated from one buyer to the next, without ever really being checked. Three of them come up especially often — and each can lead to an unpleasant surprise if it isn't corrected before an offer is made.
 
+![](../images/mythes-terre-agricole_mythe-realite.png)
+
 ## Myth 1: "Anyone can buy any piece of farmland without any special process"
 
 Not always true. An acquisition by a non-resident individual or by a corporation can require CPTAQ authorization under Quebec's Act respecting the acquisition of farmland by non-residents. Agricultural zoning doesn't block the transaction itself in most cases between resident individuals, but certain buyer profiles need to check their eligibility before committing, not after.
@@ -28,6 +30,6 @@ This is a common exaggeration. The green zone regulates uses; it doesn't elimina
 
 These three myths share something: they flatten a reality that deserves to be checked case by case, not assumed out of habit. A question asked directly — to a notary, a broker, or the public registries — costs far less than a wrong assumption discovered after the signature.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

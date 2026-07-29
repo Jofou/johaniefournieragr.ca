@@ -12,6 +12,8 @@ draft: true
 
 Certaines idées circulent depuis longtemps sur l'achat de terre agricole au Québec, répétées d'un acheteur à l'autre sans être vérifiées. Trois d'entre elles reviennent particulièrement souvent — et chacune peut mener à une mauvaise surprise si elle n'est pas corrigée avant de faire une offre.
 
+![](../images/mythes-terre-agricole_mythe-realite.png)
+
 ## Mythe 1 : « N'importe qui peut acheter n'importe quelle terre agricole sans démarche particulière »
 
 Faux, dans plusieurs cas. Une acquisition par une personne non résidente ou par une société peut être soumise à une autorisation de la CPTAQ selon la Loi sur l'acquisition de terres agricoles par des non-résidents. Le zonage agricole ne bloque pas la transaction elle-même dans la majorité des cas entre particuliers résidents, mais certains profils d'acheteurs doivent vérifier leur admissibilité avant de s'engager, pas après.
@@ -28,6 +30,6 @@ C'est une exagération répandue. La zone verte encadre les usages, elle ne les 
 
 Ces trois mythes ont un point commun : ils simplifient une réalité qui mérite d'être vérifiée au cas par cas, pas assumée par habitude. Une question posée directement — au notaire, au courtier, ou dans les registres publics — coûte moins cher qu'une hypothèse qui s'avère fausse après la signature.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

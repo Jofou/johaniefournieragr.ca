@@ -12,6 +12,8 @@ draft: true
 
 A common instinct when preparing a subdivision file is to focus on the resulting lot size: is it big enough to be approved? That's a real criterion (the law requires a sufficient area for a viable agricultural project), but reading actual decisions shows it isn't always what decides the outcome on its own. This reading draws on [an analysis of 133 CPTAQ decisions](../133-decisions-cptaq/index.qmd).
 
+![](../images/viabilite-economique-morcellement_comparatif.png)
+
 ## A file rejected, despite reasonable agricultural potential
 
 In one of the files reviewed, a subdivision application involved residual parcels of 1.7 and 1.3 hectares. The Commission found this area too small to support a viable agricultural project, comparing production potential against well-established regional benchmarks. But a second problem compounded the first: the applicant had submitted neither a detailed project nor financial documentation to support the application. The combination — marginal area and no supporting evidence — was enough to tip the decision toward a refusal.
@@ -28,6 +30,6 @@ It isn't lot size alone that separates these two outcomes — it's the presence 
 
 Before asking "is my lot size sufficient," the question to ask is "can I demonstrate, with comparable figures, that this project is agronomically viable." That proof, more than the area itself, seems to be what makes the difference in the files reviewed.
 
----
+------------------------------------------------------------------------
 
 *Analysis based on a reading of actual CPTAQ decisions. Every file deserves an assessment suited to its own situation — the comparisons presented here are general in nature.*

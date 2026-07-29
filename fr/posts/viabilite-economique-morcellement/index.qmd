@@ -12,6 +12,8 @@ draft: true
 
 Un réflexe courant, en préparant un dossier de morcellement, est de se concentrer sur la superficie résultante : est-ce assez grand pour être accepté? C'est un critère réel (l'article 62 exige une superficie suffisante pour un projet agricole viable), mais la lecture de décisions réelles montre que ce n'est pas toujours ce qui décide, à lui seul. Cette lecture s'appuie sur [l'analyse de 133 décisions rendues par la CPTAQ](../133-decisions-cptaq/index.qmd).
 
+![](../images/viabilite-economique-morcellement_comparatif.png)
+
 ## Un dossier refusé, malgré un potentiel agricole correct
 
 Dans un des dossiers étudiés, une demande de morcellement portait sur des parcelles résiduelles de 1,7 et 1,3 hectare. La Commission a jugé cette superficie trop petite pour soutenir un projet agricole viable, en comparant le potentiel de production à des références régionales bien établies. Mais un deuxième problème s'est ajouté au premier : le demandeur n'avait déposé ni projet détaillé ni documentation financière pour appuyer sa demande. La combinaison des deux, superficie limite et absence de preuve, a suffi à faire pencher la décision vers un refus.
@@ -28,6 +30,6 @@ Ce n'est pas la superficie seule qui distingue ces deux issues, c'est la présen
 
 Avant de se demander "est-ce que ma superficie est suffisante", la question à se poser est "est-ce que je peux démontrer, avec des chiffres comparables, que ce projet est agronomiquement viable". C'est cette preuve, plus que la superficie en elle-même, qui semble faire la différence dans les dossiers étudiés.
 
----
+------------------------------------------------------------------------
 
 *Analyse basée sur la lecture de décisions réelles rendues par la CPTAQ. Chaque dossier mérite une évaluation propre à sa situation, les éléments de comparaison présentés ici sont d'ordre général.*

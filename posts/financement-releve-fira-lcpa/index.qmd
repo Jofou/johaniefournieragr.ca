@@ -12,6 +12,8 @@ draft: true
 
 A new buyer who starts shopping for farm financing quickly runs into a string of acronyms — FIRA, the CALA, La Financière agricole du Québec's succession programs — without always understanding which one applies to their situation. These tools aren't interchangeable: each answers a specific need, and knowing the difference saves time that would otherwise go into an application that doesn't match your profile. Before comparing these programs, it also helps to understand [why a farmland down payment doesn't work like a house's](../mise-de-fonds-terre-agricole/index.qmd).
 
+![](../images/financement-releve-fira-lcpa_tableau.png)
+
 ## FIRA: a lever for getting established, not a standard loan
 
 The Fonds d'investissement pour la relève agricole (FIRA) is a Quebec tool designed specifically to help new farmers get established — often through a capital contribution or financing structured differently from a conventional bank loan, built for farm transfers where the incoming operator doesn't necessarily have an established buyer's level of capitalization. It isn't a general-purpose window: eligibility specifically targets succession projects, not agricultural acquisitions as a whole.
@@ -28,6 +30,6 @@ Alongside these, La Financière agricole du Québec offers its own financing pro
 
 The factor that distinguishes these tools from one another isn't the amount borrowed — it's the applicant's profile and the nature of the project: a new producer getting established, a family transfer, or an acquisition by an operator already in business. Checking eligibility for each before building a financing structure avoids assembling a plan around a program you don't actually qualify for.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

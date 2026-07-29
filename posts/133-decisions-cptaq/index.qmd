@@ -12,6 +12,8 @@ draft: true
 
 What actually tips a CPTAQ decision one way or the other? The law lists the criteria, but it doesn't say which ones carry the most weight in practice, or what separates a well-built file from one that misses the mark. Rather than go on general impression, I read 133 decisions, mostly land subdivision cases, across four Quebec MRCs.
 
+![](../images/133-decisions-cptaq_visuel.png)
+
 ## The number that surprised me most
 
 In this sample, **only 12% of subdivision files had a professional (agronomist, lawyer, notary) named as a representative on the file**. The vast majority of applicants, often individuals or small businesses, go through the process alone, without technical or legal support.

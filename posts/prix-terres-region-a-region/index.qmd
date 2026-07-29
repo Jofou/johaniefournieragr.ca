@@ -12,6 +12,8 @@ draft: true
 
 A 40-hectare farm in Quebec's Montérégie region typically doesn't sell for the same price as a similarly sized farm in a more peripheral region. The gap isn't explained by location alone — several concrete factors, often invisible to a buyer comparing regions for the first time, drive these differences. [Transac-TERRES data](../prix-terres-transac-terres/index.qmd) tracks these gaps over time, but it doesn't replace this regional context.
 
+![](../images/prix-terres-region-a-region_carte-regions_en.png)
+
 ## Soil quality and consistency
 
 Some regions of Quebec have a higher concentration of better-class agricultural soils, more uniform across large areas, with fewer underperforming zones scattered within a given lot. Land in a region known for consistently good soil quality almost always trades at a premium, regardless of the acreage itself.
@@ -32,6 +34,6 @@ A region where subsurface drainage has been installed and maintained more system
 
 Comparing two regions purely on price per hectare misses the point. Soil, infrastructure, market pressure, and drainage history together explain why two farms that look similar at first glance almost never trade quite the same way.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

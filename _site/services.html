@@ -188,7 +188,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 </div>
 <div class="svc-toc">
 <p><a href="#cptaq">Agricultural potential and CPTAQ applications</a></p>
-<p><a href="#diagnostic">Water and soil health diagnostic</a></p>
+<p><a href="#diagnostic">Soil health diagnostic</a></p>
 <p><a href="#paef">PAEF and PAA</a></p>
 <p><a href="#contact">Let’s talk about your project</a></p>
 </div>
@@ -196,17 +196,17 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <p><img src="./images/services/icon-cptaq.png" class="svc-icon"></p>
 <section id="agricultural-potential-and-cptaq-applications" class="level2">
 <h2 class="anchored" data-anchor-id="agricultural-potential-and-cptaq-applications">Agricultural potential and CPTAQ applications</h2>
-<p>An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision, transfer, rezoning, resource extraction — rests largely on the agricultural potential of the lot in question. I establish this diagnostic and support the filing of the application with the Commission.</p>
+<p>An application to the Commission de protection du territoire agricole du Québec (CPTAQ) — subdivision or transfer of agricultural land — rests largely on the agricultural potential of the lot in question. I establish a signed agronomic diagnostic, based on LiDAR, Sentinel-2, and IRDA pedological data, ready to be filed as part of your application.</p>
 <div class="svc-who">
-<p><span class="svc-who-label">Who this is for</span> Landowners, developers, municipalities, and MRCs</p>
+<p><span class="svc-who-label">Who this is for</span> landowners, developers, notaries, lawyers, municipalities, and MRCs preparing a CPTAQ application.</p>
 </div>
 </section>
 </div>
 <div id="diagnostic" class="svc-service">
 <p><img src="./images/services/icon-diagnostic.png" class="svc-icon"></p>
-<section id="water-and-soil-health-diagnostic" class="level2">
-<h2 class="anchored" data-anchor-id="water-and-soil-health-diagnostic">Water and soil health diagnostic</h2>
-<p>Recurring excess water, underperforming zones, soil structural condition: a diagnostic established before a site visit even happens.</p>
+<section id="soil-health-diagnostic" class="level2">
+<h2 class="anchored" data-anchor-id="soil-health-diagnostic">Soil health diagnostic</h2>
+<p>A soil health assessment combining targeted soil sampling (0–20 cm), laboratory analysis of physical, chemical, and biological indicators, and a Quebec-calibrated scoring model (Gauthier et al., 2023). LiDAR and satellite data guide the choice of sampling zones and support the interpretation of within-field variability, a complementary approach to the published model. This diagnostic does not include a full pedological soil profile (horizon-by-horizon description in a pit).</p>
 <div class="svc-who">
 <p><span class="svc-who-label">Who this is for</span> Farmers in active operation</p>
 </div>
@@ -230,8 +230,13 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <p><a href="https://tally.so/r/gDZMrJ" class="svc-cta-btn">Write to me</a></p>
 </section>
 </div>
+<hr>
+<section id="reference" class="level3">
+<h3 class="anchored" data-anchor-id="reference">Reference</h3>
+<p>Gauthier, M., Hogue, R., D’Astous-Pagé, J., Champagne, M., Halde, C. (2023). Developing scoring functions based on soil texture to assess agricultural soil health in Quebec. <em>Canadian Journal of Soil Science</em>. https://doi.org/10.1139/CJSS-2022-0116</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script>
@@ -243,6 +248,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/about':       '/fr/a_propos.html',
     '/blog.html':   '/fr/posts.html',
     '/blog':        '/fr/posts.html',
+    '/policy.html': '/fr/politique.html',
+    '/policy':      '/fr/politique.html',
     '/':            '/fr/'
   };
   var frToEn = {
@@ -251,6 +258,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/fr/a_propos':      '/about.html',
     '/fr/posts.html':    '/blog.html',
     '/fr/posts':         '/blog.html',
+    '/fr/politique.html': '/policy.html',
+    '/fr/politique':      '/policy.html',
     '/fr/':              '/'
   };
 
@@ -294,6 +303,17 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
         if (text === 'Home')  span.textContent = 'Accueil';
         if (text === 'About') span.textContent = 'À propos';
         if (text === 'Blog')  span.textContent = 'Blogue';
+      });
+
+      // Réécrire + traduire le lien de politique de confidentialité dans le footer
+      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+          a.textContent = 'Politique de confidentialité';
+        } catch(e) { return; }
       });
 
       // Intercepter le clic sur le nom/brand pour rester en FR
@@ -718,8 +738,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="./policy.html" class="lang-footer-link">Privacy Policy</a></p>
+</div>
   </div>
 </footer>
 

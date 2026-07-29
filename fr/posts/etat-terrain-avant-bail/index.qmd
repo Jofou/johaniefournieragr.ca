@@ -12,6 +12,8 @@ draft: true
 
 Quand un bail agricole se signe, une question revient parfois de façon implicite : qui devrait insister pour documenter l'état du champ avant que le locataire n'y touche? La réponse surprend souvent : ce n'est pas seulement dans l'intérêt du bailleur, ni seulement dans celui du locataire. Les deux ont quelque chose à y gagner, pour des raisons différentes. Ce constat rejoint directement les clauses qu'un [bail agricole bien rédigé](../bail-terre-agricole/index.qmd) devrait déjà prévoir.
 
+![](../images/field.jpeg)
+
 ## Pourquoi un bailleur y a intérêt
 
 Un bailleur qui loue sa terre veut généralement la récupérer, un jour, dans un état au moins équivalent à celui du départ. Sans un état de référence documenté au début du bail, il devient difficile de démontrer qu'une dégradation — compaction, entretien négligé du réseau hydraulique, apparition de nouvelles zones de mauvais rendement — s'est produite pendant la durée du bail plutôt qu'avant.
@@ -28,6 +30,6 @@ Un état de référence n'a pas besoin d'être complexe : des photos datées du 
 
 Cette étape reste rare en pratique, souvent parce que la relation entre bailleur et locataire commence sur un ton de confiance, où documenter semble presque déplacé. C'est justement cette confiance initiale qui rend la documentation utile plus tard — elle protège la relation, pas seulement une des deux parties.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

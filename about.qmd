@@ -33,3 +33,5 @@ I work independently on agri-environmental data analysis mandates and I am devel
 This site is a space to share my approach to agronomy: rigorous, data-grounded, and always oriented toward concrete decisions in the field.
 
 For professional inquiries: [contact form](https://tally.so/r/gDZMrJ)
+
+See our [privacy policy](policy.html) to learn how your information is handled.

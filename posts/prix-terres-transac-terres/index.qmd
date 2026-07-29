@@ -12,6 +12,8 @@ draft: true
 
 Farmland prices in Quebec have climbed noticeably over the past several years, and the Transac-TERRES database, which compiles actual farmland transactions, gets cited often to back up that trend. It's a genuinely useful resource — as long as you understand what it actually shows, and just as importantly, what it doesn't.
 
+![](../images/prix-terres-transac-terres_graphique_en.png)
+
 ## What this data does well
 
 Transac-TERRES lets you track the average price per hectare over time, by region, and get a realistic sense of scale before negotiating an offer. It's a far more reliable comparison tool than a rough estimate based on a single transaction heard secondhand about a given area.
@@ -28,6 +30,6 @@ Using Transac-TERRES to calibrate expectations before a negotiation is a good ha
 
 Market data is meant to place an offer in its regional context, not to judge whether a specific piece of land is worth its price. That distinction is often what separates a buyer negotiating with realistic expectations from one who discovers, after the fact, that the average price was hiding a very different reality on the ground. That regional variation isn't random either: [several concrete factors explain why farmland sells so differently from one region to another](../prix-terres-region-a-region/index.qmd).
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

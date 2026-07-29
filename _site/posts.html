@@ -270,7 +270,7 @@ Jun 12, 2026
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="aW50cm9kdWN0aW9u" data-listing-date-sort="1781236800000" data-listing-file-modified-sort="1781656714246" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
+<div class="quarto-post image-right" data-index="1" data-categories="aW50cm9kdWN0aW9u" data-listing-date-sort="1781236800000" data-listing-file-modified-sort="1784311846690" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
 <div class="thumbnail"><a href="./fr/posts/introduction/index.html" class="no-external">
 
 <img loading="lazy" src="./fr/posts/images/field.jpeg" class="thumbnail-image">
@@ -330,7 +330,7 @@ Johanie Fournier, agr., M.Sc.
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1777775468301" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<div class="quarto-post image-right" data-index="3" data-categories="bmV3cw==" data-listing-date-sort="1771218000000" data-listing-file-modified-sort="1784230052233" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
 <div class="thumbnail"><a href="./fr/posts/welcome/index.html" class="no-external">
 
 <p class="card-img-top"><img loading='lazy' src="fr/posts/images/welcome-thumbnail.jpg"  class="thumbnail-image card-img"/></p>
@@ -372,6 +372,8 @@ Johanie Fournier, agr., M.Sc.
     '/about':       '/fr/a_propos.html',
     '/blog.html':   '/fr/posts.html',
     '/blog':        '/fr/posts.html',
+    '/policy.html': '/fr/politique.html',
+    '/policy':      '/fr/politique.html',
     '/':            '/fr/'
   };
   var frToEn = {
@@ -380,6 +382,8 @@ Johanie Fournier, agr., M.Sc.
     '/fr/a_propos':      '/about.html',
     '/fr/posts.html':    '/blog.html',
     '/fr/posts':         '/blog.html',
+    '/fr/politique.html': '/policy.html',
+    '/fr/politique':      '/policy.html',
     '/fr/':              '/'
   };
 
@@ -423,6 +427,17 @@ Johanie Fournier, agr., M.Sc.
         if (text === 'Home')  span.textContent = 'Accueil';
         if (text === 'About') span.textContent = 'À propos';
         if (text === 'Blog')  span.textContent = 'Blogue';
+      });
+
+      // Réécrire + traduire le lien de politique de confidentialité dans le footer
+      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+          a.textContent = 'Politique de confidentialité';
+        } catch(e) { return; }
       });
 
       // Intercepter le clic sur le nom/brand pour rester en FR
@@ -847,8 +862,8 @@ Johanie Fournier, agr., M.Sc.
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="./policy.html" class="lang-footer-link">Privacy Policy</a></p>
+</div>
   </div>
 </footer>
 

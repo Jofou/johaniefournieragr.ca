@@ -12,6 +12,8 @@ draft: true
 
 Deux terres agricoles affichées au même prix, dans le même secteur, avec une superficie comparable. Sur papier, elles se ressemblent. Sur le terrain, elles peuvent représenter deux choses complètement différentes — et la question qui distingue les deux ne saute pas toujours aux yeux lors d'une visite.
 
+![](../images/terre-culture-vs-potentiel_comparatif.png)
+
 ## Une terre qui donne déjà tout ce qu'elle peut donner
 
 Un premier scénario : la terre est cultivée depuis des décennies, bien entretenue, avec un rendement stable et connu. Le prix reflète cette performance actuelle — ce que la terre donne aujourd'hui, année après année. Il n'y a pas vraiment de surprise à attendre : ce que vous voyez est essentiellement ce que vous obtiendrez.
@@ -28,6 +30,6 @@ Face à deux terres au même prix, la question qui compte n'est pas seulement «
 
 Ce n'est pas une question qui se répond en marchant sur le terrain un après-midi d'été. Elle demande de regarder au-delà du rendement affiché — l'historique du champ, [les signes de drainage](../signes-drainage-cache/index.qmd) qui trahissent un excès d'eau non résolu, et le contexte pédologique du secteur. Pour un acheteur, c'est souvent la distinction la plus payante entre deux offres qui semblent, au premier regard, interchangeables.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

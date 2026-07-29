@@ -12,6 +12,8 @@ draft: true
 
 Un problème de drainage ne s'annonce pas toujours par une inondation évidente. La plupart du temps, il se lit dans des détails discrets, visibles lors d'une simple marche dans le champ — à condition de savoir où regarder. Voici cinq signes qui, pris ensemble, indiquent souvent un excès d'eau plus sérieux que ce que laisse croire l'apparence générale du terrain.
 
+![](../images/IMG_1497.jpeg)
+
 ## 1. Une végétation clairsemée par plaques
 
 Un champ globalement en bonne santé, mais avec des plaques où la culture pousse plus courte, plus jaune, ou carrément absente, signale presque toujours une zone de mauvais rendement liée à l'eau. Ces plaques suivent souvent le relief : elles apparaissent dans les dépressions, les replats ou les bas de pente, là où l'eau s'accumule après une pluie plutôt que de s'évacuer.
@@ -36,6 +38,6 @@ Si une parcelle prend régulièrement plus de temps à sécher au printemps que 
 
 Un seul de ces signes peut avoir une explication ponctuelle. Plusieurs, combinés et répétés d'une année à l'autre, dessinent un portrait beaucoup plus clair — souvent avant même qu'une analyse de sol formelle ne soit commandée. Cette lecture avant achat est particulièrement utile pour trancher entre [une terre en culture et une terre à potentiel](../terre-culture-vs-potentiel/index.qmd) vendues au même prix.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

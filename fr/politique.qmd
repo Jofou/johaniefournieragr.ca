@@ -1,0 +1,56 @@
+---
+title: "Politique de confidentialité"
+lang: fr
+---
+
+*Dernière mise à jour : 29 juillet 2026*
+
+## Qui recueille vos renseignements
+
+Ce site est exploité par Johanie Fournier, agronome, membre de l'Ordre des agronomes du Québec (OAQ). Pour toute question concernant cette politique ou vos renseignements personnels, vous pouvez me joindre via le [formulaire de contact](https://tally.so/r/gDZMrJ).
+
+En tant que responsable de la protection des renseignements personnels pour ce site, je m'engage à respecter la *Loi sur la protection des renseignements personnels dans le secteur privé* (Loi 25, Québec).
+
+## Quels renseignements sont recueillis
+
+Lorsque vous remplissez le formulaire de contact (hébergé par Tally), les renseignements suivants peuvent être recueillis :
+- Nom
+- Adresse courriel
+- Toute information que vous choisissez d'inclure dans votre message
+
+Ce site n'utilise actuellement aucun outil d'analyse (Google Analytics ou similaire) ni témoin de navigation (cookies) de suivi publicitaire.
+
+## Pourquoi ces renseignements sont recueillis
+
+Les renseignements fournis via le formulaire de contact sont utilisés uniquement pour :
+- Répondre à votre demande
+- Évaluer la pertinence d'un mandat professionnel
+- Assurer un suivi si une relation d'affaires est établie
+
+Vos renseignements ne sont jamais vendus, loués, ni partagés avec des tiers à des fins commerciales.
+
+## Où sont conservés vos renseignements
+
+Le formulaire de contact est hébergé par **Tally** (tally.so), un service tiers. La transmission et le stockage initial de vos renseignements sont donc soumis à la [politique de confidentialité de Tally](https://tally.so/privacy-policy). Les renseignements pertinents sont ensuite conservés par moi-même, dans le cadre de la gestion normale de mes dossiers professionnels.
+
+## Durée de conservation
+
+Vos renseignements sont conservés uniquement le temps nécessaire pour répondre à votre demande et, le cas échéant, pour la durée d'une relation professionnelle et les obligations légales qui en découlent (ex. conservation des dossiers clients à des fins fiscales, 6 ans).
+
+## Vos droits
+
+Conformément à la Loi 25, vous avez le droit de :
+- Accéder aux renseignements personnels que je détiens à votre sujet
+- Faire rectifier des renseignements inexacts, incomplets ou périmés
+- Retirer votre consentement à la collecte ou à l'utilisation de vos renseignements
+- Demander la suppression de vos renseignements, sous réserve de mes obligations légales de conservation
+
+Pour exercer l'un de ces droits, contactez-moi via le [formulaire de contact](https://tally.so/r/gDZMrJ) ou par les coordonnées indiquées sur ce site.
+
+## Liens externes
+
+Ce site contient des liens vers des plateformes tierces (LinkedIn, GitHub, Facebook). Ces plateformes ont leurs propres politiques de confidentialité, sur lesquelles je n'ai aucun contrôle.
+
+## Modifications de cette politique
+
+Cette politique peut être mise à jour à l'occasion. La date de la dernière mise à jour apparaît en haut de cette page.

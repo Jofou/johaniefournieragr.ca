@@ -1,0 +1,56 @@
+---
+title: "Privacy Policy"
+lang: en
+---
+
+*Last updated: July 29, 2026*
+
+## Who collects your information
+
+This site is operated by Johanie Fournier, agronomist, member of the Ordre des agronomes du Québec (OAQ). For any question regarding this policy or your personal information, you can reach me via the [contact form](https://tally.so/r/gDZMrJ).
+
+As the person responsible for the protection of personal information on this site, I am committed to complying with the *Act respecting the protection of personal information in the private sector* (Quebec's Law 25).
+
+## What information is collected
+
+When you fill out the contact form (hosted by Tally), the following information may be collected:
+- Name
+- Email address
+- Any information you choose to include in your message
+
+This site currently does not use any analytics tools (Google Analytics or similar) nor advertising/tracking cookies.
+
+## Why this information is collected
+
+Information provided through the contact form is used solely to:
+- Respond to your inquiry
+- Assess the relevance of a potential professional mandate
+- Follow up if a business relationship is established
+
+Your information is never sold, rented, or shared with third parties for commercial purposes.
+
+## Where your information is stored
+
+The contact form is hosted by **Tally** (tally.so), a third-party service. The initial transmission and storage of your information is therefore subject to [Tally's privacy policy](https://tally.so/privacy-policy). Relevant information is subsequently kept by me, as part of the normal management of my professional files.
+
+## Retention period
+
+Your information is kept only as long as necessary to respond to your request and, if applicable, for the duration of a professional relationship and any resulting legal obligations (e.g., retention of client records for tax purposes, 6 years).
+
+## Your rights
+
+In accordance with Law 25, you have the right to:
+- Access the personal information I hold about you
+- Have inaccurate, incomplete, or outdated information corrected
+- Withdraw your consent to the collection or use of your information
+- Request the deletion of your information, subject to my legal retention obligations
+
+To exercise any of these rights, contact me via the [contact form](https://tally.so/r/gDZMrJ) or through the contact details provided on this site.
+
+## External links
+
+This site contains links to third-party platforms (LinkedIn, GitHub, Facebook). These platforms have their own privacy policies, over which I have no control.
+
+## Changes to this policy
+
+This policy may be updated from time to time. The date of the last update appears at the top of this page.

@@ -12,6 +12,8 @@ draft: true
 
 L'expression revient souvent dans une visite ou une annonce : « il y a des droits acquis sur ce lot ». Elle est parfois utilisée comme si elle réglait toutes les questions d'usage sur une terre en zone agricole. En réalité, un droit acquis est beaucoup plus étroit que ce que l'expression laisse croire — et savoir précisément ce qu'il couvre évite de mauvaises surprises après l'achat. C'est une nuance distincte des [14 critères que la CPTAQ applique](../cptaq-zone-agricole/index.qmd) pour autoriser un usage non agricole en zone verte.
 
+![](../images/droits-acquis-zone-agricole_schema.png)
+
 ## Ce qu'un droit acquis protège vraiment
 
 Un droit acquis reconnaît un usage non agricole ou un bâtiment qui existait déjà avant que le zonage agricole, ou une décision précise de la CPTAQ, ne vienne l'encadrer. Il protège cet usage exact, dans sa forme exacte, à cet endroit précis — pas un droit général à faire ce qu'on veut du lot par la suite. Deux terrains voisins peuvent avoir un historique différent, et donc des droits acquis qui ne se ressemblent pas du tout.
@@ -28,6 +30,6 @@ Un droit acquis ne se transmet pas automatiquement « en confiance » au nouvel 
 
 Un acheteur qui prévoit maintenir, agrandir, ou reprendre un usage particulier sur une terre en zone agricole a intérêt à comprendre cette distinction avant de signer, pas après. Ce que la loi protège est précis. Ce que l'usage et les habitudes locales laissent croire l'est parfois beaucoup moins.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

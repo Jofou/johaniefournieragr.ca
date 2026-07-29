@@ -14,6 +14,8 @@ draft: true
 
 Depuis quelques mois, GeoAgro accompagne des propriétaires, promoteurs, notaires et municipalités avec un diagnostic de potentiel agricole pour leurs dossiers CPTAQ. Ce volet reste actif et continue. Un deuxième volet s'ajoute maintenant : l'accompagnement complet d'un dossier d'aliénation, du diagnostic jusqu'à la décision de la Commission.
 
+![](../images/lancement-service-mandataire_etapes.png)
+
 ## Pourquoi ce service, et pourquoi maintenant
 
 Dans [l'analyse de plus d'une centaine de décisions rendues par la CPTAQ](../133-decisions-cptaq/index.qmd), un pattern net ressort : la majorité des dossiers d'aliénation sont préparés sans accompagnement professionnel, technique ou juridique. Beaucoup de propriétaires et de producteurs naviguent seuls un processus qui demande pourtant une preuve rigoureuse pour aboutir. Ce nouveau service répond directement à ce vide, avec une formation complétée sur le cheminement concret d'une demande à la CPTAQ, en plus de l'expertise agronomique déjà développée.
@@ -30,6 +32,6 @@ Les critères qui relèvent d'autres expertises, comme la conformité au zonage 
 
 Les propriétaires et producteurs qui préfèrent confier l'ensemble du processus à quelqu'un en qui ils ont confiance, plutôt que de gérer eux-mêmes les échanges avec la Commission.
 
----
+------------------------------------------------------------------------
 
 *Pour discuter d'un dossier précis, écrivez-moi directement.*

@@ -12,6 +12,8 @@ draft: true
 
 Une analyse de sol standard répond à une question précise : quels éléments nutritifs sont disponibles, et en quelle quantité. C'est une lecture chimique, essentielle pour ajuster la fertilisation d'une saison. Un diagnostic de santé des sols pose une question plus large : est-ce que ce sol fonctionne bien, physiquement et biologiquement, pas seulement chimiquement. Ce sont deux outils complémentaires, pas deux façons de répondre à la même question.
 
+![](../images/sante-globale-sols_3-volets.png)
+
 ## Ce qu'un diagnostic de santé des sols mesure en plus
 
 Un modèle calibré spécifiquement pour les conditions québécoises, publié en 2023 dans le *Canadian Journal of Soil Science* (Gauthier et al.), évalue 15 indicateurs répartis en trois catégories. Le volet physique regarde la stabilité des agrégats et la réserve en eau utile, deux mesures de la structure du sol. Le volet biologique regarde la respiration microbienne et l'azote potentiellement minéralisable, des indicateurs de l'activité vivante du sol. Le volet chimique reprend les éléments nutritifs classiques, pH, phosphore, potassium, et plusieurs autres.
@@ -28,6 +30,6 @@ Le modèle a été calibré sur un échantillonnage précis, à la pelle, entre 
 
 Un diagnostic de santé des sols n'est pas un profil pédologique complet, il ne décrit pas les horizons du sol en fosse. C'est un portrait ciblé sur des indicateurs fonctionnels précis, pas une caractérisation exhaustive du profil.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque champ mérite une évaluation propre à sa situation.*

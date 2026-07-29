@@ -12,6 +12,8 @@ draft: true
 
 When a farm lease gets signed, a question sometimes comes up implicitly: who should be pushing to document the field's condition before the tenant starts working it? The answer often surprises people: it isn't only in the landlord's interest, nor only in the tenant's. Both have something to gain, for different reasons. That point lines up directly with the clauses a [well-drafted farm lease](../bail-terre-agricole/index.qmd) should already cover.
 
+![](../images/field.jpeg)
+
 ## Why a landlord benefits
 
 A landlord leasing out land generally wants it back, eventually, in at least as good a condition as it started. Without a documented baseline at the start of the lease, it becomes hard to show that degradation — compaction, neglected upkeep of the drainage network, new underperforming zones appearing — happened during the lease rather than before it.
@@ -28,6 +30,6 @@ A baseline doesn't need to be elaborate: dated photos of the field at different 
 
 This step remains rare in practice, often because the relationship between landlord and tenant starts on a note of trust, where documenting anything can feel almost out of place. That initial trust is exactly what makes documentation useful later — it protects the relationship, not just one of the two parties.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

@@ -12,6 +12,8 @@ draft: true
 
 Many buyers approach farmland with the same reflexes as a residential purchase: check the title, walk the buildings, look at general condition. Soil and water don't reveal themselves that way. A field can look flawless in mid-summer and still hide a problem that only shows up at thaw, or a legal status more limited than it first appears. Here are the questions worth asking before signing an offer on agricultural land.
 
+![](../images/questions-avant-signer_checklist.png)
+
 ## Soil and water, first
 
 The central question: what does the soil's drainage class actually say about this lot? In Quebec, IRDA's soil survey data is public and already tells you which hydrological group a parcel belongs to, before any site visit. It's worth asking the seller or broker whether a recent soil test exists, and whether any part of the field is known for spring waterlogging or a yield that consistently lags behind the rest of the parcel. [These hidden drainage signs](../signes-drainage-cache/index.qmd) are often visible on a simple walk-through, before any lab test.
@@ -32,6 +34,6 @@ If the land is already leased to a third party, the current lease terms are wort
 
 These questions don't replace full due diligence, but they close off the most common blind spots. A serious seller or broker shouldn't hesitate to answer them — and the absence of a clear answer is often, in itself, an answer. These same reflexes apply to [taking over a family farm](../reprendre-terre-familiale/index.qmd), and they overlap with several [common myths about buying farmland](../mythes-terre-agricole/index.qmd) worth debunking.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

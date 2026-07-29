@@ -12,6 +12,8 @@ draft: true
 
 Qu'est-ce qui fait vraiment pencher une décision de la CPTAQ? La loi donne les critères, mais elle ne dit pas lesquels pèsent le plus dans la pratique, ni ce qui distingue un dossier bien monté d'un dossier qui rate sa cible. Plutôt que de se fier à l'impression générale, j'ai lu 133 décisions rendues, principalement des dossiers d'aliénation, dans quatre MRC du Québec.
 
+![](../images/133-decisions-cptaq_visuel.png)
+
 ## Le chiffre qui m'a surprise le plus
 
 Dans cet échantillon, **seulement 12 % des dossiers d'aliénation avaient un professionnel (agronome, avocat, notaire) cité comme représentant au dossier**. La grande majorité des demandeurs, souvent des particuliers ou des petites entreprises, naviguent le processus seuls, sans accompagnement technique ou juridique.

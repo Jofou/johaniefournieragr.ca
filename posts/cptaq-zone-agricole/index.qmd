@@ -12,6 +12,8 @@ draft: true
 
 Anyone looking at farmland in Quebec's agricultural zone eventually asks the same question: what can I actually do with this land beyond farming it — subdivide, build, change its use? The answer isn't left to case-by-case impression. Quebec's Act respecting the preservation of agricultural land and agricultural activities (LPTAA) sets out a precise list of criteria, and the Commission de protection du territoire agricole du Québec (CPTAQ) applies them to every application involving a subdivision, transfer, or change of use on land in the agricultural zone.
 
+![](../images/cptaq-zone-agricole_grille-criteres.png)
+
 ## Where these criteria come from
 
 This isn't left to a commissioner's impression. Section 62 of the LPTAA lists 14 mandatory criteria the CPTAQ must weigh for any application touching agricultural land, plus 4 optional criteria it may also consider. A guide published jointly by the CPTAQ and the Ordre des agronomes du Québec translates these legal criteria into concrete, observable factors — which makes the process predictable for anyone who checks it before filing an application.
@@ -34,6 +36,6 @@ These 14 criteria don't change from one application to the next. This isn't a br
 
 Two related nuances are worth reading on their own: what [acquired rights](../droits-acquis-zone-agricole/index.qmd) actually protect, and what [a read of real CPTAQ decisions](../133-decisions-cptaq/index.qmd) reveals about what separates an approved file from a rejected one.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

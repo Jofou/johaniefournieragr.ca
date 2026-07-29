@@ -188,7 +188,7 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 </div>
 <div class="svc-toc">
 <p><a href="#cptaq">Potentiel agricole et dossiers CPTAQ</a></p>
-<p><a href="#diagnostic">Diagnostic eau et santé des sols</a></p>
+<p><a href="#diagnostic">Diagnostic santé des sols</a></p>
 <p><a href="#paef">PAEF et PAA</a></p>
 <p><a href="#contact">Parlons de votre projet</a></p>
 </div>
@@ -196,19 +196,19 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <p><img src="images/services/icon-cptaq.png" class="svc-icon"></p>
 <section id="potentiel-agricole-et-dossiers-cptaq" class="level2">
 <h2 class="anchored" data-anchor-id="potentiel-agricole-et-dossiers-cptaq">Potentiel agricole et dossiers CPTAQ</h2>
-<p>Une demande à la Commission de protection du territoire agricole du Québec — morcellement, transfert, changement de vocation, extraction — repose largement sur le potentiel agricole du lot visé. J’établis ce diagnostic et j’appuie le dépôt de la demande auprès de la Commission.</p>
+<p>Une demande à la Commission de protection du territoire agricole du Québec (CPTAQ), morcellement ou aliénation d’une terre agricole, repose en bonne partie sur le potentiel agricole du lot visé. J’établis un diagnostic agronomique signé, basé sur des données LiDAR, Sentinel-2 et pédologiques (IRDA), prêt à être déposé dans le cadre de votre demande.</p>
 <div class="svc-who">
-<p><span class="svc-who-label">Pour qui</span> Propriétaires, promoteurs, municipalités et MRC</p>
+<p><span class="svc-who-label">Pour qui</span> propriétaires, promoteurs, notaires, avocats, municipalités et MRC en préparation d’une demande CPTAQ.</p>
 </div>
 </section>
 </div>
 <div id="diagnostic" class="svc-service">
 <p><img src="../images/services/icon-diagnostic.png" class="svc-icon"></p>
-<section id="diagnostic-eau-et-santé-des-sols" class="level2">
-<h2 class="anchored" data-anchor-id="diagnostic-eau-et-santé-des-sols">Diagnostic eau et santé des sols</h2>
-<p>Excès d’eau récurrent, zones sous-performantes, état structural du sol : un diagnostic établi avant même la visite au champ.</p>
+<section id="diagnostic-santé-des-sols" class="level2">
+<h2 class="anchored" data-anchor-id="diagnostic-santé-des-sols">Diagnostic santé des sols</h2>
+<p>Un diagnostic combinant un échantillonnage ciblé (0-20 cm), une analyse en laboratoire des indicateurs physiques, chimiques et biologiques, et un modèle de notation calibré pour le Québec (Gauthier et al., 2023). Les données LiDAR et satellite guident le choix des zones d’échantillonnage et appuient l’interprétation de la variabilité intra-parcellaire, une approche complémentaire au modèle publié. Ce diagnostic n’inclut pas de profil pédologique complet (description par horizon en fosse).</p>
 <div class="svc-who">
-<p><span class="svc-who-label">Pour qui</span> Entreprises agricoles en activité</p>
+<p><span class="svc-who-label">Pour qui</span> producteurs et productrices en exploitation active.</p>
 </div>
 <p><span class="svc-funding-note">Potentiellement admissible à une aide financière dans le cadre du Programme services-conseils</span></p>
 </section>
@@ -230,8 +230,13 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <p><a href="https://tally.so/r/gDZMrJ" class="svc-cta-btn">Écrivez-moi</a></p>
 </section>
 </div>
+<hr>
+<section id="référence" class="level3">
+<h3 class="anchored" data-anchor-id="référence">Référence</h3>
+<p>Gauthier, M., Hogue, R., D’Astous-Pagé, J., Champagne, M., Halde, C. (2023). Developing scoring functions based on soil texture to assess agricultural soil health in Quebec. <em>Canadian Journal of Soil Science</em>. https://doi.org/10.1139/CJSS-2022-0116</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script>
@@ -243,6 +248,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/about':       '/fr/a_propos.html',
     '/blog.html':   '/fr/posts.html',
     '/blog':        '/fr/posts.html',
+    '/policy.html': '/fr/politique.html',
+    '/policy':      '/fr/politique.html',
     '/':            '/fr/'
   };
   var frToEn = {
@@ -251,6 +258,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/fr/a_propos':      '/about.html',
     '/fr/posts.html':    '/blog.html',
     '/fr/posts':         '/blog.html',
+    '/fr/politique.html': '/policy.html',
+    '/fr/politique':      '/policy.html',
     '/fr/':              '/'
   };
 
@@ -294,6 +303,17 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
         if (text === 'Home')  span.textContent = 'Accueil';
         if (text === 'About') span.textContent = 'À propos';
         if (text === 'Blog')  span.textContent = 'Blogue';
+      });
+
+      // Réécrire + traduire le lien de politique de confidentialité dans le footer
+      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+          a.textContent = 'Politique de confidentialité';
+        } catch(e) { return; }
       });
 
       // Intercepter le clic sur le nom/brand pour rester en FR
@@ -718,8 +738,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="policy.qmd" class="lang-footer-link">Privacy Policy</a></p>
+</div>
   </div>
 </footer>
 

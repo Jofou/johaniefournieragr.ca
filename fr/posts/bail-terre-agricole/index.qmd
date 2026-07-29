@@ -12,6 +12,8 @@ draft: true
 
 Louer une terre agricole se fait encore souvent sur une poignée de main, entre voisins ou connaissances de longue date. Ça fonctionne bien tant que la relation reste cordiale — et ça devient un problème dès qu'un désaccord survient sur l'entretien, le renouvellement, ou l'état du champ à la fin du bail. Un bail écrit, même simple, évite la majorité de ces situations.
 
+![](../images/bail-terre-agricole_checklist.png)
+
 ## La durée et les conditions de renouvellement
 
 Un bail agricole devrait préciser sa durée exacte et les conditions de renouvellement — reconduction automatique ou non, préavis requis, ajustement possible du loyer à chaque renouvellement. Sans cette clarté, un locataire peut investir dans l'amélioration d'un champ sans garantie de pouvoir en profiter au-delà d'une saison, ce qui décourage tout entretien à long terme.

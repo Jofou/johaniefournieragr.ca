@@ -12,6 +12,8 @@ draft: true
 
 A standard soil test answers one precise question: which nutrients are available, and in what amount. It's a chemical reading, essential for adjusting a season's fertilization plan. A soil health diagnostic asks a broader question: is this soil actually functioning well, physically and biologically, not just chemically. These are complementary tools, not two ways of answering the same question.
 
+![](../images/sante-globale-sols_3-volets.png)
+
 ## What a soil health diagnostic adds
 
 A model calibrated specifically for Quebec conditions, published in 2023 in the *Canadian Journal of Soil Science* (Gauthier et al.), evaluates 15 indicators across three categories. The physical component looks at aggregate stability and available water capacity, two measures of soil structure. The biological component looks at microbial respiration and potentially mineralizable nitrogen, indicators of the soil's living activity. The chemical component covers the usual nutrients — pH, phosphorus, potassium, and several others.
@@ -28,6 +30,6 @@ The model was calibrated on a precise sampling method: a shovel, 0 to 20 cm deep
 
 A soil health diagnostic isn't a full pedological soil profile — it doesn't describe soil horizons in a pit. It's a targeted picture of specific functional indicators, not an exhaustive characterization of the profile.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every field deserves an assessment suited to its own situation.*

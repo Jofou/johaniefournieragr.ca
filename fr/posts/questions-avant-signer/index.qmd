@@ -12,6 +12,8 @@ draft: true
 
 Beaucoup d'acheteurs abordent une terre agricole avec les réflexes d'un achat résidentiel : vérifier le titre, inspecter les bâtiments, regarder l'état général. Le sol et l'eau, eux, ne se lisent pas en une visite. Une terre peut sembler impeccable en plein été et cacher un problème qui ne se révèle qu'au dégel, ou un statut légal plus limité qu'il n'y paraît. Voici les questions qui méritent d'être posées avant de signer une offre d'achat.
 
+![](../images/questions-avant-signer_checklist.png)
+
 ## Le sol et l'eau, avant tout
 
 La question centrale : que dit la classe de drainage du sol sur ce lot? Les données pédologiques de l'IRDA sont publiques et permettent déjà de savoir à quel groupe hydrologique appartient une parcelle avant même une visite. Il vaut la peine de demander au vendeur ou au courtier s'il existe une analyse de sol récente, et si certaines zones du champ sont connues pour un excès d'eau printanier ou un rendement chroniquement plus faible que le reste de la parcelle. [Ces signes de drainage caché](../signes-drainage-cache/index.qmd) se repèrent souvent dès une simple visite, avant toute analyse en laboratoire.
@@ -32,6 +34,6 @@ Si la terre est déjà louée à un tiers, les clauses du bail actuel méritent 
 
 Ces questions ne remplacent pas une diligence complète, mais elles évitent les angles morts les plus fréquents. Un vendeur ou un courtier sérieux ne devrait pas hésiter à y répondre — l'absence de réponse claire est souvent, en soi, une réponse. Ces réflexes valent aussi pour une [reprise de terre familiale](../reprendre-terre-familiale/index.qmd), et recoupent plusieurs [mythes répandus sur l'achat de terre agricole](../mythes-terre-agricole/index.qmd) qui méritent d'être déboulonnés.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

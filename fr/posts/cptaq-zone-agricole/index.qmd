@@ -12,6 +12,8 @@ draft: true
 
 Beaucoup de gens qui regardent une terre en zone agricole se demandent ce qu'ils pourront réellement en faire au-delà de l'exploitation actuelle : morceler, construire, changer l'usage. La réponse ne dépend pas d'une appréciation improvisée, au cas par cas. La Loi sur la protection du territoire et des activités agricoles (LPTAA) fixe une liste précise de critères, et la Commission de protection du territoire agricole du Québec (CPTAQ) les applique à chaque demande d'autorisation, de morcellement ou d'aliénation en zone verte.
 
+![](../images/cptaq-zone-agricole_grille-criteres.png)
+
 ## D'où viennent ces critères
 
 Ce ne sont pas des impressions laissées à la discrétion d'un commissaire. L'article 62 de la LPTAA énumère 14 critères obligatoires que la CPTAQ doit considérer pour toute demande touchant une terre agricole, en plus de 4 critères facultatifs qu'elle peut prendre en compte. Un guide publié conjointement par la CPTAQ et l'Ordre des agronomes du Québec traduit ces critères légaux en éléments concrets, observables sur le terrain — ce qui rend l'exercice prévisible pour quiconque prend le temps de s'y référer avant de déposer une demande.
@@ -34,6 +36,6 @@ Ces 14 critères sont toujours les mêmes, peu importe la demande. Ce n'est pas 
 
 Deux nuances valent la peine d'être approfondies séparément : ce que [les droits acquis](../droits-acquis-zone-agricole/index.qmd) protègent réellement, et ce que [la lecture de décisions réelles de la CPTAQ](../133-decisions-cptaq/index.qmd) révèle sur ce qui distingue un dossier accepté d'un dossier refusé.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

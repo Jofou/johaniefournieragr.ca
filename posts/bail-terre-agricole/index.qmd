@@ -12,6 +12,8 @@ draft: true
 
 Leasing farmland still often happens on a handshake, between neighbours or long-time acquaintances. It works fine as long as the relationship stays cordial — and it becomes a problem the moment there's disagreement over upkeep, renewal, or the field's condition at the end of the lease. A written lease, even a simple one, avoids most of these situations.
 
+![](../images/bail-terre-agricole_checklist.png)
+
 ## Duration and renewal terms
 
 A farm lease should spell out its exact duration and the conditions for renewal — whether it renews automatically or not, what notice is required, and whether rent can be adjusted at each renewal. Without that clarity, a tenant may invest in improving a field with no guarantee of benefiting from it beyond a single season, which discourages any long-term upkeep.

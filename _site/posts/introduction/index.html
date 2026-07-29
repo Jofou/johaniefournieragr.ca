@@ -112,6 +112,10 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../services.html"> 
+<span class="menu-text">Services</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://tally.so/r/gDZMrJ"> 
 <span class="menu-text">Contact</span></a>
   </li>  
@@ -216,6 +220,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/about':       '/fr/a_propos.html',
     '/blog.html':   '/fr/posts.html',
     '/blog':        '/fr/posts.html',
+    '/policy.html': '/fr/politique.html',
+    '/policy':      '/fr/politique.html',
     '/':            '/fr/'
   };
   var frToEn = {
@@ -224,6 +230,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
     '/fr/a_propos':      '/about.html',
     '/fr/posts.html':    '/blog.html',
     '/fr/posts':         '/blog.html',
+    '/fr/politique.html': '/policy.html',
+    '/fr/politique':      '/policy.html',
     '/fr/':              '/'
   };
 
@@ -267,6 +275,17 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
         if (text === 'Home')  span.textContent = 'Accueil';
         if (text === 'About') span.textContent = 'À propos';
         if (text === 'Blog')  span.textContent = 'Blogue';
+      });
+
+      // Réécrire + traduire le lien de politique de confidentialité dans le footer
+      document.querySelectorAll('a.lang-footer-link').forEach(function (a) {
+        try {
+          var url = new URL(a.href);
+          if (url.hostname !== window.location.hostname) return;
+          var frPath = toFr(url.pathname);
+          if (frPath !== url.pathname) a.setAttribute('href', frPath);
+          a.textContent = 'Politique de confidentialité';
+        } catch(e) { return; }
       });
 
       // Intercepter le clic sur le nom/brand pour rester en FR
@@ -691,8 +710,8 @@ gtag('config', 'G-70F98RH221', { 'anonymize_ip': true});
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p><a href="policy.qmd" class="lang-footer-link">Privacy Policy</a></p>
+</div>
   </div>
 </footer>
 

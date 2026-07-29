@@ -12,6 +12,8 @@ draft: true
 
 La méthode habituelle d'échantillonnage donne un portrait représentatif d'une zone homogène du champ. C'est fiable pour ce qu'elle mesure, mais elle raconte une moyenne. Un champ avec une zone excellente et une zone problématique peut afficher un résultat moyen tout à fait correct, sans que rien dans le certificat n'indique que deux réalités très différentes cohabitent sur la même parcelle.
 
+
+
 ## Ce que les données spatiales ajoutent avant même le prélèvement
 
 Les données LiDAR et l'imagerie satellite permettent de repérer, avant de mettre la pelle en terre, les zones qui se comportent différemment à l'intérieur d'un même champ, un secteur mal drainé, une variation de topographie, une zone de croissance chroniquement plus faible. Cibler l'échantillonnage sur ces zones, plutôt que sur une moyenne générale, donne une lecture plus fine de ce qui se passe réellement, et où.
@@ -24,6 +26,6 @@ Le [modèle scientifique de santé des sols](../sante-globale-sols/index.qmd) ut
 
 Pour un champ qu'on soupçonne hétérogène, échantillonner une zone à problème séparément d'une zone performante donne deux diagnostics distincts, plutôt qu'un seul chiffre moyen qui dilue l'un dans l'autre. C'est utile pour cibler une intervention sur la zone qui en a réellement besoin, plutôt que d'appliquer une même recommandation à tout le champ.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque champ mérite une évaluation propre à sa situation.*

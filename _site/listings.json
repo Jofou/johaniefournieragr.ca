@@ -7,20 +7,6 @@
     ]
   },
   {
-    "listing": "/fr/index.html",
-    "items": [
-      "/fr/posts/introduction/index.html",
-      "/fr/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/introduction/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/fr/posts.html",
     "items": [
       "/fr/posts/introduction/index.html",
@@ -33,6 +19,20 @@
       "/posts/introduction/index.html",
       "/fr/posts/introduction/index.html",
       "/posts/welcome/index.html",
+      "/fr/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/introduction/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/fr/index.html",
+    "items": [
+      "/fr/posts/introduction/index.html",
       "/fr/posts/welcome/index.html"
     ]
   }

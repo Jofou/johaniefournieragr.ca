@@ -12,6 +12,8 @@ draft: true
 
 Two farms listed at the same price, in the same area, with comparable acreage. On paper, they look alike. On the ground, they can represent two completely different things — and the question that tells them apart doesn't always jump out during a walk-through.
 
+![](../images/terre-culture-vs-potentiel_comparatif.png)
+
 ## A farm already giving everything it can
 
 One scenario: the land has been farmed for decades, well maintained, with a stable and well-documented yield. The price reflects that current performance — what the land delivers today, year after year. There isn't much of a surprise waiting: what you see is essentially what you get.
@@ -28,6 +30,6 @@ Faced with two farms at the same price, the question that matters isn't only "ho
 
 This isn't something you settle on a summer afternoon walking the field. It takes looking past the stated yield — the field's history, [the signs of drainage](../signes-drainage-cache/index.qmd) trouble that point to unresolved excess water, and the broader soil context of the area. For a buyer, it's often the single most valuable distinction between two offers that look interchangeable at first glance.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*

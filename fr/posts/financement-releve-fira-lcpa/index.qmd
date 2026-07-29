@@ -12,6 +12,8 @@ draft: true
 
 Un nouvel acheteur qui commence à magasiner du financement agricole tombe rapidement sur une série de sigles — FIRA, LCPA, programmes de relève de La Financière agricole du Québec — sans toujours comprendre lequel s'applique à sa situation. Ces outils ne sont pas interchangeables : chacun répond à un objectif précis, et connaître la différence évite de perdre du temps sur une demande qui ne correspond pas à son profil. Avant même de comparer ces programmes, [comprendre pourquoi la mise de fonds d'une terre agricole diffère de celle d'une maison](../mise-de-fonds-terre-agricole/index.qmd) aide à mieux cadrer ses attentes.
 
+![](../images/financement-releve-fira-lcpa_tableau.png)
+
 ## FIRA : un levier pour l'établissement, pas un prêt standard
 
 Le Fonds d'investissement pour la relève agricole (FIRA) est un outil québécois conçu spécifiquement pour faciliter l'établissement de la relève agricole — souvent par un apport en capital ou un financement structuré différemment d'un prêt bancaire classique, pensé pour des transferts de ferme où le nouvel exploitant n'a pas nécessairement la capitalisation d'un acheteur établi. Ce n'est pas un guichet universel : son admissibilité cible spécifiquement les projets de relève, pas l'ensemble des acquisitions agricoles.
@@ -28,6 +30,6 @@ En parallèle, La Financière agricole du Québec offre ses propres produits de 
 
 Le facteur qui distingue le plus ces outils entre eux n'est pas le montant emprunté, mais le profil du demandeur et la nature du projet — établissement d'un nouveau producteur, transfert familial, acquisition par un exploitant déjà en activité. Vérifier son admissibilité à chacun avant de bâtir une structure de financement évite d'assembler un plan autour d'un programme auquel on n'a finalement pas droit.
 
----
+------------------------------------------------------------------------
 
 *Ce contenu est informatif et général — chaque terrain mérite une évaluation propre à sa situation.*

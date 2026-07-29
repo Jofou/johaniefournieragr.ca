@@ -12,6 +12,8 @@ draft: true
 
 A drainage problem doesn't always announce itself with an obvious flood. Most of the time, it shows up in small, easy-to-miss details, visible on a simple walk through the field — as long as you know where to look. Here are five signs that, taken together, often point to a more serious water problem than the field's general appearance suggests.
 
+![](../images/IMG_1497.jpeg)
+
 ## 1. Patchy, uneven vegetation
 
 A field that looks generally healthy but has patches where the crop grows shorter, yellower, or is missing altogether is almost always signaling an underperforming zone tied to excess water. These patches tend to follow the terrain: they show up in depressions, flat low spots, or footslopes, wherever water collects after rain instead of moving through.
@@ -36,6 +38,6 @@ If a parcel regularly takes longer to dry out in spring than neighbouring fields
 
 Any single one of these signs could have a one-off explanation. Several of them, combined and repeated from one year to the next, paint a much clearer picture — often well before a formal soil test is ever ordered. That kind of pre-purchase read is especially useful for telling apart [farmed land and farmland potential](../terre-culture-vs-potentiel/index.qmd) priced exactly the same.
 
----
+------------------------------------------------------------------------
 
 *This content is general and informational — every property deserves an assessment suited to its own situation.*
