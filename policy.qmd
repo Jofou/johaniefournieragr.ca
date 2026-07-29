@@ -13,19 +13,13 @@ As the person responsible for the protection of personal information on this sit
 
 ## What information is collected
 
-When you fill out the contact form (hosted by Tally), the following information may be collected:
-- Name
-- Email address
-- Any information you choose to include in your message
+When you fill out the contact form (hosted by Tally), the following information may be collected: - Name - Email address - Any information you choose to include in your message
 
 This site currently does not use any analytics tools (Google Analytics or similar) nor advertising/tracking cookies.
 
 ## Why this information is collected
 
-Information provided through the contact form is used solely to:
-- Respond to your inquiry
-- Assess the relevance of a potential professional mandate
-- Follow up if a business relationship is established
+Information provided through the contact form is used solely to: - Respond to your inquiry - Assess the relevance of a potential professional mandate - Follow up if a business relationship is established
 
 Your information is never sold, rented, or shared with third parties for commercial purposes.
 
@@ -39,11 +33,7 @@ Your information is kept only as long as necessary to respond to your request an
 
 ## Your rights
 
-In accordance with Law 25, you have the right to:
-- Access the personal information I hold about you
-- Have inaccurate, incomplete, or outdated information corrected
-- Withdraw your consent to the collection or use of your information
-- Request the deletion of your information, subject to my legal retention obligations
+In accordance with Law 25, you have the right to: - Access the personal information I hold about you - Have inaccurate, incomplete, or outdated information corrected - Withdraw your consent to the collection or use of your information - Request the deletion of your information, subject to my legal retention obligations
 
 To exercise any of these rights, contact me via the [contact form](https://tally.so/r/gDZMrJ) or through the contact details provided on this site.
 

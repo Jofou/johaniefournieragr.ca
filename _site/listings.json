@@ -7,7 +7,7 @@
     ]
   },
   {
-    "listing": "/fr/posts.html",
+    "listing": "/fr/index.html",
     "items": [
       "/fr/posts/introduction/index.html",
       "/fr/posts/welcome/index.html"
@@ -30,7 +30,7 @@
     ]
   },
   {
-    "listing": "/fr/index.html",
+    "listing": "/fr/posts.html",
     "items": [
       "/fr/posts/introduction/index.html",
       "/fr/posts/welcome/index.html"
