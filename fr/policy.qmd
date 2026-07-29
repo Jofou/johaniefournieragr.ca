@@ -13,19 +13,13 @@ En tant que responsable de la protection des renseignements personnels pour ce s
 
 ## Quels renseignements sont recueillis
 
-Lorsque vous remplissez le formulaire de contact (hébergé par Tally), les renseignements suivants peuvent être recueillis :
-- Nom
-- Adresse courriel
-- Toute information que vous choisissez d'inclure dans votre message
+Lorsque vous remplissez le formulaire de contact (hébergé par Tally), les renseignements suivants peuvent être recueillis : - Nom - Adresse courriel - Toute information que vous choisissez d'inclure dans votre message
 
 Ce site n'utilise actuellement aucun outil d'analyse (Google Analytics ou similaire) ni témoin de navigation (cookies) de suivi publicitaire.
 
 ## Pourquoi ces renseignements sont recueillis
 
-Les renseignements fournis via le formulaire de contact sont utilisés uniquement pour :
-- Répondre à votre demande
-- Évaluer la pertinence d'un mandat professionnel
-- Assurer un suivi si une relation d'affaires est établie
+Les renseignements fournis via le formulaire de contact sont utilisés uniquement pour : - Répondre à votre demande - Évaluer la pertinence d'un mandat professionnel - Assurer un suivi si une relation d'affaires est établie
 
 Vos renseignements ne sont jamais vendus, loués, ni partagés avec des tiers à des fins commerciales.
 
@@ -39,11 +33,7 @@ Vos renseignements sont conservés uniquement le temps nécessaire pour répondr
 
 ## Vos droits
 
-Conformément à la Loi 25, vous avez le droit de :
-- Accéder aux renseignements personnels que je détiens à votre sujet
-- Faire rectifier des renseignements inexacts, incomplets ou périmés
-- Retirer votre consentement à la collecte ou à l'utilisation de vos renseignements
-- Demander la suppression de vos renseignements, sous réserve de mes obligations légales de conservation
+Conformément à la Loi 25, vous avez le droit de : - Accéder aux renseignements personnels que je détiens à votre sujet - Faire rectifier des renseignements inexacts, incomplets ou périmés - Retirer votre consentement à la collecte ou à l'utilisation de vos renseignements - Demander la suppression de vos renseignements, sous réserve de mes obligations légales de conservation
 
 Pour exercer l'un de ces droits, contactez-moi via le [formulaire de contact](https://tally.so/r/gDZMrJ) ou par les coordonnées indiquées sur ce site.
 
